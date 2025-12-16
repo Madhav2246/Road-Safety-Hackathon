@@ -1,0 +1,144 @@
+/* ROOT */
+.home-root {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background: #f4f7fb;
+  color: #1f2937;
+}
+
+/* HEADER */
+.gov-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: linear-gradient(90deg, #0f172a, #020617);
+  color: white;
+  padding: 16px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gov-title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.gov-subtitle {
+  display: block;
+  font-size: 12px;
+  color: #cbd5f5;
+}
+
+.gov-nav a {
+  margin-right: 24px;
+  color: #e5e7eb;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.gov-nav button {
+  background: #0ea5e9;
+  border: none;
+  padding: 10px 18px;
+  color: white;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* HERO */
+.hero {
+  padding: 100px 20px;
+  text-align: center;
+  background: #ffffff;
+}
+
+.hero h1 {
+  font-size: 42px;
+  max-width: 900px;
+  margin: 0 auto 20px;
+}
+
+.hero p {
+  max-width: 720px;
+  margin: 0 auto 40px;
+  font-size: 18px;
+  color: #475569;
+}
+
+.primary-btn {
+  background: #16a34a;
+  color: white;
+  padding: 16px 40px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+/* SECTIONS */
+.section {
+  padding: 90px 12%;
+}
+
+.section.light {
+  background: #ffffff;
+}
+
+.section.dark {
+  background: #020617;
+  color: #e5e7eb;
+}
+
+.section h2 {
+  font-size: 34px;
+  margin-bottom: 30px;
+}
+
+.section p {
+  font-size: 17px;
+  line-height: 1.7;
+  max-width: 900px;
+}
+
+/* WORKFLOW */
+.workflow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 32px;
+  margin-top: 40px;
+}
+
+.step {
+  background: white;
+  color: #111827;
+  padding: 28px;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.section.dark .step {
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+/* FOOTER */
+.gov-footer {
+  background: #020617;
+  color: #cbd5f5;
+  padding: 40px;
+  text-align: center;
+  font-size: 14px;
+}
+
+/* ANIMATIONS */
+.reveal {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s ease;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}

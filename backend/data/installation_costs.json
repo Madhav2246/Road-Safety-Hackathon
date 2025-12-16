@@ -1,0 +1,55 @@
+{
+  "SPEED_LIMIT_SIGN": {
+    "rate": 2500,
+    "unit": "job"
+  },
+  "SCHOOL_AHEAD_SIGN": {
+    "rate": 2500,
+    "unit": "job"
+  },
+  "INFORMATORY_SIGN": {
+    "rate": 2500,
+    "unit": "job"
+  },
+  "REGULATORY_SIGN_NOPARK": {
+    "rate": 2500,
+    "unit": "job"
+  },
+
+  "ROAD_MARKING": {
+    "rate": 1800,
+    "unit": "job"
+  },
+  "ZEBRA_CROSSING": {
+    "rate": 1800,
+    "unit": "job"
+  },
+
+  "ROAD_STUDS": {
+    "rate": 3000,
+    "unit": "job"
+  },
+
+  "DELINEATOR": {
+    "rate": 2200,
+    "unit": "job"
+  },
+  "FLEXIBLE_MEDIAN_MARKER": {
+    "rate": 2200,
+    "unit": "job"
+  },
+
+  "POTHOLE_REPAIR": {
+    "rate": 4500,
+    "unit": "job"
+  },
+
+  "SOLAR_BLINKER": {
+    "rate": 6000,
+    "unit": "job"
+  },
+  "STREET_LIGHT": {
+    "rate": 6000,
+    "unit": "job"
+  }
+}

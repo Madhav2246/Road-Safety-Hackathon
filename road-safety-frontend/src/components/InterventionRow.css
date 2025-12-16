@@ -1,0 +1,51 @@
+.intervention-row {
+  display: flex;
+  gap: 20px;
+  padding: 22px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: #ffffff;
+  transition: box-shadow 0.2s ease;
+}
+
+.intervention-row:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+}
+
+.row-index {
+  font-size: 22px;
+  font-weight: 700;
+  color: #2563eb;
+  min-width: 40px;
+}
+
+.row-content {
+  flex: 1;
+}
+
+.intervention-text {
+  width: 100%;
+  min-height: 70px;
+  resize: vertical;
+  font-size: 15px;
+  padding: 10px;
+  border: 1px solid #cbd5f5;
+  border-radius: 6px;
+  font-family: inherit;
+}
+
+.row-meta {
+  margin-top: 12px;
+}
+
+.row-meta label {
+  font-size: 13px;
+  color: #475569;
+}
+
+.row-meta input {
+  margin-left: 10px;
+  padding: 6px 10px;
+  border: 1px solid #cbd5f5;
+  border-radius: 6px;
+}

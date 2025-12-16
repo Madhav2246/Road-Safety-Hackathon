@@ -1,0 +1,232 @@
+{
+  "SPEED_LIMIT_SIGN": {
+    "intervention": "speed_limit_sign",
+    "input_params": ["count", "diameter_mm", "post_height_m"],
+    "defaults": {
+      "count": 1,
+      "diameter_mm": 600,
+      "post_height_m": 2.5,
+      "concrete_m3_per_sign": 0.04
+    },
+    "materials": [
+      {"code": "ALUMINIUM_PLATE_m2", "qty_formula": "math.pi * ((diameter_mm/1000.0)/2.0)**2"},
+      {"code": "RETRO_SHEETING_TypeXI_m2", "qty_formula": "math.pi * ((diameter_mm/1000.0)/2.0)**2"},
+      {"code": "MS_POST_75mm_nos", "qty_formula": "count"},
+      {"code": "CONCRETE_FOUNDATION_m3", "qty_formula": "count * concrete_m3_per_sign"},
+      {"code": "BOLTS_FIXTURES_set", "qty_formula": "count"}
+    ],
+    "notes": "Circular regulatory sign; 600 mm diameter per IRC:67. Post height 2.3–2.5m per urban/rural practice. Concrete footing ≈0.04 m3 per MoRTH/CPWD.",
+    "sources": ["IRC:67-2022", "MoRTH 5th Revision"]
+  },
+
+  "SCHOOL_AHEAD_SIGN": {
+    "intervention": "school_ahead_sign",
+    "input_params": ["count", "side_mm"],
+    "defaults": {
+      "count": 1,
+      "side_mm": 700,
+      "concrete_m3_per_sign": 0.04
+    },
+    "materials": [
+      {"code": "ALUMINIUM_PLATE_m2", "qty_formula": "((3**0.5)/4.0) * ((side_mm/1000.0)**2)"},
+      {"code": "FLUORESCENT_RETRO_SHEETING_m2", "qty_formula": "((3**0.5)/4.0) * ((side_mm/1000.0)**2)"},
+      {"code": "MS_POST_75mm_nos", "qty_formula": "count"},
+      {"code": "CONCRETE_FOUNDATION_m3", "qty_formula": "count * concrete_m3_per_sign"}
+    ],
+    "notes": "Triangular warning sign; 700 mm side as per IRC:67. Fluorescent yellow-green sheeting compulsory for school zones.",
+    "sources": ["IRC:67-2022"]
+  },
+
+  "INFORMATORY_SIGN": {
+    "intervention": "informatory_sign",
+    "input_params": ["count", "width_mm", "height_mm"],
+    "defaults": {
+      "count": 1,
+      "width_mm": 600,
+      "height_mm": 400,
+      "concrete_m3_per_sign": 0.04
+    },
+    "materials": [
+      {"code": "ALUMINIUM_PLATE_m2", "qty_formula": "(width_mm/1000.0)*(height_mm/1000.0)"},
+      {"code": "RETRO_SHEETING_TypeIV_m2", "qty_formula": "(width_mm/1000.0)*(height_mm/1000.0)"},
+      {"code": "MS_POST_75mm_nos", "qty_formula": "count"},
+      {"code": "CONCRETE_FOUNDATION_m3", "qty_formula": "count * concrete_m3_per_sign"}
+    ],
+    "notes": "Rectangular informatory sign; 600x400 mm typical. Type IV sheeting normally used.",
+    "sources": ["IRC:67-2022"]
+  },
+
+  "REGULATORY_SIGN_NOPARK": {
+    "intervention": "no_parking_sign",
+    "input_params": ["count", "diameter_mm"],
+    "defaults": {
+      "count": 1,
+      "diameter_mm": 450,
+      "concrete_m3_per_sign": 0.04
+    },
+    "materials": [
+      {"code": "ALUMINIUM_PLATE_m2", "qty_formula": "math.pi * ((diameter_mm/1000.0)/2.0)**2"},
+      {"code": "RETRO_SHEETING_TypeXI_m2", "qty_formula": "math.pi * ((diameter_mm/1000.0)/2.0)**2"},
+      {"code": "MS_POST_65mm_nos", "qty_formula": "count"},
+      {"code": "CONCRETE_FOUNDATION_m3", "qty_formula": "count * concrete_m3_per_sign"}
+    ],
+    "notes": "Standard regulatory 'No Parking' sign; IRC allows 450 mm diameter for minor roads.",
+    "sources": ["IRC:67-2022"]
+  },
+
+  "ROAD_MARKING": {
+    "intervention": "longitudinal_marking",
+    "input_params": ["length_m", "width_mm"],
+    "defaults": {
+      "width_mm": 150,
+      "kg_per_m_at_150mm": 1.1
+    },
+    "materials": [
+      {"code": "THERMOPLASTIC_PAINT_kg", "qty_formula": "length_m * (kg_per_m_at_150mm * (width_mm / 150.0))"},
+      {"code": "GLASS_BEADS_kg", "qty_formula": "length_m * (width_mm/1000.0) * 0.25"}
+    ],
+    "notes": "Thermoplastic consumption 1.0–1.2 kg/m per 150 mm width; beads 250 g/m² as per MoRTH & IRC:35.",
+    "sources": ["IRC:35-2015", "MoRTH 5th Revision"]
+  },
+
+  "ZEBRA_CROSSING": {
+    "intervention": "zebra_crossing",
+    "input_params": ["road_width_m", "crossing_width_m"],
+    "defaults": {
+      "crossing_width_m": 3.0
+    },
+    "materials": [
+      {"code": "THERMOPLASTIC_PAINT_kg", "qty_formula": "road_width_m * crossing_width_m * 3.5"},
+      {"code": "GLASS_BEADS_kg", "qty_formula": "road_width_m * crossing_width_m * 0.25"}
+    ],
+    "notes": "Zebra stripes = 300 mm stripe + 300 mm gap → ~50% paint coverage. Paint consumption ~3.5 kg/m². Studs are NOT mandated by IRC and thus omitted.",
+    "sources": ["IRC:35-2015", "IRC:SP:73-2018"]
+  },
+
+  "ROAD_STUDS": {
+    "intervention": "road_studs",
+    "input_params": ["length_m", "spacing_m"],
+    "defaults": {
+      "spacing_m": 10,
+      "bi_directional": true
+    },
+    "materials": [
+      {"code": "ROAD_STUD_nos", "qty_formula": "int(max(1, round(length_m / spacing_m)))"},
+      {"code": "EPOXY_ADHESIVE_kg", "qty_formula": "0.05 * int(max(1, round(length_m / spacing_m)))"}
+    ],
+    "notes": "Default spacing 10 m for straight sections per IRC:35 Table 5.1. Curve spacing varies (shorter), to be handled separately.",
+    "sources": ["IRC:35-2015"]
+  },
+
+  "FLEXIBLE_MEDIAN_MARKER": {
+    "intervention": "fmm",
+    "input_params": ["length_m"],
+    "defaults": {
+      "spacing_m": 2
+    },
+    "materials": [
+      {"code": "FMM_nos", "qty_formula": "max(2, int(round(length_m / spacing_m)))"}
+
+    ],
+    "notes": "Typical spacing 2 m urban / 5 m rural per IRC:79. Default = 2m.",
+    "sources": ["IRC:79-2019"]
+  },
+
+  "DELINEATOR": {
+    "intervention": "delineators",
+    "input_params": ["length_m"],
+    "defaults": {
+      "spacing_m": 60
+    },
+    "materials": [
+      {"code": "DELINEATOR_nos", "qty_formula": "max(1, int(round(length_m / spacing_m)))"}
+      
+    ],
+    "notes": "Straight road spacing 50–70 m; curve spacing varies as per IRC:79 tables.",
+    "sources": ["IRC:79-2019"]
+  },
+
+  "POTHOLE_REPAIR": {
+    "intervention": "pothole_repair",
+    "input_params": ["area_m2", "depth_mm"],
+    "defaults": {
+      "depth_mm": 20
+    },
+    "materials": [
+      {"code": "PREMIX_VOLUME_m3", "qty_formula": "area_m2 * (depth_mm/1000.0)"},
+      {"code": "PREMIX_mass_kg", "qty_formula": "area_m2 * (depth_mm/1000.0) * 2300"}
+    ],
+    "notes": "20 mm depth typical for patch repair. Density ≈2300 kg/m³ for bituminous concrete.",
+    "sources": ["IRC:82-2023"]
+  },
+
+  "STREET_LIGHT": {
+    "intervention": "street_light",
+    "input_params": ["length_m"],
+    "defaults": {
+      "spacing_m": 30
+    },
+    "materials": [
+    
+      {"code": "STREET_LIGHT_POLE_nos", "qty_formula": "max(1, int(round(length_m / spacing_m)))"},
+      {"code": "LED_LUMINAIRE_nos", "qty_formula": "max(1, int(round(length_m / spacing_m)))"},
+      {"code": "CABLE_4C_10mm2_m", "qty_formula": "length_m * 1.2"},
+      {"code": "JUNCTION_BOX_nos", "qty_formula": "max(1, int(round(length_m / spacing_m)))"},
+      {"code": "EARTHING_kit_nos", "qty_formula": "max(1, int(round(length_m / spacing_m)))"}
+    ],
+    "notes": "Typical urban spacing 25–35 m. Exact layout depends on site. This BOM is simplified for estimation.",
+    "sources": ["IRC:SP:73-2018"]
+  },
+
+  "SOLAR_BLINKER": {
+    "intervention": "solar_blinker",
+    "input_params": ["count"],
+    "defaults": {"count": 1},
+    "materials": [
+      {"code": "SOLAR_BLINKER_unit_nos", "qty_formula": "count"},
+      {"code": "MOUNTING_BRACKET_set", "qty_formula": "count"}
+    ],
+    "notes": "As per IRC:93, blinkers must be functional. BOM simplified to unit + mounting hardware.",
+    "sources": ["IRC:93-1985"]
+  },
+
+  "GUARDRAIL": {
+    "intervention": "guardrail",
+    "input_params": ["length_m"],
+    "defaults": {"length_m": 1},
+    "materials": [
+      {"code": "W_BEAM_GUARDRAIL_m", "qty_formula": "length_m"},
+      {"code": "STEEL_POST_nos", "qty_formula": "int(math.ceil(length_m / 2.0))"}
+    ],
+    "notes": "Post spacing typically 2 m for W-beam systems as per MoRTH.",
+    "sources": ["MoRTH 5th Revision"]
+  },
+
+  "KERB_REPAIR": {
+    "intervention": "kerb_repair",
+    "input_params": ["length_m"],
+    "defaults": {"length_m": 1},
+    "materials": [
+      {"code": "KERB_CONCRETE_m3", "qty_formula": "length_m * 0.05"},
+      {"code": "KERB_STONE_nos", "qty_formula": "length_m"}
+    ],
+    "notes": "Concrete ≈0.045–0.05 m3/m for standard kerb section. One stone per meter.",
+    "sources": ["MoRTH 5th Revision"]
+  },
+
+  "HLC_EQUIPMENT": {
+    "intervention": "hybrid_lane_controller",
+    "input_params": ["count"],
+    "defaults": {"count": 1},
+    "materials": [
+      {"code": "HLC_unit_nos", "qty_formula": "count"},
+      {"code": "AVC_computer_nos", "qty_formula": "count"},
+      {"code": "PoE_switch_nos", "qty_formula": "1"}
+    ],
+    "notes": "Electronic ITS component. Quantities represent devices; pricing should use GeM/AOR.",
+    "sources": ["IRC:SP:73-2018"]
+  }
+
+  
+
+}

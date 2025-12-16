@@ -1,0 +1,121 @@
+{
+  "IRC:67-2022_14.8.8": {
+    "text": "The sign shall be located at the beginning of the road section covered by a speed restriction. Numerals indicating speed shall be in multiples of 5 km/h. Different speed limits for vehicle classes must be specified separately. Vehicle-type symbols may accompany the speed indication. Yellow backing board may be used in poor crash history or substandard curve locations. Advisory speed supplementary plate may also be attached.",
+    "keywords": ["speed limit", "regulatory sign", "speed restriction", "km/h", "vehicle type", "yellow backing board", "advisory speed", "supplementary plate"],
+    "materials_mentioned": ["yellow backing board", "supplementary plate"],
+    "dimensions_mentioned": ["multiples of 5 km/h"],
+    "notes": "Speed limit signs require proper positioning at start of restricted zone; yellow backing used for high-risk sections."
+  },
+
+  "IRC:67-2022_15.28": {
+    "text": "The sign should be erected where school buildings or grounds are adjacent to the road and where passing traffic may create a hazard to children. The background shall be fluorescent yellow-green. Supplementary boards showing school timings may be provided.",
+    "keywords": ["school ahead", "warning sign", "fluorescent yellow-green", "children safety", "school timings", "supplementary board"],
+    "materials_mentioned": ["fluorescent yellow-green sheeting", "supplementary board"],
+    "dimensions_mentioned": [],
+    "notes": "Use fluorescent yellow-green background. Supplementary school-timing boards may be added."
+  },
+
+  "IRC:67-2022_17.7": {
+    "text": "The sign shall be used to inform vehicles about an industrial area. It shall be placed at the beginning of such areas.",
+    "keywords": ["industrial area", "informatory sign", "location marking"],
+    "materials_mentioned": ["industrial area informatory sign"],
+    "dimensions_mentioned": [],
+    "notes": "Sign placement must be at the start of the industrial area."
+  },
+
+  "IRC:67-2022_15.9": {
+    "text": "The side road sign should be erected in advance of intersections where entering traffic and restricted sight distance may create a hazard. The sign warns drivers of an approaching junction unless other indications such as direction signs or signals are provided.",
+    "keywords": ["side road", "warning sign", "intersection", "restricted sight distance", "hazard", "advance warning"],
+    "materials_mentioned": ["side road warning sign"],
+    "dimensions_mentioned": [],
+    "notes": "Used where entering traffic volume and sight distance pose risk; not needed if other intersection control devices exist."
+  },
+
+  "IRC:67-2022_14.7.5": {
+    "text": "The 'No Parking' sign is used in urban areas to prevent parking that may cause congestion. It may include time restrictions. Signs shall be placed at the start and end of prohibition zones within 25 m and spaced approximately 100 m apart or not more than 30 m where needed. If used without road markings, placement should be strategic. Electronic variable message signs may be used for dynamic restrictions.",
+    "keywords": ["no parking", "regulatory sign", "urban roads", "parking restriction", "time restriction", "sign spacing", "variable message sign"],
+    "materials_mentioned": ["no parking sign", "supplementary time plate", "variable message sign"],
+    "dimensions_mentioned": ["25 m", "100 m", "30 m"],
+    "notes": "Spacing and placement guidelines ensure visibility; VMS may be used for dynamic restrictions."
+  },
+
+  "IRC:67-2022_15.27": {
+    "text": "The pedestrian crossing warning sign should be erected in advance on both approaches to uncontrolled pedestrian crossings. At crash-prone locations, the sign should be repeated closer to the crossing with a supplementary plate indicating distance.",
+    "keywords": ["pedestrian crossing", "warning sign", "uncontrolled crossing", "supplementary plate", "crash-prone"],
+    "materials_mentioned": ["pedestrian crossing warning sign", "supplementary distance plate"],
+    "dimensions_mentioned": ["10 m", "20 m"],
+    "notes": "Repeat sign at short distances for crash-prone locations with supplementary distance plate."
+  },
+
+  "IRC:35-2015_3.1": {
+    "text": "Longitudinal markings include broken, single, and double continuous lines. Broken lines may be crossed; continuous lines are not to be crossed. These markings guide drivers and prohibit dangerous maneuvers. Yellow continuous markings indicate strict prohibition. Double continuous lines reinforce non-crossing behaviour.",
+    "keywords": ["longitudinal marking", "continuous line", "broken line", "prohibitive marking", "lane boundary", "yellow marking"],
+    "materials_mentioned": ["thermoplastic paint", "yellow marking material"],
+    "dimensions_mentioned": [],
+    "notes": "Yellow lines indicate strict prohibition; double continuous lines reinforce compliance."
+  },
+
+  "IRC:35-2015_11.3": {
+    "text": "Pedestrian crossings shall be provided at important intersections. Stop lines must precede zebra crossings. Refuge islands required when crossing length exceeds 10.5 m. Zebra crossing width must be between 2.0 m and 4.0 m and not less than footpath width. Road studs to enhance visibility at night. Kerb height should not exceed 50 mm for accessibility.",
+    "keywords": ["pedestrian crossing", "zebra crossing", "stop line", "refuge island", "road studs", "kerb height", "visibility"],
+    "materials_mentioned": ["road studs", "zebra marking", "stop line marking"],
+    "dimensions_mentioned": ["10.5 m", "1.2 m", "50 mm", "2.0 m", "4.0 m"],
+    "notes": "Provide refuge islands for long crossings; zebra width dictated by pedestrian volume and footpath width."
+  },
+
+  "IRC:35-2015_5.4.6": {
+    "text": "Uni-directional carriageways use studs with one coloured face. Bi-directional carriageways use studs with two coloured faces, in combinations such as red-white, white-white, or yellow-yellow.",
+    "keywords": ["road studs", "uni-directional", "bi-directional", "colour coding"],
+    "materials_mentioned": ["road studs"],
+    "dimensions_mentioned": [],
+    "notes": "Colour coding depends on carriageway directionality."
+  },
+
+  "IRC:SP:73-2018_9.8.4": {
+    "text": "Pedestrian crossings shall be provided where substantial conflict exists between pedestrian and vehicular movement. Crosswalks must have adequate visibility, minimal detour, obstruction-free approaches. Zebra crossings shall not be within 150 m of another. Width generally 2.0–4.0 m. Guardrails may be required near crossings.",
+    "keywords": ["pedestrian crossing", "crosswalk", "zebra crossing", "visibility", "guard rails", "uncontrolled crossing", "controlled crossing"],
+    "materials_mentioned": ["zebra crossing markings", "pedestrian guard rails", "studs"],
+    "dimensions_mentioned": ["150 m", "2.0 m", "4.0 m"],
+    "notes": "Ensure adequate visibility; maintain 150 m spacing between zebra crossings."
+  },
+
+  "IRC:SP:73-2018_12.4": {
+    "text": "Hybrid Lane Controller (HLC) manages toll lane subsystems including AVC, displays, cameras, and power systems. It communicates with the toll management server in real time. The system includes lane computer, AVC computer, PoE switch, relays, terminal blocks, and enclosure with protection. Devices must meet industrial and IEC/NEMA standards.",
+    "keywords": ["hybrid lane controller", "toll system", "AVC", "lane computer", "PoE switch", "UPS", "industrial enclosure"],
+    "materials_mentioned": ["HLC unit", "AVC computer", "PoE switch", "UPS", "electronic enclosure"],
+    "dimensions_mentioned": ["4 hours backup"],
+    "notes": "HLC handles lane automation; requires industrial-grade equipment and redundancy."
+  },
+
+  "IRC:82-2023_7.5.3.5": {
+    "text": "Pothole rectification consists of filling potholes with open graded or dense graded premix. Cold mixes, storable mixes, readymade mixes, or mixes applied through patching machines may be used.",
+    "keywords": ["pothole repair", "premix", "cold mix", "hot mix", "patching machine"],
+    "materials_mentioned": ["cold mix", "hot mix", "ready mix"],
+    "dimensions_mentioned": [],
+    "notes": "Different mix types allowed depending on urgency and local conditions."
+  },
+
+  "IRC:93-1985_4.2": {
+    "text": "Flashing amber cautions drivers to proceed through an intersection with caution. Flashing amber arrows allow movement in the indicated direction with caution.",
+    "keywords": ["flashing amber", "caution signal", "amber arrow", "traffic signal"],
+    "materials_mentioned": ["amber signal light"],
+    "dimensions_mentioned": [],
+    "notes": "Used to warn drivers; allows movement with caution."
+  },
+
+  "IRC:79-2019_4": {
+    "text": "Flexible Median Markers (FMM) improve median visibility at night and during severe weather. They shall use fluorescent yellow Type XI retro reflective sheeting and a tough flexible thermoplastic body. Minimum dimensions: height 180 mm, width 120 mm, thickness 6.5 mm. Reflective area ≥ 90 cm². Installed using epoxy adhesive and grouting.",
+    "keywords": ["flexible median marker", "median visibility", "Type XI sheeting", "fluorescent yellow", "thermoplastic"],
+    "materials_mentioned": ["flexible thermoplastic body", "Type XI reflective sheeting", "epoxy adhesive", "grouting"],
+    "dimensions_mentioned": ["180 mm", "120 mm", "6.5 mm", "90 cm²", "20 mm", "30 mm"],
+    "notes": "FMM must use Type XI reflective sheeting; fixed using epoxy and grouting on medians."
+  },
+
+  "IRC:79-2019_3": {
+    "text": "Roadway indicators (delineators) are guide posts made of mild steel with powder coating or thermoplastic body. Height 800–900 mm, base 200–300 mm. They must use Type XI retroreflective sheeting with alternating black and white bands. Spacing: 50–70 m on straight sections; closer on curves per Table 1. Used on curves, fog zones, transitions, culvert approaches, and hilly terrain.",
+    "keywords": ["roadway indicator", "delineator", "guide pole", "Type XI sheeting", "MS pole", "spacing", "visibility", "curves"],
+    "materials_mentioned": ["MS guide pole", "thermoplastic body", "Type XI sheeting"],
+    "dimensions_mentioned": ["800 mm", "900 mm", "200 mm", "300 mm", "50 m", "70 m"],
+    "notes": "Spacing depends on curve radius; indicators improve nighttime and curve visibility."
+  }
+}

@@ -1,0 +1,3971 @@
+IRC:67-2012
+/AIk
+STOP
+^1IF^^^^^
+STOP SIGN*
+COMPULSORY CYCLE
+TRACK/CYCLE ONLY
+HHHHi
+NATIONAL HIGHWAY
+ROUTE MARKER SIGNCODEOFPRACTICE
+FOR
+ROAD SIGNS
+(Third Revision)
+
+
+
+Digitized bytheInternet Archive
+in2014
+https://archive.org/details/govlawircy2012sp67_0
+
+IRC:67-2012
+CODE OFPRACTICE
+FOR
+ROAD SIGNS
+(Third Revision)
+Published by:
+INDIAN ROADS CONGRESS
+Kama KotiMarg,
+Sector-6, R.K.Puram,
+New Delhi-110 022
+July2012
+Price 1,000
+(Plus Packing &Postage)
+
+IRC:67-2012
+FirstPublished March, 1978
+Third RevisionSecond RevisionFirstRevision July,2001
+May,2010
+July,2012
+(AllRights Reserved. Nopartofthispublication shallbereproduced,
+translated ortransmitted inanyformorbyanymeans without the
+permission oftheIndian Roads Congress)
+Printed at:India Offset Press, A1-Mayapuri Ind.,AreaPhase I,New Delhi
+(1000 Copies)
+
+CONTENTSIRC:67-2012
+Page No.
+Presonnel oftheHighways Specifications andStandards Committee (i)
+1. Introduction 1
+2. General 2
+3. Classification ofRoad Signs 4
+4. Siting ofSigns withrespect totheCarriageway 6
+5. Orientation ofSigns 8
+6. Material forSigns 9
+7. Posts andMountings forSigns 19
+8. Colour forSigns 19
+9. Size ofSigns 21
+10. Visibility ofSigns 21
+11. Size ofLetters 21
+12. Maintenance ofSigns 23
+13. Definition Plates/Supplementary Plates 24
+14. Mandatory/Regulatory Signs 24
+15. Cautionary/Warning Signs 36
+16. Informatory Signs 46
+17. Facility Information Signs 50
+18. Other useful Information Signs 54
+19. Signs forPersons with Disabilities 55
+20. Route Marker Signs 56
+21 .Guidelines forSigns onExpressways 58
+22. Guidelines forSigns onUrban andCityRoads 60
+23. Sign PlanExamples forTypical Situations 62
+Plate-I
+StopandGiveWaySigns 65
+NoParking andNoStopping Signs 70
+Vehicle Control Signs andSpeed Limit 71
+Restriction Ends Signs 72
+Compulsory Control andOther Signs 72
+Plate-I I
+Cautionary Warning Signs 76
+
+IRC:67-2012
+Page No.
+Plate-Ill
+Informatory Signs 90
+Plate-IV
+Facility Information Signs 99
+Parking Signs 106
+Signs forPersons with Disabilities 108
+Route Marker Signs 110
+Annexure-I ListofMandatory/Regulatory Signs 113
+Annexure-ll ListofCautionary/Warning Signs 115
+Annexure-lll Rules andTechnical Advisory forDesign of
+Informatory Road Signs
+Annexure-IV Facility Information Signs 124
+Annexure-V Figs. V.1toV.10 127
+Annexure-VI Determination of"X"Height forDirection Signs^(Shoulder &Gantry Mounted)
+
+IRC:67-2012
+PERSONNEL OFTHEHIGHWAYS SPECIFICATIONS
+ANDSTANDARDS COMMITTEE
+1. Indoria, R.P.
+(Convenor)
+2. Kandasamy, C.
+(Co-Convenor)
+3. Kumar Manoj
+(Member-Secretary)
+4. Alam, Parwez
+5. Basu, S.B.
+6. Bongirwar, RL.
+7. Bordoloi, A.C.
+8. Chandrasekhar, Dr.B.P.
+9. Datta, P.K.
+10. Gangopadhyay, Dr.S.
+11. Gupta, D.P.
+12. Gupta, K.K.
+13. Jain, R.K.
+14. Jain, Dr.S.S.
+15. Jain, N.S.
+16. Kadiyali, Dr.L.R.
+17. Katare, P.K.
+18. Krishna, Prabhat
+19. Kumar, Ashok
+20. Kumar, Mahesh
+21. Kurian, Jose
+22. Momin, S.S.(Ason23rdSeptember, 2011)
+Director General (Road Development) &Spl.Secretary,
+Ministry ofRoad Transport &Highways, New Delhi
+Addl. Director General, Ministry ofRoad Transport &
+Highways, New Delhi
+Chief Engineer (R)S&R, Ministry ofRoad Transport &
+Highways, New Delhi
+Members
+Vice-President, Hindustan Constn. Co. Ltd.,Mumbai
+Chief Engineer (Retd.) MoRT&H, New Delhi
+Advisor, L&T,Mumbai
+Chief Engineer (NH)Assam, Guwahati
+Director (Tech.), National Rural Roads Development
+Agency, New Delhi
+Executive Director, Consulting Engg. Services (I)Pvt.
+Ltd.,New Delhi
+Director, Central Road Research Insitute, New Delhi
+Director General (RD)&AS(Retd.), MoRT&H, New
+Delhi
+Chief Engineer (Retd.), Haryana PWD, Faridabad
+Chief Engineer (Retd.), Haryana PWD, Sonepat
+Professor &Coordinator, Centre ofTransportation
+Engg., NTRoorkee
+Chief Engineer (Retd.) MoRT&H, New Delhi
+Chief Executive, L.R. Kadiyali &Associates, New Delhi
+Director (Project-Ill), National RuralRoads Development
+Agency, (Ministry ofRural Development), New Delhi
+Chief Engineer (Retd.) Ministry ofRoad Transport &
+Highways, New Delhi
+Chief Engineer, Ministry ofRoad Transport &Highways,
+New Delhi
+Engineer-in-Chief, Haryana PWD, Chandigarh
+Chief Engineer, DTTDC Ltd,New Delhi
+Former Member, Maharashtra Public Service
+Commission, Mumbai
+i
+
+IRC:67-2012
+23. Nashkar, S.S.
+24. Patankar, V.L.
+25. Pradhan, B.C.
+26. Prasad, D.N.
+27. Raju, Dr.G.V.S.
+28. Rathore, S.S.
+29. Reddy Dr,T.S.
+30. Reddy, K.Siva
+31. Sharma, Dr.V.M.
+32. Sharma, S.C.
+33. Shukla, R.S.
+34. Singh, Nirmal Jit
+35. Sinha, A.K.
+36. Sinha, A.V.
+37. Sinha, B.N.
+38. Sinha, S.
+39. Yadav, Dr.V.K.
+40. Chief Engineer (Pig.)
+1. President, IRC
+2. Director General (RD)&
+Spl.Secretary, MORTH/
+Secretary General, IRC
+1. Agarwal, M.K.
+2. Borge, V.B.
+3. Justo, Dr.C.E.G.
+4. Khattar, M.D.Chief Engineer (NH),PW(R),Kolkata
+Member (Tech.), National Highways Authority ofIndia,
+New Delhi
+Chief Engineer (NH), Govt ofOrissa, Bhubaneshwar
+Chief Engineer (NH),RCD, Patna
+Chief Engineer (R&B), Andhra Pradesh, Hyderabad
+Principal Secretary oftheGovt, ofGujarat, R&B Deptt.
+Gandhinagar
+Ex-Scientist, Central Road Research Institute, New
+Delhi
+Engineer-in-Chief (R&B) Andhra Pradesh, Hyderabad
+Consultant, AIMIL, New Delhi
+Director General (RD)&AS(Retd.), MoRT&H, New
+Delhi
+Ex-Scientist, Central Road Research Institute, New
+Delhi
+Director General (RD)&SS(Retd.), MoRT&H, New
+Delhi
+Chief Engineer, (NH), UP,PWD, Lucknow
+Director General (RD)&SS(Retd.), MoRT&H, New
+Delhi
+Member (Project), National Highways Authority ofIndia,
+New Delhi
+Addl. Chief Transportation Engineer, CIDCO, Navi
+Mumbai
+Addl. Director General, DGBR, New Delhi
+Ministry ofRoad Transport &Highways, New Delhi
+Ex-Officio Members
+(Yadav, Dr.V.K.), Addl. Director General, DGBR. New
+Delhi
+(Indoria, R.P.) Ministry ofRoad Transport &Highways
+New Delhi
+Corresponding Members
+Engineer-in-Chief (Retd.), Haryana PWD
+Secretary (Roads) (Retd.), Maharashtra PWD, Mumbai
+Emeritus Fellow, Bangalor University, Bangalore
+Consultant, Runwal Centre, Mumbai
+ii
+
+IRC:67-2012
+1INTRODUCTION
+1.1 Road signs, which have thebacking oflaw inIndia, areincorporated intheMotor
+Vehicles Act,1988.
+1.2 TheMotor Vehicles Act, 1988hascovered allthesigns warranted bydifferent traffic
+situations. Thedesigns ofsigns arefullydimensioned. Further, thesigns have uniformity, and
+mostly symbols areused toconvey themessage, especially inthecase ofregulatory signs.
+1.3 TheIRCCode ofPractice forRoad Signs setsoutthemethodology tobefollowed in
+theuse,placement, construction andmaintenance oftheroadsigns forallcategories ofroads
+including expressways. Theroadsigns adopted inthiscode are inharmony withProtocol on
+Road Signs andSignals ofUnited Nations Conference onRoad andMotor Transport, 1949
+andVienna Convention onRoad Signs andSignals, 1968.
+1.4 TheSecond Revision ofIRCCode ofPractice forRoad Signswasreviewed bythe
+Transport Planning, Traffic Engineering andRoad Safety Committee oftheIndian Roads
+Congress initsmeeting heldon13thOctober, 2010 based oncomments received from
+somemembers and itconstituted aSub-group with ShriNirmal JitSingh astheConvenor
+andincluding Shri D.P.Gupta, Dr.(Mrs.) Geetam Tiwari andShriS.B.Basu asmembers to
+review thecodeandsuggest modifications/amendments ifanyrequired. TheSub-group after
+deliberations further Co-opted Prof. P.K.Sikdar, ShriJacob George and Dr.Surinder Mohan
+asco-opted members oftheabove Sub-group considering their richexperience. The entire
+Sub-group reviewed thedocument indetail andrestructured itbyrelating sizeandspacing
+ofsigns withrespect todesign speed oftheroad, including guidelines forselection ofretro-
+reflective sheeting, incorporating somenewsigns andincluding illustrative examples ofsign
+plans fordifferent commonly occurring situations. Themodified codewasconsidered by
+theTransport Planning, Traffic Engineering andRoad Safety Committee (Personnel given
+below) initsmeeting heldon13thSeptember, 2011andapproved forforwarding toIRC for
+consideration bytheHighways Specifications andStandards Committee after modifications
+based oncomments ofthemembers.
+Sharma, S.C.
+Gangopadhyay, Dr.S.
+Velmurugan, Dr.S.Convenor
+Co-Convenor
+Member-Secretary
+Members
+Basu, S.B.
+Bajpai, R.K.
+Chandra, Dr.Satish
+Gaijria, Maj.Gen. K.T.Parida, Dr.M.
+Raju, Dr.MP.
+Ranganathan, Prof. N.
+Singh, Pawan Kumar
+1
+
+IRC:67-2012
+Gupta, DP.
+Gupta, Dr.Sanjay
+Kadiyali, Dr.L.R.
+Kandasamy, C.
+Kumar, Sudhir
+Mittal, Dr.(Mrs.) Nishi
+Pal,Ms.Nirnisha
+Palekar, R.C.
+Bahadur, A.P
+Reddy, Dr.T.S
+President, IRC
+Director General (RD)&
+Spl.Secretary, MORTH
+Secretary General, IRCSikdar, Dr.P.K.
+Singh, Nirmal Jit
+Singh, Dr.(Ms.) Raj
+Tiwari, Dr.(Mrs.) Geetam
+Jt.Comm. ofDelhi Police
+(Traffic) (Satyendra Garg)
+Director (Tech.), NRRDA
+(Dr.B.P.Chandrasekhar)
+Representative ofE-in-C,NDMC
+Corresponding Members
+Rao. Prof. K.V.Krishna
+Sarkar, J.R
+Tare, Dr.(Mrs.) Vandana
+Ex-Officio Members
+(Yadav, Dr.V.K)
+(Indoria, R.P.)
+(Indoria, R.P.)
+1.5 TheHighways Specifications andStandards Committee approved thedraft inits
+meeting heldon23rdSeptember, 2011. Thereafter, theCouncil ofIRC initsmeeting held
+atLucknow on3rdNovember, 2011 considered theThird Revision' ofIRC-67 presented by
+ShriNirmal JitSingh, Convenor oftheSub-group andapproved thedocument forpublication
+suggesting minor modifications. TheCouncil alsoauthorized ShriNirmal JitSingh tooversee
+theincorporation oftheminor comments andsuggestions oftheCouncil before itissent
+forprinting. Further, asmall group consisting ofShriNirmal JitSingh (Convenor), Prof. P.K.
+Sikdar, ShriJacob George andDr.S.Velmurugan accomplished theabove tasks ofaddressing
+thecomments/suggestions oftheCouncil andsubmitted thefinalversion ofthedocument to
+IRC forprinting.
+2GENERAL
+2,1 Purpose ofRoad Signs
+Thepurpose ofroad signs istopromote road safety and efficiency byproviding forthe
+orderly movement ofallroad users onallroads inbothurban andnon-urban areas. Road
+signs notify road users ofregulations andprovide warning andguidance needed forsafe,
+uniform and efficient operation.
+2
+
+IRC:67-2012
+2.2 Principles ofRoad Signs
+ThisCode contains thebasic principles thatgovern thedesign anduseofroad signs for all
+categories ofroads including expressways open topublic travel irrespective ofroadagency
+having jurisdiction.
+Itisimportant thatthese principles begiven primary consideration intheselection and
+application ofeach road sign.Tobeeffective, aroad signshould meet fivebasic requirements:
+a) Fulfill aneed;
+b)Command attention;
+c) Convey aclearandsimple meaning;
+d)Command respect fromroad users; and
+e) Giveadequate time forresponse.
+Design, placement, operation, maintenance, and uniformity areaspects thatshould be
+carefully considered inorder tomaximize theability ofaroad sign tomeet these fivebasic
+requirements.
+2.3 Placement andOperation ofRoad Signs
+Placement ofroad signs should bewithin road user's view. Toaid inconveying proper
+meaning, road signs should bepositioned withrespect tothelocation orsituation towhich
+itapplies. Thelocation and legibility oftheroad signshould besuchastoprovide adequate
+response time toroadusers toreadandtake action attheoperating speed. Road signs or
+theirsupports shall notbearanyadvertising orothermessage that isnotrelated totraffic
+control. However, tourist-oriented directional signs andsigns relating tospecific wayside
+services andamenities should notbeconsidered asadvertising. Road signs should beplaced
+andoperated inauniform andconsistent manner. Road signs which arenotnecessary orno
+longer required should beremoved. The factthatasign isingood physical condition should
+notbeabasis fordeferring theremoval orchange, ifitissowarranted.
+2.4 Maintenance ofRoad Signs
+Maintenance ofroad signs should beensured toretain both thelegibility andthe visibility of
+thesign. Functional evaluation ofroadsigns should bedone todetermine atregular periodic
+intervals, whether certain signs need tobechanged tomeet current traffic conditions. Clean,
+legible, properly mounted signs ingood working condition command respect fromroad users.
+2.5 Uniformity ofRoad Signs
+Uniformity ofsigns simplifies thetask oftheroaduserbecause ithelps inrecognition and
+understanding, thereby reducing perception/reaction time. Uniformity assists road users,
+traffic police andhighway agencies bygiving everyone thesame interpretation message.
+Uniformity alsopromotes efficiency inmanufacture, installation andmaintenance. Uniformity
+means treating similar situations inasimilar way.Astandard sign, usedwhere itisnot
+appropriate, isasobjectionable asanonstandard sign.
+3
+
+IRC:67-2012
+2.6 Traffic Engineering Study
+Thedecision touseaparticular sign ataparticular location should bemade onthebasis of
+traffic engineering study and afteravery careful planning sothatcorrect anduniform signs
+areplaced atrequired locations.
+Authorities with responsibility for traffic control thatdonothave in-house engineering
+assistance cantake helpfrom traffic engineering consultant(s) oracademic andresearch
+institutions withdomain expertise.
+3CLASSIFICATION OFROAD SIGNS
+Road signs areclassified under thefollowing three heads:
+3.1 Mandatory/Regulatory Signs
+AllMandatory orRegulatory Signs arecircular
+inshape. Mandatory/Prohibitory Signs are to
+indicate the prohibition upon certain kind of
+vehicle maneuver andvehicle type like"overtaking
+prohibited" or"U-turn prohibited" or"cycles
+prohibited" and restriction onparking like"parking
+prohibited" and limitonvehicle speed andsize like
+"speed limit"and"maximum load limit" .They are
+withredcircular ringanddiagonal bars withblack
+symbols orarrows orletters onwhite background.
+The red ring indicates prohibitory regulation;
+andthediagonal redbarprohibits theaction or
+movement indicated bytheblack symbol.
+Mandatory signs giving positive instructions are
+circular withwhite symbol onabluebackground.
+They indicate what driver must docompulsorily.Prohibitory
+Regulation
+Operational
+Control
+Compulsory
+Direction Control
+Forexample, direction control signs are toFi9-3.1
+compulsorily regulate certain movements wherever therestriction applies.
+Theexceptions inshape aretheoctagonal redSTOP signandthetriangular GIVEWAY or
+YIELD sign.These twosigns provide indication about right ofway todrivers.
+Mandatory andregulatory signs need tobecomplied withandanyviolation oftherulesand
+regulations conveyed bythese signs isalegal offence. Examples ofthese signs areshown
+inFig. 3.1.
+4
+
+IRC:67-2012
+3.2 Cautionary/Warning Signs
+Cautionary/Warning signs are triangular in
+shape with redborder andblack symbol inwhite
+background used tocaution and alert theroad
+users topotential danger orexistence ofcertain
+hazardous conditions either onoradjacent tothe
+roadway sothattheytakethedesired action. These
+signs indicate aneed forspecial caution byroad
+users andmayrequire areduction inspeed orsome
+other manoeuvre. Some examples ofthese signs
+areHairpin Bend, Narrow Bridge, Gap inMedian,
+School Ahead etc.Anexample isshown inFig. 3.2.Cautionary/
+Warning
+Fig.3.2
+3.3 Informatory/Guide SignsFacility
+Information
+—*
+mk*.t*£*X* Jf.Iit
+11
+1:I313E.1 PI3Direction
+Information
+Fig.3.3AllInformatory signsandGuiding signs forfacilities
+arerectangular inshape.
+Informatory Signs forfacilities indicates location
+anddirection tofacilities like"fuel station" or"eating
+place" or"parking" and shallbeasymbol within a
+rectangular board withbluebackground.
+Information signs inrectangular shape arealso
+used with destination names anddistances with
+arrows indicating thedirection. Thecolour pattern
+ofdirection information sign ispresented in
+Table 8.3.These areused togivesuch information
+toroadusers which willhelpthem along theroute in
+most simple anddirect manner. Examples ofthese
+areshown inFig. 3.3.
+3.4 Road Classifications
+Generally roads areclassified asunder:
+a) Expressways
+b) National Highways
+c) State Highways
+d) Major District Roads
+e) RuralRoads (Other District Roads (ODR) andVillage Roads (VR))
+f) Urban (City)Roads
+The direction information signs fordifferent categories ofroad willhave different colour
+combinations asgiven inTable 8.3.
+5
+
+IRC:67-2012
+4SITING OFSIGNS WITHRESPECT TOTHECARRIAGEWAY
+4.1 Theroadsigns arethemeans ofcommunication totheroad users, especially drivers.
+Therefore, thesigns shallbesoplaced thatthedrivers canrecognize them easily and intime.
+Normally thesigns shallbeplaced onthe lefthand side oftheroad. Fortwolane roads,
+normally thesignsmaybeplaced onthe leftside ofthecarriageway, repeated ontheother
+side ofthecarriageway, iflocal conditions aresuch thatthesigns might notbeseen intime
+bythedrivers. Formultilane divided roads thesignsmaybeplaced onleftside ofeach
+carriageway. Incase ofhillroads, thesigns shall generally beinstalled onthevalley side of
+theroad, unless traffic androad conditions warrant these tobeplaced onthe hillside.
+4.2 On allroads with orwithout kerbandwithorwithout shoulder, theextreme edge of
+theground mounted signadjacent totheroadway shallbeatadistance of600mm to3m
+from thecarriageway orpaved shoulder edgedepending upon thelocal conditions. Forroads
+withkerbs, itshall notbelessthan300mmaway from kerb line,but innocase shallanypart
+ofthesigncome intheway ofvehicular traffic.
+Gantry mounted signs should bemounted oncolumns preferably 7mormore from the
+nearest traffic lane, unless otherwise specified. Theminimum lateral offset isintended to
+keep itaway from vehicles thatmayusetheshoulder from striking thegantry column. Ifthere
+isasituation where this lateral clearance cannot bemaintained, thecolumn ofgantry sign
+shallbeshielded withW-Beam crash barrier forrequired runoutlength depending upon the
+setback distance between thepavement edge lineandcolumn ofgantry. Lesser clearances
+butnotlessthan 1.8mmaybeusedonconnecting roadways orramps atinterchanges.
+4.3 Onkerbed roads, thebottom edge ofthelowest sign shall notbelessthan 2.1m
+andnotmore than 2.5mabove thekerb.Onroads without kerb, thebottom edge ofthe
+lowest sign shall notbelessthan 2mandnotmore than 2.5mabove thecrown ofthe
+pavement. Where signs areerected above footpaths orinareas likely orintended tobeused
+bypedestrians, minimum headroom of2.1mistobeprovided.
+4A Where intheopinion ofthecompetent authority, asignwould beineffective ifplaced
+onthe lefthand sideshoulder ofaroad withdualcarriageway, itmaybeplaced onthemedian
+instead. Toimprove thevisibility ofthesigns onmulti-lane roads, theminimum height ofthe
+loweredge ofthesignshould bekeptas2.5mabove thehighest point ofthecarriageway.
+4.5 Thesigns shall besoplaced thatthese donotobstruct vehicular traffic onthe
+carriageway, and ifplaced ontheberm/footpath/refuge island cause least obstruction to
+pedestrians. Thedifference inlevelbetween theloweredge ofthesignandthecarriageway
+shallbeasuniform aspossible forsigns ofthesame class onthesame route.
+M Onmulti-lane roads, thesignsmayhave tobemounted overhead, asthiswould
+ensure better visibility andbeeffective incommunicating withthedrivers andother road
+users. Overhead signsmaybeused inlieu of,orasanadjunct to,ground signswhere the
+6
+
+IRC:67-2012
+situation sowarrants forproper information andguidance oftheroad user.Thefollowing
+conditions maybeconsidered while deciding about theprovision ofoverhead signs:
+• Traffic volume atornearcapacity
+• Complex interchange design
+• Three ormore lanes ineach direction
+• Restricted visibility
+• Highspeed traffic
+• Insufficient space forground mounted signs
+• Large percentage ofcommercial vehicles
+• Closely spaced interchanges
+4.7 From safety andaesthetic standpoints, overhead signs shallbemounted onoverhead
+bridge structures wherever possible. Overhead signs shall provide avertical clearance ofnot
+lessthan 5.5movertheentire width ofthepavement andshoulders. Where overhead sign
+supports cannot beplaced atasafedistance away from thelineoftraffic orinanotherwise
+protected site,theyshould either besodesigned astominimize theimpact forces orprotect
+motorists adequately byaphysical barrier orguard railofsuitable design. Encompassing all
+above requirements, theplacement ofsigns withrespect tocarriageway withrequired height
+andclearance isgiven inTable 4.1andFig. 4.1.
+4.8 Mandatory signs (e.g.Keep Left)ontraffic islands arenormally mounted sothatthe
+bottom edge isabout 1000mmabove thepaved surface. When several signs have tobe
+placed along thesame section ofroad, takecare thattheydonotobscure each other. And
+then locate thesigns ataminimum of0.6*V meters apart (where Visthe85thpercentile
+speed inkm/h). Signs arenormally erected onthe leftside oftheroad, butforextraemphasis
+asecond signmaybeplaced ontheright side oftheroadaswell. This isespecially useful
+onleft-hand curves. Wherever minimum lateral clearance cannot bemaintained forgantry
+columns fromshoulder edge line,suchexposed column shallbeprotected withcrash barrier.
+Table 4.1Height andClearance Required forSignPlacement
+Minimum (mm) Desirable (mm) Maximum (mm)
+A 600 1000 2500
+B 1000 2000 3000
+C 300 600 1000
+D 2000 2000 2500
+E 2100 2100 2500
+F 5500 6000 6500
+G 750
+H 5000
+I 5000 7000 9000
+J 1800 2000 2500
+7
+
+IRC:67-2012
+B
+DH
+/
+Shoulder
+Q,
+-Kerb D
+FootwayCarriageway
+Edge Line
+*—,—
+y
+Shoulder/ \yerge
+Fig.4.1Siting ofSigns withrespect toCarriageway
+(Height andClearance)
+5ORIENTATION OFSIGNS
+5.1 Thesigns unless otherwise stated shall normally beplaced atrightangles tothe
+lineoftravel oftheapproaching traffic. Signs relating
+toparking, however, should befixed atanangle
+(approximately) 15°tothecarriageway soastogive
+better visibility.
+5.2 Where light reflection from thesign face is
+encountered tosuch anextent astoreduce legibility,
+thesignshould beturned slightly away from theroadas
+shown inFig. 5.1 .Onhorizontal curves, thesignshould
+notbefixed normal tothecarriageway buttheangle
+ofplacement should bedetermined withregard tothe
+course oftheapproaching traffic.
+5.3 Signfaces arenormally vertical, butongradients
+itmaybedesirable to tiltasignforward orbackward
+from thevertical tomake itnormal tothe lineofsight
+andimprove theviewing angle.95°
+i iQ
+Fig.5.1
+8
+
+IRC:67-2012
+6MATERIAL FORSIGNS
+Thevarious materials andfabrication ofroadsigns shallconform tothefollowing requirements:
+6.1 Concrete: Concrete shallbeofM25grade.
+6.2 Reinforcing Steel: Reinforcing steel shallconform totherequirements ofIS1786
+unless otherwise specified.
+6.3 Bolts, NutsandWashers: High strength bolts shallconform toIS1367whereas
+precision bolts, nuts, etc.shallconform toIS1364.
+6.4 Plates andSupports: Plates andsupport sections forthesignposts shallconform
+toIS226and IS2062 oranyother stated ISspecification.
+6.5 Substrate: The substrate shall beeither Aluminum sheeting orAluminium
+Composite Material (ACM) conforming tofollowing sub-sections.
+6.5.1 Aluminium
+Aluminium sheets used forsignboards shallbeofsmooth, hardandcorrosion resistant
+aluminium alloyconforming toIS736 -Material Designation 24345 or1900.
+6.5.2 Aluminium Composite Materials (ACM)
+ACM sheets used forsignboards isasandwiched construction withathermoplastic core of
+'Low Density Polyethylene' (LDPE) between twothick skins/sheets ofaluminium with overall
+thickness of4mmand3mm,andaluminium skinthickness of0.4 -0.5mmand0.25-
+0.3mmrespectively onboth sides. The retro reflective sheeting must beapplied onthe
+topsurface withaluminum surface withrecommended surface preparation from sheeting
+manufacturer. Afluorocarbon coating maybeapplied overtheexposed surface ofaluminium
+toensure corrosion resistant andweather proofandthus shallconform torelevant ASTM.
+Themechanical properties of4mmand3mmACM and that ofitsaluminum skin shall
+conform totherequirement given inTable 6.1,when tested inaccordance withthetest
+methods mentioned against each ofthem.
+6.6 PlateThickness
+Shoulder mounted ground signs withamaximum sidedimension notexceeding 600mm
+shall notbelessthan 1.5mmthick withaluminium and3mmthick withaluminium composite
+material. Allother signs shallbeatleast 2mmthick withaluminium and4mm thick with
+aluminium composite material. Thethickness ofthesheet shallberelated tothesize of
+thesignand itssupport and shallbesuch that itdoes notbend ordeform under prevailing
+windandother loads. Alloverhead signsmade withaluminium composite material shallbe
+minimum 4mmthick towithstand windandother loads without deformation.
+9
+
+IRC:67-2012
+Table 6.1Specifications forAluminum Composite Material (ACM)
+S.No. Description Specification for4mm Specification for3mm
+Standard
+TestAcceptable Value Acceptable Value
+AMechanical Properties ofACM
+1 Peel offstrength with retro
+reflective sheeting. (Drum
+Peel Test)ASTM D903 Min.4N/mm Min.4N/mm
+2 Tensile strength ASTM E638 Min.40N/mm2Min.30N/mm2
+30.2% Proof Stress ASTM E638 Min.34N/mm2Min.34N/mm2
+4 Elongation ASTM E638 Min.6% Min.5%
+5 Flexural strength ASTM C393 Min.130N/mm2Min.120N/mm2
+6Shear strength withpunch
+shear testASTM D732 Min. 18N/mm2Min. 18N/mm2
+B Properties ofAluminium Skin
+1 Tensile strength (Rm) ASTM E8 Min.150N/mm2Min.130N/mm2
+2Modulus ofelasticity ASTM E8 Min.70,000 N/mm2Min.70,000 N/mm2
+3 Elongation ASTM E8 A„nMin.2% A50Min.2%
+4 0.2%Proof Stress ASTM E8 Min.110N/mm2Min.110N/mm2
+6.7 Retro Reflective Sheeting
+The retro reflective sheeting usedonthesigns shall consist ofwhite orcoloured sheeting
+having asmooth outer surface which hastheproperty ofretro reflection over itsentire surface.
+Itshallbeweather resistant andexhibit colour fastness. Itshallbenewandunused andshow
+noevidence ofcracking, scaling, and pitting, blistering, edge lifting orcurling andshallhave
+negligible shrinkage orexpansion. Acertificate ofhaving thesheeting tested forcoefficient of
+retro reflection, daytime colour andluminance, shrinkage, flexibility, linerremoval, adhesion,
+impact resistance, specular gloss andfungus resistance, 3years outdoor weathering and
+itshaving passed these tests shallbeobtained from International/Government Laboratory/
+Institute bythemanufacturer ofthesheeting and incase thecertificate isobtained from
+international agency, itshould alsobeobtained from Indian agency within 3years oflaunching
+ofproduct bythemanufacture inabroad. Alternatively, acertificate conforming toASTM
+Specification (D4956-09) onartificial accelerated weathering requirements from areputed
+laboratory inIndiacanbeaccepted provisionally. Insuch asituation, theEmployer/Client, if
+sodesires, could seek foraperformance guarantee which would bereleased after receipt of
+certificate meeting therequirement ofthree years outdoor weathering ofthesheeting. Retro
+reflective sheeting isdivided intothree classes asfollows:
+10
+
+IRC:67-2012
+CLASS ASHEETING: -Engineering andSuper Engineering Grade Sheeting asperASTM.
+D4956-09 Type Iand II.
+CLASS BSHEETING: -High Intensity andHigh Intensity Prismatic grade sheeting asper
+ASTM D4956-09 Type IIIand IV.
+CLASS CSHEETING: -AllMicro Prismatic grade sheets asperASTM D4956-09 Type VIII,
+IXand XI.
+6.7.1 Selection ofsheeting
+Performance characteristics ofsheeting Type ItoType IXused forroad signs arepresented
+respectively inTable 6.3toTable 6.9.The definition ofkeywords inunderstanding the
+performance characteristics aregiven below.
+"Retro-reflection" means thereflection oflightwhich isreturned indirections close tothe
+direction fromwhich itcame, and thisproperty being maintained evenoverwide variations of
+thedirection oftheincident radiation.
+"Observation angle (symbol a)" istheangle between the illumination axisandthe
+observation axisasshown inFig. 6.1.
+Fig.6.1
+"Entrance angle (symbol p)"means theangle from theillumination axis tothereference
+axis.Thereference axis isanaxisperpendicular totheretro reflective surface asshown in
+Fig. 6.2.
+Fig.6.2
+11
+
+IRC:67-2012
+"Coefficient ofretro-reflection R'"canbeobtained from theluminous intensity (I)ofthe
+retro-reflective area inthedirection ofobservation andtheillumination (E-L
+)ontheretro-
+reflective plane atrightangles tothedirection oftheincident lightandtheilluminated plane
+sample surface A,
+R'=I/E-1*A
+Thecoefficient ofretro-reflection R'isexpressed incandle persquare meter perlux(cd.rrr2
+.
+lx1).Though thesheeting asperASTM classification areavailable fromType ItoType IX,a
+"higher" type ofsheeting used intheASTM need notnecessarily imply that itisbetter than
+a"lower"-type sheeting, rather itmeets different performance characteristics. Each type of
+sheeting hascertain performance characteristics andthetype ofsheeting foraroadshould
+beselected which suits thesituation encountered byroad users inviewing thesigns on
+theparticular road. Forexample, sheeting with high coefficient ofretro reflection atsmall
+observation angle willgivebetter performance fordriver's viewing thesignfrom longdistances.
+Similarly, signs withwide observation angle givegood performance fordrivers encountering
+situations toobserve thesigns involving wide observation angle. Micro prismatic sheeting is
+preferred forgantry mounted overhead signs. Type IVmicro prismatic sheeting maybeused
+fordelineator posts.
+Table 6.2suggests ageneral guideline forselection ofsheeting considering theperformance
+characteristics ofeach type ofsheeting fordifferent category ofroads andalsooneconomic
+consideration and visibility requirements inIndian context. However, thechoice forselection
+oftype ofsheeting would restwiththeclient.
+Table 6.2Suggested Guidelines forUsage ofRetro-Reflective Sheeting
+Class of
+SheetingType of
+Sheeting
+(ASTM)Category ofRoad
+National/
+State
+HighwayMajor
+District
+RoadsRural
+RoadsUrban/
+City
+RoadsExpressway
+ClassAType I No Yes Yes No No
+Type II No Yes Yes No No
+Class BType III* Yes Yes Yes Yes No
+Type IV Yes Yes Yes Yes No
+ClassCType VIII Yes No No Yes Yes
+Type IX Yes No No Yes Yes
+Type XI Yes No No Yes Yes
+*Type IIIsheeting isavailable bothasglassbeaded andmicro prismatic technology asper
+ASTM D4956-09. The light reflecting efficiency ofglassbeaded sheeting islower than the
+micro prismatic sheeting.
+6.7.2 ClassA(Engineering grade sheeting)
+12
+
+IRC:67-2012
+6.7.2. 1Type Iengineering grade sheeting
+This sheeting shall beofenclosed lens glass bead type consisting ofmicroscopic lens
+elements embedded beneath thesurface ofasmooth, flexible, transparent, water-proof
+plastic, resulting inanon-exposed lens optical reflecting system. The retro-reflective surface
+aftercleaning withsoapandwater and indrycondition shallhave theminimum coefficient of
+retro-reflection (determined inaccordance withASTM D4956-09) asindicated inTable 6.3.
+Table 6.3Acceptable Minimum Co-efficient ofRetro-Reflection forType IEngineering Grade
+Sheeting (Candelas perLuxperSquare Meter)
+Observation AngleEntrance AngleWhite
+Yellow OrangeGreen Redo
+CQBrown
+0.2° -4° 70 50 25 9.0 14 4.0 1.0
+0.2° +30° 30 22 7.0 3.5 6.0 1.7 0.3
+0.5° -4°30 25 13 4.5 7.5 2.0 0.3
+0.5° +30° 15 13 4.0 2.2 3.0 0.8 0.2
+When totally wet,thesheeting shall notshow lessthan90percent ofthevalues, ofretro-
+reflection indicated inabove Table. Attheendof5years, thesheeting shall retain atleast
+50percent ofitsoriginal retro-reflectance.
+6.7.2.2Type IIsuper engineering grade sheeting
+This sheeting shall beofenclosed lensglass-bead type consisting ofmicroscopic lens
+elements embedded beneath thesurface ofasmooth, flexible, transparent, water-proof
+plastic, resulting inanon-exposed lens optical reflecting system. The retro-reflective surface
+aftercleaning withsoapandwater and indrycondition shallhave theminimum coefficient of
+retro-reflection (determined inaccordance withASTM D4956-09) asindicated inTable 6.4.
+Table 6.4Acceptable Minimum Coefficient ofRetro-Reflection forType IISuper
+Engineering Grade Sheeting (Candelas perLuxperSquare Meter)
+ObservationAngleEntrance AngleWhite
+Yellow OrangeGreen~o
+<D BlueBrown
+0.2° -4° 140 100 60 30 30 10 5
+0.2° +30° 60 36 22 10 12 4 2
+0.5° -4° 50 33 20 9 10 3 2
+0.5° +30° 28 20 12 6 6 2 1
+13
+
+IRC:67-2012
+When totally wet,thesheeting shall notshow lessthan90percent ofthevalues, ofretro-
+reflection indicated inabove Table. Attheendof5years, thesheeting shall retain atleast
+50percent ofitsoriginal retro-reflectance.
+6.7.3 ClassB(High intensity grade sheeting)
+6.7.3. 1Type IIIhigh intensity grade
+This high intensity retro-reflective sheeting shallbeofencapsulated lenstype consisting of
+spherical glass lens,elements adhered toasynthetic resinandencapsulated byaflexible,
+transparent waterproof plastic having asmooth surface orasanon-metallic micro prismatic
+reflective material element. The retro-reflective surface after cleaning withsoapandwater
+and indrycondition shallhave theminimum co-efficient ofretro-reflection (determined in
+accordance withASTM D4956-09) asindicated inTable 6.5.
+Table 6.5Acceptable Minimum Coefficient ofRetro-reflection forType III
+High Intensity Grade SheetingA(Encapsulated Lens Type)
+(Candelas perLuxperSquare Meter)
+Observation AngleEntrance AngleWhite
+Yellow OrangeGreen Red BlueBrown
+0.1OB -4° 300 200 120 54 54 24 14
+0.1°B +30° 180 120 72 32 32 14 10
+0.2° -4° 250 170 100 45 45 20 12
+0.2° +30° 150 100 60 25 25 11 8.5
+0.5° -4° 95 62 30 15 15 7.5 5.0
+0.5° +30° 65 45 25 10 10 5.0 3.5
+A Minimum Coefficient ofRetro reflection (RA)(cd.lx1.nr2
+).
+B Values for0.1°observation angles aresupplementary requirements that shall apply
+onlywhen specified bythepurchaser inthecontract ororder.
+When totally wet,thesheeting shallshow notlessthan90percent, ofthevalues ofretro-
+reflectance indicated inabove Table. Attheendof7years, thesheeting shall retain atleast
+80percent ofitsoriginal retro-reflectance.
+6.7.3.2 Type IVHigh intensity micro-prismatic grade sheeting (HIP)
+This sheeting shall beofhigh intensity retro-reflective sheeting made ofmicro-prismatic
+retro-reflective element material coated withpressure sensitive adhesive. The retro-reflective
+14
+
+IRC:67-2012
+surface after cleaning withsoapandwater and indrycondition shallhave theminimum co-
+efficient ofretro-reflection (determined inaccordance withASTM D4956-09) asindicated in
+Table 6.6.
+Table 6.6Acceptable Minimum Co-efficient ofRetro-Reflection for
+Type IVHigh Intensity Micro-prismatic Grade SheetingA
+(Candelas perLuxperSquare Meter)
+Observation AngleEntrance AngleWhite
+Yellow OrangeGreen Red BlueBrown
+0.1OB -4° 500 380 200 70 90 42 25
+0.1OB+30° 240 175 94 32 42 20 12
+0.2° -4° 360 270 145 50 65 30 18
+0.2° +30° 170 135 68 25 30 14 8.5
+0.5° -4° 150 110 60 21 27 13 7.5
+0.5° +30° 72 54 28 10 13 6 3.5
+A Minimum Coefficient ofRetro-reflection (RA)(cd.lx'1.m2
+).
+B Values for0.1°observation angles aresupplementary requirements that shall apply
+onlywhen specified bythepurchaser inthecontract ororder.
+When totally wet,thesheeting shallshow notlessthan90percent ofthevalues ofretro-
+reflection indicated inabove Table. Attheendof7years, thesheeting shall retain atleast80
+percent ofitsoriginal retro-reflectance.
+6.7.4 ClassC(Micro prismatic grade sheeting)
+6.7.4. 1Type VIIIMicro prismatic grade sheeting
+Retro-reflective sheeting istypically manufactured asacube corner. The reflective sheeting
+shallberetro-reflective sheeting made ofmicro prismatic retro-reflective material. The retro-
+reflective surface, after cleaning withsoapandwater and indrycondition shallhave the
+minimum co-efficient ofretro-reflection (determined inaccordance withASTM D:4956-09)
+asindicated inTable 6.7.
+When totally wet,thesheeting shallshow notlessthan90percent ofthevalues ofretro-
+reflection indicated inabove Table. Attheendof10years, thesheeting shall retain atleast
+80percent ofitsoriginal retro-reflectance.
+15
+
+IRC:67-2012
+Table 6.7Acceptable Minimum Co-efficient ofRetro-reflection for
+Type VIIIPrismatic Grade SheetingA(Candelas perLuxperSquare Meter)
+ObservationAngle o
+Oic
+oo£
+c
+yy>>©
+>Q)
+O)c
+6Green Red BlueBrownFluorescent
+Yellow-Green
+FluorescentYellowFluorescent
+Orange
+0.1OB -4° 1000 750 375 100 150 45 30 800 600 300
+0.1°B+30° 460 345 175 46 69 21 14 370 280 135
+0.2° -4° 700 525 265 70 105 32 21 560 420 210
+0.2° +30° 325 245 120 33 49 15 10 260 200 95
+0.5° -4° 250 190 94 25 38 11 7.5 200 150 75
+0.5° +30° 115 86 43 12 17 5 3.5 92 69 35
+A Minimum Co-efficient ofRetro-reflection (RA)(cd.lx~1.nrr2
+).
+B Values for0.1°observation angles aresupplementary requirements that shall apply
+onlywhen specified bythepurchaser inthecontract ororder.
+6.7.4.2Type IXMicro prismatic grade sheeting
+Retro-reflective sheeting istypically manufactured asacube corner. The reflective sheeting
+shallberetro-reflective sheeting made ofmicro prismatic retro-reflective material. The retro-
+reflective surface, after cleaning withsoapandwater and indrycondition shallhave the
+minimum co-efficient ofretro-reflection (determined inaccordance withASTM D4956-09) as
+indicated inTable 6.8.
+When totally wet,thesheeting shallshow notlessthan90percent ofthevalues, ofretro-
+reflection indicated inabove Table. Attheendof10years, thesheeting shall retain atleast
+80percent ofitsoriginal retro-reflectance.
+6.7.4.3 TypeXIMicro Prismatic Grade Sheeting
+Retro-reflective sheeting istypically manufactured asacube corner. The reflective sheeting
+shallberetro-reflective sheeting made ofmicro prismatic retro-reflective material. The retro-
+reflective surface, after cleaning withsoapandwater and indrycondition shallhave the
+minimum co-efficient ofretro-reflection (determined inaccordance withASTM D4956-09) as
+indicated inTable 6.9.
+When totally wet,thesheeting shallshow notlessthan90percent ofthevalues, ofretro-
+reflection indicated inabove Table. Attheendof10years, thesheeting shall retain atleast
+80percent ofitsoriginal retro-reflectance.
+16
+
+IRC:67-2012
+Table 6.8Acceptable Minimum Co-efficient ofRetro-reflection for
+Type IXPrismatic Grade SheetingA(Candelas perLuxperSquare Meter)
+Observation AngleEntranceAngleWhite
+Yellow OrangeGreen Red Blue Fluorescent
+Yellow-GreenFluorescentYellowFluorescentOrange
+0.1OB -4° 660 500 250 66 130 30 530 400 200
+0.1°B+30° 370 280 140 37 74 17 300 220 110
+0.2° -4° 380 285 145 38 76 17 300 230 115
+0.2° +30° 215 162 82 22 43 10 170 130 65
+0.5° -4° 240 180 90 24 48 11 190 145 72
+0.5° +30° 135 100 50 14 27 6 110 81 41
+1.0° -4° 80 60 30 8 16 3.6 64 48 24
+1.0° +30° 45 34 17 4.5 9.0 2 36 27 14
+A Minimum Co-efficient ofRetro-reflection (RA)(cd.lx1.m~2
+).
+B Values for0.1°observation angles aresupplementary requirements that shall apply
+onlywhen specified bythepurchaser inthecontract ororder.
+Table 6.9Acceptable Minimum Coefficient ofRetro-reflection for
+Type XIPrismatic Grade SheetingA(Candelas perLuxperSquare Meter)
+Observation
+AngleEntrance
+AngleWhiteYellowOrangeGreen
+RedBlueBrownFlorescent
+yellow-
+GreenFlorescent
+yellowFlorescent
+Orange
+0.1OB -4° 830 620 290 83 125 37 25 660 500 250
+0.1OB+30° 325 245 115 33 50 15 10 260 200 100
+0.2° -4° 580 435 200 58 87 26 17 460 350 175
+0.2° +30° 220 165 77 22 33 10 7 180 130 66
+0.5° -4° 420 315 150 42 63 19 13 340 250 125
+0.5° +30° 150 110 53 15 23 7 5 120 90 45
+1.0° -4° 120 90 42 12 18 5 4 96 72 36
+1.0° +30° 45 34 16 5 7 2 1 36 27 14
+A Minimum Co-efficient ofRetro-reflection (RA)(cd.lx1.m2
+).
+B Values for0.1°observation angles aresupplem entary requirements that shall apply
+onlywhen specified bythepurchaser inthecontract ororder.
+17
+
+IRC:67-2012
+6.7.5 Adhesives
+Thesheeting shallhave apressure-sensitive adhesive oftheaggressive-tack type requiring
+noheat, solvent orother preparation foradhesion toasmooth clean surface, inamanner
+recommended bythesheeting manufacturer. Theadhesive shallbeprotected byaneasily
+removable liner(removable bypeeling without soaking inwater orother solvent) andshallbe
+suitable forthetype ofmaterial ofthebase plateused forthesign.Theadhesive shallform
+adurable bond tosmooth, corrosion andweather resistant surface ofthebase plate such
+that itshall notbepossible toremove thesheeting from thesignbase inonepiece byuse
+ofsharp instrument. Thesheeting shallbeapplied inaccordance withthemanufacturer's
+specifications.
+6.7.6 Fabrication
+Surface tobereflectorised shallbeeffectively prepared toreceive theretro-reflective sheeting.
+Thealuminium sheeting shallbede-greased either byacid orhotalkaline etching and' all
+scale/dust removed toobtain asmooth plain surface before theapplication ofretro-reflective
+sheeting. Ifthesurface isrough, approved surface primer maybeused. After cleaning, metal
+shall notbehandled, except bysuitable device orclean canvas gloves, between allcleaning
+andpreparation operation andapplication ofreflective sheeting/primer. There shallbeno
+opportunity formetal tocome incontact withgrease, oilorother contaminants prior tothe
+application ofretro-reflective sheeting. Complete sheets ofthematerial shallbeusedonthe
+signs except where itisunavoidable. Atsplices, sheeting withpressure-sensitive adhesives
+shallbeoverlapped notlessthan 5mm.Where screen printing withtransparent colours is
+proposed, only buttjoint shallbeused.Thematerial shallcover thesignsurface evenly and
+shallbefreefrom twists, cracks andfolds. Cut-outs toproduce legends andborders shallbe
+bonded withthesheeting inthemanner specified bythemanufacturer.
+6.8 Messages/Borders
+Themessages (legends, letters, numerals, etc.)andborders shall either bescreen-printed
+orofcutoutfrom durable transparent overlay orcut-out from thesame type ofreflective
+sheeting forthecautionary andmandatory signboards. Screen printing shallbeprocessed
+andfinished with materials and inamanner specified bythesheeting manufacturer. For
+theinformatory andother signboards, themessages (legends, letters, numerals etc.)and
+borders shallbecut-out from durable transparent overlay filmorcut-out from thesame
+reflective sheeting only. Cut-outs shall befrom durable transparent overlay materials as
+specified bythesheeting manufacturer andshallbebonded withthesheeting inthemanner
+specified bythemanufacturer. Whenever transparent overlay film isused formaking any
+type ofsign, thecoloured portion ofsign shallhave coefficient ofreflectivity notlessthanthe
+reflectivity oftypeandcolour ofsheeting normally used, asgiven inTable 6.3toTable 6.9.
+Cut-out messages andborders, wherever used, shallbeeithermade outofretro-reflective
+sheeting ormade outofdurable transparent overlay except those inblack which shallbeof
+non-reflective sheeting oropaque incase ofdurable transparent overlay. Creating coloured
+areas bymeans ofscreen-printing with inkshall notbepermitted.
+18
+
+IRC:67-2012
+6.9 Warranty andDurability
+The retro reflective sheeting type "A","B"and"C"shallbecovered respectively under 5,7
+and10yearwarranty respectively issued forfieldperformance including thescreen printed
+areas andcut-out sheeting andcut-out durable transparent overlay film.Thecontract shall
+indicate theminimum retro-reflectivity ofthesigns attheendofthewarranty period.
+7POSTS ANDMOUNTINGS FORSIGNS
+7.1 The traffic signs shall bemounted onsupport posts, which maybeofGlpipes
+conforming toIS1239, Rectangular Hollow Section conforming toIS4923 orSquare Hollow
+Section conforming toIS3589. Incase ofsigns supported ontwoormore posts, ifnecessary,
+bracing mayalsobeprovided. Sign posts, theirfoundations andsignmountings shallbeso
+constructed astoholdthese inaproper andpermanent position against thenormal storm
+wind loads ordisplacement byvandalism. Normally, signs withanareaupto0.9square
+meter shallbemounted onasingle post,andforgreater area, twoormore supports shallbe
+provided. Signsupports maybeofmild steel, reinforced concrete (M25) orgalvanized iron
+(GlPost) sections. End(s) shallbefirmly fixed totheground bymeans ofproperly designed
+foundation. Thework offoundation shallconform torelevant Specifications asspecified.
+7.2 Allcomponents ofsigns andsupports, other than thereflective portion ofGlposts
+shallbethoroughly descaled, cleaned, primed andpainted withtwocoats ofepoxy paint.Any
+partofMildSteel(MS) postbelow ground shallbepainted withthree coats ofredlead paint.
+7.3 Thesigns shallbefixed totheposts bywelding inthecase ofsteel posts andby
+boltsandwashers ofsuitable size inthecase ofreinforced concrete orGlposts. After the
+nutshavebeen tightened, thetailsofthebolts shallbefurred over withahammer toprevent
+removal.
+7.4 Foroverhead signs, thesupport system should beproperly designed based on
+sound engineering principles, tosafely sustain thedead load, liveloadandwind loadonthe
+completed signsystem. Forthispurpose, theoverhead signs shallbedesigned towithstand
+awind loading of150kg/m2normal totheface ofthesignand30kg/m2transverse tothe
+face ofthesign. Inaddition tothedead load ofthestructure, walkway loading of250kg
+concentrated liveload shall alsobeconsidered forthedesign oftheoverhead sign structure.
+8COLOUR FORSIGNS
+8.1 Signs shallbeprovided with retro-reflective sheeting and/or overlay filmasshown on
+thedetailed drawings. Thereverse side ofallsigns shallbepainted grey.
+8.2 Except inthecase ofrailway level crossing signs (forwhich thecolour scheme is
+given later) thesignposts shallbepainted in250mmwide bands, alternately black and
+white. Thelowest band next totheground shallbeinblack.
+19
+
+IRC:67-2012
+8.3 Thecolour ofthematerial shallbelocated within theareadefined bythechromaticity
+coordinates inTable 8.1andcomply withtheluminance factor given inTable 8.2when
+measured asperASTM D:4956-09. Chromaticity istheobjective specification ofthequality
+ofacolour regardless ofitsluminance, that is,asdetermined byitshueandcolourfulness (or
+saturation/chroma, orintensity)
+Table 8.1Chromaticity Coordinates (Daytime)A
+Colour1 2 3 4
+X y X Y X Y X Y
+White 0.303 0.300 0.368 0.366 0.340 0.393 0.274 0.329
+Yellow 0.498 0.412 0.557 0.442 0.479 0.520 0.438 0.472
+Green60.026 0.399 0.166 0.364 0.286 0.446 0.207 0.771
+Red 0.648 0.351 0.735 0.265 0.629 0.281 0.565 0.346
+Blue80.140 0.035 0.244 0.210 0.190 0.255 0.065 0.216
+Orange 0.558 0.352 0.636 0.364 0.570 0.429 0.506 0.404
+Brown 0.430 0.340 0.610 0.390 0.550 0.450 0.430 0.390
+Fluorescent Yellow
+-Green0.387 0.610 0.369 0.546 0.428 0.496 0.460 0.540
+Fluorescent Yellow 0.479 0.520 0.446 0.483 0.512 0.421 0.557 0.442
+Fluorescent
+Orange0.583 0.416 0.535 0.400 0.595 0.351 0.645 0.355
+A Thefourpairs ofchromaticity coordinates determine theacceptable colour interms of
+theCIE1931 Standard Colourimetric System measured withCIEStandard llluminant
+D65.
+B Thesaturation limitofgreen andbluemayextend totheborder oftheCIEchromaticity
+locus forspectral colours.
+Table 8.2Daytime Luminance Factor (Y%)
+ColourNon-Metallic Portion Metallic Portion
+Min Max Min Max
+White 27 15
+Yellow 15 45 12 30
+Green 3.0 12 2.5 11
+Red 2.5 15 2.5 11
+Blue 1.0 10 1.0 10
+Orange 10 30 7.0 25
+Brown 1.0 9.0 1.0 9.0
+Fluorescent Yellow-Green 60
+Fluorescent Yellow 40
+Fluorescent Orange 20
+20
+
+IRC:67-2012
+Thecolours shallbedurable anduniform inacceptable huewhen viewed inday lightorunder
+normal headlights atnight.
+8.4 Themandatory andwarning signs shallbeprovided withwhite background andred
+border. Thelegend/symbol forthese signs shallbeinblack.
+8.5 Colour pattern fordirection information signs isgiven inTable 8.3
+Thecolours chosen forinformatory orguide signs shallbedistinct fordifferent categories
+ofroads. Forvarious categories ofroad inIndia, following colour pattern shallbeused for
+direction information signasgiven inTable 8.3.
+Table 8.3Colour Pattern forDirection Information Signs
+RoadType Background Arrows/Border/Letters
+Expressway Blue White
+National Highway (NH) Green White
+StateHighway (SH) Green White
+Major District Road(MDR) Green White
+Village Road(ODR&VR) White Black
+Urban/City Road Blue White
+9SIZEOFSIGNS
+9.1 Asageneral rule,there shallbefoursizes (small, medium, normal andlarge) ofsigns
+formandatory/regulatory andcautionary/warning signs. ForExpressways, refer respective
+chapters. Forcertain categories ofmandatory/regulatory signs, astillsmaller sizemaybe
+used inconjunction with traffic lightsignals oronbollards ontraffic islands.
+9.2 General dimensions ofdifferent categories ofsigns aregiven inrespective sections.
+10VISIBILITY OFSIGNS
+Inorder tomake signsmore visible andlegible atnight, inparticular cautionary/warning signs
+andregulatory signs other thanthose regulating parking andstopping inlighted streets of
+built-up areas shallbelighted orprovided with reflective material including luminous paints
+orreflective devices andsheetings. Care should, however, betaken that thisdoes notresult
+inroadusers becoming dazzled.
+11SIZEOFLETTERS
+11.1 Letter sizeshould bechosen withdueregard tothespeed, classification andlocation
+oftheroad, sothatthesign isofadequate size forlegibility butwithout being toolarge or
+obtrusive. Thesizeofthe letter, interms ofx-height, tobechosen asperthedesign speed is
+given inTable 11.1.
+21
+
+IRC:67-2012
+Table 11.1Letter SizeandSiting ofInformation Signs (Shoulder &Gantry Mounted)
+FlagType Direction Signs
+Advance Direction Signs (Shoulder Mounted) Reassurance Signs Gantry Mounted Signs
+Place Identification Signs
+1 2 3 4 5 6 7 8 9 10 11 12
+Design
+Speed"x"
+height
+(mm)
+lower
+case"X"
+height
+(mm)
+upper
+caseMinimum
+clear
+visibility
+tothe
+sign(m)ONE
+sign:
+distance
+from
+junction
+(m)TWO
+signs:
+distance
+between
+1stand
+2ndsign
+(m)"x"
+height
+(mm)
+lower
+case"X"
+height
+(mm)
+upper
+caseMinimum
+clear
+visibility to
+thesign
+(m)"x"height
+(mm) lower
+case"X"height
+(mm) upper
+caseMinimum
+clear
+visibility to
+thesign
+(m)
+Upto30
+km/h75
+(60)*105
+(84)50
+(35)2060
+(50)84
+(70)35
+(30)
+31-50
+km/h100
+(75)140
+(105)75
+(45)45 4575
+(60)105
+(84)45
+(35)
+(175)LOU
+(245) 150
+51-65
+km/h125
+(100)175
+(140)100
+(60)90 50100
+(75)140
+(105)60
+(45)
+66-80
+km/h150
+(125)210
+(175)135 90-150 70125
+(100)175
+(140)75
+(60)
+81 -100
+km/h200
+(150)280
+(210)165150-
+225100150
+(125)210
+(175)105
+(75)250
+(200)350
+(280)200
+225- 200 280 135
+1U 1-11U
+km/h250
+(200)350
+(280)225300,
+goo
+also
+Note 1100(150) (210) (105)275
+(250)385
+(350)240
+111-120
+km/h300
+(250)420
+(350)260See
+Note 1See
+Note 1300
+(250)420
+(350)180
+(150)300
+(275)420
+(385)260
+*Note: Thevalues inbrackets aretheminimum values tobeadopted when there aresite/space
+constraints.
+Derived from the firstprinciple aspresented inAnnexure VI
+Notes:
+1) Forgrade separated junction twoorthree advance direction signs areprovided. These are
+located atthestart ofdiverging lane,250mto750mfrom thejunction andadditionally 750m
+to1500mfrom thejunction.
+2)The "x"height istheheight ofalower case English "Transport medium" fontandupper case
+shallbe1.4times oflower case height.
+3) Incolumns 2,3,7,8,10and 11ofTable 11.1thefontheights shown arenormal size tobeused
+forrespective approach speeds and inbrackets aretheabsolute minimum sizes tobeused
+where site/space islimited. Thefontsizecanbeincreased byanother 50mmfrom thenormal
+fontsize forthose direction boards requiring special emphasis/attention.
+22
+
+IRC:67-2012
+4) Incolumns 4and9ofTable 11.1, theclear visibility distances indicated areminimum values.
+Greater distances should beprovided wherever possible.
+5) Incolumns 5and6Table 11.1, thedistances shown areforguidance onlyandarenottobe
+taken precise.
+6)Reassurance Signs arenormally placed about 100-150mafterthejunction. Place Identification
+Signs arenormally placed about 90mto150minadvance ofthestart ofthebuilt-up areaand
+flagtype direction signs aregenerally installed atthenose ofdiverging lanes.
+7)Columns 10,11and12ofTable 11.1 shallbetaken fordesign ofgantry mounted signs.
+11.2 Letter sizeondefinition plates attached withnormal sized signs should be50mmor
+100mm,and inthecase ofsmall signs, itshould be50mm.Where themessage islong,as
+forinstance in"NOPARKING" and"NOSTOPPING &NOSTANDING" signs, themessage
+maybebroken withtwolinesandthesize ofletters maybevaried inthelinessothatthe
+definition plate isnottoolarge. The lettering ondefinition plates willbe allinupper case
+letters. Example forDefinition Plate isgiven inPlate I.
+12MAINTENANCE OFSIGNS
+12.1 Prior toinstalling anyroad sign, theresponsibility forthemaintenance ofthesign
+andthepost isrequired tobedecided, andthetiming plan(s) should beclearly established.
+Over time, signsbecome faded and their retro-reflective properties diminish. Thisreduces
+both conspicuity and legibility, bydayandbynight. Excessively discoloured orfaded signs
+(e.g. white backgrounds which havebecome grey orbrown, orredborders faded topink)
+andsigns, where thelegend orgraphic ispeeling offcannot befully effective andneed to
+bereplaced. Thesigns along withtheposts shallbemaintained inproper position, andkept
+clean and legible atalltimes. Signs should becleaned atintervals appropriate tothesite
+conditions. Signs atlocations where theyaresubject toheavy soiling frompassing traffic, or
+algae growth (acommon problem withsigns beneath treecanopies) willneedmore frequent
+cleaning.
+12.2 Areference number along withthemonth andyear ofinstallation should beplaced
+ontheback ofasign inacontrasting colour orbystamping incharacters notexceeding 50
+mm inheight. Itisdistracting andunsightly toplace reference numbers onthesignfaceoron
+thefront ofabacking board.
+12.3 Allsigns shallbeinspected atleast twice ayear both indayandnight times andat
+leastonce ayear intherain. Allsigns should bereplaced attheendofthewarranty period
+provided fortheretro-reflective sheeting usedonthesign.Damaged signs shallbereplaced
+immediately.
+12.4 The authorities responsible forroad signs should maintain aschedule ofpainting
+oftheposts andsigns periodically. Itisrecommended that painting ofthesigns (where
+applicable) maybeundertaken afterevery twoyears. Incase ofoverhead signs, adequate
+23
+
+IRC:67-2012
+provision istobemade tohaveaccess tothesigns forthepurpose ofmaintenance activities.
+Thismust beensured atthetime ofinstallation. Special care shallbetaken toseethat
+weeds, shrubbery, mud, etc.arenotallowed toobscure anysign.
+13DEFINITION PLATES/SUPPLEMENTARY PLATES
+Where thecompetent authority considers itadvisable tomake themeaning ofasign or
+symbol more explicit, orinthecase ofmandatory signs tolimit their application tocertain
+categories ofroadusers ortospecific periods, aninscription shallbeplaced below thesign in
+arectangular definition plate ofsuitable size.The definition plate shallbewith retro-reflective
+white background andblack letters andblack border 20mmwide.Numerals shallbeinscribed
+ininternational form ofIndian numerals andwordmessages shallbeinEnglish and/or other
+languages asnecessary. Tocontain thesize ofthesign, thenumber oflanguages onthe
+signs shall normally belimited totwo.Anexample ofdefinition plate isgiven inPlate- II(Fig.
+15.42 +Supplementary plate) and itsdesign inPlate III(Fig. 16.17).
+14MANDATORY/REGULATORY SIGNS
+14=1 Thedetailed dimensioned drawings ofnormal sized signandsymbols thereon are
+shown inPlate-I forease ofreproduction. Forsigns ofother sizes, thesymbols should
+beproportionately reduced orenlarged. The mandatory/regulatory signs are listed in
+Annexure -I.These areclassified under thefollowing sub-heads keeping inview theirdesign
+andapplication:
+i) "Stop" and"GiveWay" signs (Right ofwaysigns)
+ii) "Prohibitory" signs
+iii) "NoParking" and"NoStopping" signs
+iv) "Speed Limit" and"Vehicle Control" signs
+v) "Restriction Ends" sign,and
+vi) "Compulsory Direction Control" andother signs
+142 Itisessential thatdrivers andother roadusers haveanunobstructed view ofroad
+signs. Thedistance which should bekept clear ofobstructions tothesight line,whether
+caused byvegetation (e.g.bushes, trees), other signs orstreet furniture (e.g.crash barriers),
+isknown astheclear visibility distance. Thehigher theprevailing traffic speeds, thegreater
+thisdistance needs tobe.
+14.3 Regulatory signs thatindicate thebeginning ofarestriction orprohibition andtowhich
+direction itapplies have tobeplaced inaccordance with that direction. Therequirement is
+thatthesigns must beplaced oneach side oftheroad oroneach side oftheappropriate
+carriageway ofadualcarriageway road; except thatsigns need onlybeplaced ononeside
+ifanyofthefollowing circumstances apply:
+24
+
+IRC:67-2012
+i)Where therestriction, requirement orprohibition applies only tooneside of
+theroad.
+ii) Atajunction where traffic turns fromaone-way road intotherelevant road.
+Thesignshould beangled tofacetowards thedriver.
+iii) Atajunction where thecarriageway oftherelevant road islessthan 5m
+wideandthecentre ofthesign isnomore than2mfrom theedge ofthe
+carriageway.
+14.4 Mandatory andregulatory signs arenormally sited atornear thepointwhere the
+instruction applies. Table 11.1(Column 4)specifies minimum clear visibility distances for
+regulatory andmandatory signs. These should normally bemeasured fromthecenter ofmost
+disadvantaged driving lanes. Themore thenumber ofsigns which drivers arepresented with
+simultaneously, thegreater thedifficulty theyarelikely tohave inassimilating theinformation.
+Generally, notmore thantwosigns should beerected onanyonepostwhen intended to
+bereadfromanapproaching vehicle and thisapplies when signs aremounted atthesame
+location onseparate posts. Speed limitsigns should bemounted alone.When asignneeds
+supplementary plate, thecombination ofsignandplatemayberegarded asonesign.
+14.5 STOP Sign
+14.5.1 Purpose
+This isforindicating priority fortheright ofway.Thesign isintended foruseonroadways
+where traffic isrequired tostopbefore entering amajor road,andwhere itisintended thatthe
+vehicle shallproceed pastthestop lineonly after ascertaining that this willnotcause danger
+totraffic onthemain road. This isaMandatory/Regulatory sign. (Fig. 14.01)
+14.5.2 Combination withmarkings
+Thestopsign shallalways beused incombination with certain roadmarkings, suchasstop
+lineandtheword"STOP" marked onthepavement videIRC:35"Code ofPractice forRoad
+Markings".
+14.5.3 Size,shape andcolour
+Thesign(shown inFig.14.01) shallbeoctagonal inshape and shallhave redbackground
+andwhite border. Theword"STOP" written inwhite (inEnglish orlocal language) with
+150mmheight letters, centrally positioned. Theheight oftheoctagon andborder shallbeas
+perTable 14.1.
+Table 14.1Sizes andDimensions of'STOP' signs
+Approach speed
+onminor roadSizeHeight
+(mm)Border
+(mm)Font Size(mm)
+Upto50kmph Small 750 25 125
+51-65kmph Normal 900 30 150
+>65kmph Large 1200 40 225
+25
+
+IRC:67-2012
+14.5.4 Warrants forinstallation
+Thesignshould beusedonaminor road atitsintersection withamajor roadwhere conditions
+areconsidered tobeunduly hazardous due torestricted visibility, badalignment andhigh
+accident record. Generally, ifthe visibility funnel shown inFig.14.1 isnotobstruction free,
+thestopsign shallbeinstalled.
+L.-~
+-Hh-j
+\
+s.\VX
+]
+I
+J
+Fig.14.1
+The visibility funnel fordifferent situation ispresented intheTable 14.2.
+Table 14.2 Visibility Funnel
+Speed onMajorRoadVisibility Distances on
+Major Road(y)Distance Measured along theCenter
+Line ofMinor Road fromEdge Lineof
+Major Road (x)
+Upto15kmph 15m
+x=4.5mformedium traffic and3.0mfor
+lightly trafficked sideroad31-50kmph 30m
+51-65kmph 45m
+66-80kmph 70m
+81-100kmph 90m
+>100kmph 120m
+Note:
+a) Visibility distance (y)ismeasured along thenearer edge ofthemajor roadfromapoint
+1.05mabove thecentral lineoftheminor road (representing thedriver's eyeposition.)
+b) x=3mforlightly trafficked sideroadmeasured from theedge ofthemajor road
+carriage wayalong thecenter lineoftheminor road,and4.5mwhen minor roadhas
+medium traffic volume.
+14.5.5 Location
+The sign shall beinstalled onthe leftside oftheapproach towhich itapplies.
+Stop signs should besited asclose tothestop lineaspossible butnot insuch a
+position astoimpair visibility along themajor road. Normally, these should befixed
+1.5minadvance ofthestop line. Ifthesiteconditions prevent asignsoplaced from being
+26
+
+IRC:67-2012
+easily seen, itshould beplaced ata
+greater distance inadvance oftheSTOP
+line, but innocasemore than 6mas
+shown inFig. 14.2.When theSTOP
+sign isinstalled attherequired location
+andthesign visibility isrestricted, aStop
+Ahead sign shallbeinstalled inadvance
+oftheSTOP sign.STOP signandYIELD
+sign shall notbemounted onthesame
+post.STOP signhastobeastandalone
+signwhen used. The sign shall notbe
+used atintersection where traffic signals
+areinstalled.
+14.6 GIVEWAYSign
+14.6.1 Purpose
+TheGIVEWAY sign isused toassign right-of-way
+totraffic oncertain roadways atinter-sections, the
+intention being thatthevehicles controlled bythe
+signmust giveway i.e.yield toother traffic having
+the right ofway. Vehicles controlled bythissign
+need toslowdown orstopwhen necessary toavoid
+interfering with conflicting traffic. This isaMandatory/
+Regulatory sign (Fig. 14.3).
+14.6.2 Size,shape andcolour
+Thesign shallbeanequilateral triangle withtheapexdownwards. Itshallhave redborder
+andwhite background. Thesizes anddimensions ofthese signs shallbeasprescribed in
+(Table 14.3).
+Table 14.3SizeandDimension ofGiveWaySign
+Approach speed onminor road SizeSide
+(mm)Border
+(mm)
+Upto50kmph Small 600 45
+51 -80kmph Normal 900 70
+>80kmph Large 1200 90
+14.6.3 Warrants forinstallation
+Thesign shallbeusedonaminor road attheentrance toaninter-section where itisnecessaryDH
+GIVEWAYD=1.5m
+Max12m
+Fig.14.3
+27
+
+IRC:67-2012
+toassign right-of-way tothemajor road butwhere astop isnotnecessary atalltimes. The
+sign shall alsobeusedon hillroads with single orintermediate lanecarriageway onlong
+gradients facing thedownhill traffic toassign right-of-way tovehicles climbing uphill. The
+GIVEWAY sign, together with itsassociated roadmarkings, mayalsobeusedasfollows:
+i) Innon-urban areas atalljunctions ofminor roads withmain highway
+(National Highway oraState Highway)
+ii) Inurban areas generally atjunctions ofminor road withtrunkandprincipal
+road. Iftheminor road isaresidential orlocal street, itisadvisable toprovide
+aSTOP sign.
+iii) Atother junctions androundabouts where the traffic regulatory authority
+considers itdesirable onaccount oftraffic speeds orvolumes
+The visibility funnel already depicted inFig.14.1 shallbeobstruction freewhile installing a
+giveway sign.
+14.6.4 Location
+The sign shall belocated inadvance tothepointwhere vehicles arerequired tostop
+ortoslowdown toyield theright-of-way, say atadistance of1.5mto12m. Itisalso
+recommended thatGiveWay line (Ref. IRC: 35)should bemarked attheentry tothe
+junction. GiveWay linemaybepreceded byGIVEWAY marking ontheroadasshown in
+Fig. 14.3.Ongradients, thesignshould beplaced atthestart ofthedown gradient and
+repeated asnecessary.
+14.6.5 Giveway tobuses exiting buslay-by ahead
+Thesign shallbeused toinform thevehicles about GiveWay toBuses exiting from abus
+lay-by ahead. Thesign shallbeplaced atthebeginning ofsuch area (Fig. 14.03).
+14.7 Prohibitory Signs
+These signs generally give instructions regarding maneuver thatmust notbemade.
+Prohibitory signs indicate aforbidden maneuver. They cover bothjunctions andthesections
+ofroadbetween junctions.
+14.7.1 Size,shape andcolour
+Thesigns shallbeofcircular shape witharedborder, white background, andblack symbol.
+Thesizesanddimensions ofmandatory signs aregiven atTable 14.4andalso ofregulatory
+signs.
+14.7.2 Bullock Carts Prohibited
+Thesign shallbeerected oneach entry totheroadwhere bullock carts aretobeprohibited
+(Fig. 14.04).
+28
+
+IRC:67-2012
+Table 14.4SizeandDimension ofMandatory andRegulatory Signs
+Design Speed SizeRegulatory
+SignsMandatory Signs
+Diameter
+(mm)Diameter
+/mm\(miTi)Border
+(mm)Oblique
+oar^mm)Font Size
+(mm)
+Upto65kmphinconjunction
+wiiii udiiic iiyni
+OIUIIIaII300 35 35 75
+Small 600 600 50 50 100
+66 -80kmph Medium 750 750 60 60 125
+81-100kmph Normal 900 900 75 75 150
+>100kmph Large 1200 1200 100 100 225
+14.7.3 Bullock CartsandHand Carts Prohibited
+Thesign shallbeerected oneach entry totheroadwhere bullock andhand carts aretobe
+prohibited. (Fig. 14.05). Thesign shallbeerected oneach entry totheroadwhere alltypes
+ofslowmoving vehicles except cycles aretobeprohibited
+14.7.4 Hand Carts Prohibited
+Thesign shallbeerected oneach entry totheroadwhere hand carts aretobeprohibited
+(Fig. 14.06).
+14.7.5 Tongas Prohibited
+The sign shallbeerected oneach entry totheroadwhere Tongas aretobeprohibited
+(Fig. 14.07).
+14.7.6 Horse Riding Prohibited
+Thesign shallbeusedwhere Horse riding isprohibited onroad. (Fig14.08)
+14.7.7 Caravan notAllowed
+Thesign shall beused attheentrance totheroads where entry tocaravan isprohibited
+(Fig. 14.09).
+14.7.8 Buses Prohibited
+Thesign shall beusedwhere buses areprohibited andused atbeginning ofsuch areas
+(Fig. 14.10).
+14.7.9 Cars Prohibited
+Thesign shallbeusedwhere entry ofcar isprohibited (Fig. 14.11).
+29
+
+IRC:67-2012
+14.7.10 Trucks Prohibited
+Thesign shallbeerected oneach entry totheroadwhere movement oftrucks isprohibited
+(Fig. 14.12).
+14.7. 11Tractor Prohibited
+Thesign shallbeusedwhere entry oftractor isprohibited (Fig 14.13).
+14.7.12 Construction Vehicles Prohibited
+Thesign shallbeusedwhere entry ofconstruction vehicles isprohibited (Fig 14.14).
+14.7.13 Articulated Vehicles Movement Prohibited
+Thesign shallbeused forprohibiting movement ofArticulated Vehicles. (Fig. 14.15)
+14.7.14 TwoWheelers Prohibited
+Thesign shallbeerected onsuchhighways orhighway sections where themovement oftwo
+wheelers isrequired tobeprohibited (Fig. 14.16).
+14.7.15 Cycles Prohibited
+The sign shall beerected oneach entry totheroadwhere cycles aretobeprohibited
+(Fig. 14.17).
+14.7.16 BiowingHorn Prohibited
+Thesign shallbeusedonstretches oftheroadwhere sounding ofhorn isnotallowed, such
+asnear hospitals and insilence zones (Fig. 14.18).
+14.7.17Straight Prohibited/No Entry
+Thesigns shallbelocated atplaces where thevehicles arenotallowed toenter. Itisgenerally
+erected attheend ofone-way road toprohibit traffic entering theroadway inthewrong
+direction andalso ateach intersection along theone-way road.TheNoEntry sign, ifused,
+should beplaced directly inview ofaroaduser atthepointwhere aroadusercould wrongly
+enter. Thesignshould bemounted onthe leftside oftheroadway, facing traffic thatmight
+enter theroadway orramp inthewrong direction. IftheNoEntry signwould bevisible totraffic
+towhich itdoes notapply, thesignshould beturned away from, orshielded from, theview ofthat
+traffic. Thesignmayberepeated onlongstretches ifconsidered necessary (Fig. 14.19).
+14.7.18 OneWay
+Thesign shallbelocated attheentry totheone-way street andrepeated atintermediate
+intersections onthat street. AtUnsignalized intersections, ONEWAY signs shallbeplaced
+onthenear leftandthefarrightcorners oftheintersection facing traffic entering orcrossing
+theone-way street. Atsignalized intersections, ONEWAY signs shallbeplaced either near
+theappropriate signal faces, onthepoles holding thetraffic signals, onthemastarmorspan
+wireholding thesignals, oratthelocations specified forUnsignalized intersections (Fig. 14.20).
+30
+
+IRC:67-2012
+14.7.19Left/Right TurnProhibited
+AtUnsignalized intersection where asideroadforms aT-junction withatwo-way roadand
+traffic isrequired toturn inonedirection only, Fig.14.21 orFig.14.22 asappropriate should
+beused.Ontheother hand, ifdirection control sign Fig.14.46 orFig.14.47 isused, itmight
+bemisleading bygiving animpression todrivers thattheyareturning toaone-way road.The
+signs shall alsobeused attheintersection ofone-way street tosupplement theone-way
+signs.
+14.7.20 Overtaking Prohibited
+The sign (Fig. 14.23) shall beerected atthebeginning and atintervals within, ofsuch
+sections ofhighways where sight distance isrestricted andovertaking willbehazardous. The
+signmaybedispensed withpavement markings asperIRC35provided for"NoOvertaking
+Zones". The"NoOvertaking" signshould beerected oneach side oftheroad atthestart of
+theaffected length andshould besupplemented byrepeater signs atintervals notexceeding
+400m.
+14.7.21 U-turn Prohibited
+Thesign shallbeused attheplaces where vehicles areforbidden tomake aturntoreverse
+direction oftravel between thesignandthenext intersection beyond it.Thesign shallbe
+erected atthestartandatintervals along section ofaroadonwhich thecontrolling authority
+hasauthorized theprohibition. Thespacing between anytwosuccessive signs should not
+exceed 120moneach side oftheroad (Fig. 14.24).
+14.7.22 Right Turn&U-Turn Prohibited
+Thesign shallbeusedwhere right turnandU-turn areprohibited (Fig. 14.25).
+14.7.23 Priority toVehicles fromOpposite Direction
+Thesign (Fig. 14.26) shallbeused toindicate thatdrivers must give priority tovehicles from
+opposite direction. Itshould beused onlywhen vehicles ateachendofpriority sections
+areclearly visible toeach other. Thesignmust notbedisplayed totraffic approaching from
+opposite directions. Itmust notbeused upside down inanattempt toimply reversed priority.
+14.8 NoStopping andNoStanding Signs
+14.8.1 Size,Shape andColour
+Thesigns (Figs. 14.27 and14.28) shallbeofcircular shape witharedborder andblue
+background. There willbeanoblique redbarat45°forthe,'NoStanding' signandthere
+willbetwooblique redbars at45°and rightangles toeach other for'NoStopping andNo
+Standing' sign.Thesizesanddimensions shallbeasperTable 14.3aspresented earlier..
+14.8.2 Combination withDefinition Plate
+There shallbeadefinition platebelow thesigns carrying thewords "NOSTANDING" orNO
+STOPPING &NOSTANDING" asapplicable inEnglish andother language asnecessary.
+31
+
+IRC:67-2012
+Thescope oftheprohibition maybeexplained byinscriptions onthedefinition plate specifying
+asthecasemaybe
+Inaddition, thedefinition platemay exhibit asingle-headed arrow pointing thedirection in
+which therestriction isapplicable ifthesign isattheendofazone, oradouble-headed arrow
+pointing bothways ifthesign isatanintermediate point inthezone.
+14.8.3 Location of'NOSTANDING' Sign
+Thissign (Fig. 14.27) shallbeerected where thecontrolling authority hasdecided toprohibit
+standing ofvehicle even foraveryshort duration. Thesignshould beaccompanied bysuitable
+kerb orcarriageway markings asindicated inIRC: 35.Adefinition platecanbeattached to
+signpost toconvey themessage more precisely.
+14.8.4 Location of"NOSTOPPING' and'NOSTANDING" Sign
+Thesign (Fig. 14.28) shallbeerected onsections ofaroad orstreet where thecontrolling
+authority hasdecided toprohibit stopping ofvehicles andstanding andevenmomentary
+stopping. Adefinition platecanbeattached tosignpost toconvey themessage more precisely.
+14.8.5 NoParking Signs inUrban Area
+Inurban areas, the"NoParking" sign isusedontheroads toprevent anyparking ofvehicles
+onthemain carriageway which willlead tocongestion. This signmaybeused along with
+time restriction, indicating morning andevening peak periods. Thesign shallbeplaced atthe
+start ofthezone tilltheendoftheprohibition zone. Signs should beerected within 25mof
+thestartandendoftheprohibition. The"NoParking" sign isplaced parallel tokerbfacing the
+carriageway andsited approximately at100mintervals. Where signs areused without road
+markings, theyshould beplaced strategically rather than atfixed intervals. Theaimshould
+bethatwherever drivers might betempted tostop, theyshould beable toseeasign.The
+spacing between consecutive signs, whether ornottheyareonthesame side oftheroad,
+should benotmore than30m.Thesigncanbeaccompanied byarrow showing thedirection,
+timings canbechanged anddatecanbeadded where required.
+A"NoParking" signshould beintroduced onlywhere there arenoother on-street parking
+controls, even iftheyoperate atdifferent times ofday.Where other controls arerequired, the
+"NoParking" signshould bereplaced byaprohibition ofwaiting andloading signprovided
+accordingly (Fig. 14.29).
+14.8.5.1Parking NotAllowed onFootPath
+Thesign istobeerected where theParking isnotallowed onFootPath (Fig. 14.30).iii)
+iv)Thedays oftheweek during which theprohibition applies,
+Thehours ofthedayduring which standing isprohibited,
+Thedistance uptowhich theprohibition isapplicable, and
+Exceptions granted forcertain classes ofroad users.
+32
+
+IRC:67-2012
+14.8.5.2Parking NotAllowed onHalfOfFootPath
+Thesign istobeerected where theParking isnotallowed onhalfFootPath (Fig. 14.31).
+14.9 Speed LimitandVehicle Control Signs
+14.9.1 Size,Shape andColour
+Thesigns shallbeofcircular shape witharedborder andwithwhite background withblack
+symbols andnumerals. Thesizes anddimensions shall beasperTable 14.3presented
+earlier.
+14.9.2 Location
+These signs shallbeerected atthebeginning ofanysection ofaroad ortheside ofastructure,
+which issubject toprohibition orrestriction soastofacetheentering traffic. Additional signs shall
+beerected within theprohibited section ateach intersection made byaroadwhich isnotsubject
+toprohibition soastoface theentering traffic andinform itoftherestriction. Forspeed limit,
+additional repeater signsmayalsobeinstalled atsuitable intervals where necessary.
+14.9.3 AxleLoad Limit
+Thesign shallbeerected where entry isprohibited forvehicles whose axle loadexceeds
+aparticular limit.Toindicate thepresence ofanyweak bridge ahead adefinition plate with
+"Weak Bridge Ahead" maybeposted (Fig. 14.32).
+14.9.4 Height Limit
+Thesign shallbeerected inadvance ofanoverhead structure where entry isprohibited for
+vehicles whose height exceeds acertain limit (Fig. 14.33).
+14.9.5 Length Limit
+Thesign shallbeerected where entry ofvehicles exceeding aparticular length isprohibited
+(Fig. 14.34).
+14.9.6 Load Limit
+Thesign shallbeerected where entry isprohibited forvehicles whose laden weight exceeds
+acertain limit (Fig. 14.35).
+14.9.7 Width Limit
+Thesign shallbeusedwhere entry ofvehicles exceeding aparticular width isprohibited (Fig. 14.36).
+14.9.8 Maximum Speed Limit
+Thesign shallbelocated atthebeginning ofthesection oftheroad orareacovered bya
+speed restriction, withnumerals indicating thespeed limit inkmperhour.Thespeed limit
+should bemarked inmultiples of5kmperhour (Fig. 14.37).
+33
+
+IRC:67-2012
+Where different speed limits aretobeimposed oncertain classes ofmotor vehicles this
+shallbespecified separately soastoensure thatthenumerals indicating thespeed limitare
+clearly visible from adistance. Symbol ofclass ofvehicle shallaccompany suchspeed limit
+indication (Fig. 14.38).
+Forsections ofbadaccident history orsubstandard curves, speed limitsigncanbeprovided
+inayellow backing plate tomake itmore prominent. Also, theadvisory speed limitcanbe
+attached tothesignpostassupplementary plate indicating thepermissible speed forthe
+particular curve.
+14.9.9 Speed limitSign inUrban Area
+Thespeed limitsign incities shallbeplaced oneach oftheroads where thespeed changes
+orontheexitarms ofthejunctions. Thevehicles travelling through ajunction arereassured
+about thespeed limitonthenewroadbyplacing aspeed limitsign at25mfromtheintersection.
+Thesize ofspeed limitsign (the firstsign indicating thechanged speed onmajor road after
+crossing thejunction) shallbe600mm,except forthedualcarriageway roads withspeed
+limit of50kmph ormore, where thesign size shall increase to900mm.Therepeater sign
+shallbeplaced onallroads atinterval given inTable 14.4
+Table 14.4Placement ofRepeater Sign
+Maximum Distance (m)between
+Speed limit
+(kmph)Sizeofsign
+(mm)Consecutive signs
+onalternate sides of
+carriagewayConsecutive signs
+onthesame sideof
+carriagewayTerminal
+signand first
+repeater
+Below 40 600 200 300 200
+50 600 250 400 200
+60 600 350 500 250
+80 900 450 700 350
+14.9.10 Stop forPolice Check
+Thesign shallbeerected where thepolice personnel plans toconduct thechecks (Fig. 14.39).
+14.10 Restriction Ends Sign (Fig. 14.40)
+14.10.1 Size,Shape andColour
+Itshallbecircular withwhite background. There shallbeadiagonal band ofblack atanangle
+of45°sloping downward from right toleft.Thesizesanddimensions ofthese signs shallbe
+asperTable 14.3discussed earlier.
+34
+
+IRC:67-2012
+14.10.2 Purpose
+This sign shall indicate thepoint atwhich allprohibitions notified byprohibitory signs for
+moving vehicles ceases toapply.
+14.11 Compulsory Direction Control andOther Signs
+14.11.1 Size,Shape andColour
+These signs shallbecircular inshape withbluebackground andwhite border (2mm),and
+having symbols inwhite. Thesize shallbeasperthedimensions given inTable 14.3.
+14.11 .2Compulsory Ahead,Compulsory Ahead orTurn Right/Left
+Thesigns inFigs. 14.41 to14.43 indicate theroutes thatarelawfully tobetaken anddirection
+ofmovement withrespect totheposition ofsign installed.
+14.11.3Compulsory Turn Right/Left
+Thesigns inFig.14.44 andFig.14.45 indicate theroutes thatarelawfully tobetaken and
+direction ofmovement withrespect totheposition ofsign installed. Fig.14.47 should beused
+onCentral Island ofaroundabout tobeseen bydrivers' ontheapproach road.
+Where compulsory turn leftorright sign isinstalled inadvance ofjunction approximately
+50mahead, signs asFig.14.47 orFig.14.48 asappropriate should beused.
+14.11.4Compulsory keep Left/Right
+Thesign atFig.14.48shows keep leftsignwhich isused attraffic islands, refuges, andatthe
+beginning ofcentral median ofadivided carriageway. Itisused attherecommencement of
+central median following agap,astraffic turns right infront ofthesignwithout actually passing
+it.Keep right sign (Fig. 14.49) isused intraffic calming schemes andalso inassociation with
+roadworks. Thesizes of300mm forFig.14.48 and Fig.14.49 canbeconsidered when
+installed onbollards.
+14.11.5 Pass Either Side
+The"Pass either side" signasshown inFig.14.50 isforuseontraffic islands, usually in
+one-way roads, where drivers passing either side ofthesignreach thesame destination
+immediately ahead. Itmust notbeused insituations where drivers would become committed
+todifferent destinations once theyhadpassed thesign. Inthiscase, aplain-faced bollard or
+TwowayHazard Marker (Fig,, 15.78) should normally beprovided. Where flagtype direction
+signs havebeen erected onthe traffic islands, itbecomes clear without thecompulsory
+direction sign.
+14.11.6 Minimum Speed Limit
+Where engineering judgment determines thatslowspeeds, especially onanexpressway,
+35
+
+IRC:67-2012
+might impede thenormal andreasonable movement oftraffic, theMinimum Speed Limit
+signmaybeinstalled toindicate theminimum legalspeed (Fig. 14.51). This shallbeused
+onspecific sections toavoid theslowmoving vehicles toimprove theefficiency ofthetraffic
+movement. Itiscompulsory toinstall the"Restriction End" sign attheendoftheminimum
+speed limitsignwhen restriction ofminimum speed isapplied forasection oftheroad.
+13.11.7 Compulsory Cycle Track/Cycles Only
+Thesign shall notify cyclists thattheymustusethecycle track attheentrance towhich itis
+placed, andshall notify thedrivers ofother vehicles thattheyarenotentitled tousethattrack
+(Fig. 14.52).
+14.11.8 Compulsory Cyclist andPedestrian Route
+Thesign shallbeused tosegregate cycleandpedestrian lanes (Fig. 14.53).
+14.11.9Pedestrians only
+Thesign shallmean thatonlypedestrians areallowed andthetraffic isnotallowed onthis
+road/carriageway. Thesignmaybesupported bysupplementary plate with'PEDESTRIANS
+ONLY' written on it(Fig. 14.54).
+14.11.10 Compulsory Snow Chain
+The sign shall beused inhillyareas forcompulsory useofsnow chain on allvehicles
+(Fig.14.55).
+14.11.11 BusWay/Buses only
+Thesign shallmean thatonlybuses areallowed andtheother traffic isnotallowed onthis
+road/carriageway. Thesignmaybesupported bysupplementary plate with'BUSES ONLY'
+written on it(Fig. 14.56).
+14.11.12Compulsory Sound Horn
+Thesign shallmean thatthemotor vehicles shall compulsorily sound horn atthelocation at
+which sign isplaced, forinstance atsharp curves on hillroads (Fig. 14.57).
+15CAUTIONARY/WARNING SIGNS
+15.1 Thedetailed dimensioned drawings ofnormal sized signandsymbols thereon are
+shown inPiate-ll forease ofreproduction. Forsigns ofother sizes, thesymbols should be
+proportionately reduced orenlarged. Thecautionary/warning signs arelisted inAnnexure-ll.
+15.2 Size,Shape andColour
+Thesigns shallbeintheshape ofanequilateral triangle, withapex pointing upwards. Itshall
+36
+
+IRC:67-2012
+have redborder andblack symbols onwhite background. Thesizeandplacement details
+shallbeasperTable 15.1.
+Table 15.1TheSizes andDimensions ofCautionary andtheir Siting Distances
+Design speed SizeSide
+(mm)Border
+(mm)Clear Visibility
+Distances (m)Distance of
+signfrom
+hazard (m)
+Upto50kmph Small 600 45 45 45
+51 -65kmph Medium 750 60 60 45-110
+66 -80kmph Normal 900 70 60 110-180
+>80kmph Large 1200 90 90 180-245
+15.3 Location andMounting
+Warning signs should notbemounted onthesame postasaSTOP orGIVEWAY orspeed
+limit sign, normounted onatraffic signal post.When mounted withother types ofsign, the
+triangular warning signs should always bemounted atthetop.Where twoormore warning
+signs areerected together, thesign relating tothehazard firstencountered should beplaced
+uppermost. When anewsign isadded toanexisting post, itisimportant toensure thatthe
+correct order ismaintained, ifnecessary adjusting theposition oftheexisting signs. The
+warning signs should normally belocated depending upon 85thpercentile speed ofprivate
+cars (asgiven inTable 15.1) inadvance ofthehazard warned against. Distances maybe
+increased onsteep downhill gradients toaccount forhigher speed. Where maptypeadvance
+direction signs areposted inadvance oftheintersections, thewarning signs relating tothese
+junctions could beavoided toeliminate theclustering ofsigns.
+15.4 Left/Right Curve
+These signs aretobeused,whenever there isaneed forreduction ofspeed duetochange of
+direction ofalignment and radii ofthecurvature arebelow thespecified limit.These signs are
+intended towarn thedriver toreduce thespeed andproceed cautiously. Thewarning signs are
+tobeused sparingly. Ifaroadhascertain curves where vehicles cannot beallowed tonegotiate
+withtheabsolute speed limitorthegeneral operating speed established fortheroad, such
+curves shallbeprovided withcurve warning signs onbothapproaches. Supplementary plate
+indicating advisory speed limitcanalsobeprovided along withcautionary signconsidering
+thelevel ofrestriction required onthecurve. Ideally ifthedifference between theapproach
+speed toacurve andthesafe negotiating speed derived based ongeometric parameters of
+curve exceeds 15kmph, thecurve shallbeprovided withcurve warning sign.
+The lefthand curve signshould beused tomark curves bending tothe leftandtherighthand
+curve sign forcurves bending totheright (Figs. 15.01and15.02).
+15.5 Right/Left Hairpin Bend
+Thesignshould beused tomark curves ofsmall radii,where thechange ofdirection isso
+37
+
+IRC:67-2012
+considerable astoamount toareversal ofdirection. Thesymbol should bend toleftorright
+according totheroadalignment (Figs. 15.03and15.04).
+15.6 Right/Left Reverse Bend
+Thesignshould beerected where twocurves inopposite direction areseparated byatangent
+lessthan120minlength inplains and30minhills.Thesignmay alsobeerected where
+intheopinion ofthecontrolling authority; thenature ofthereverse bend isnotobvious to
+approaching drivers andconstitutes ahazard. Ifthe firstcurve istothe right, arightreverse
+bend sign shallbeused. Ifthe firstcurve istothe left,aleftreverse bend sign shallbeused
+(Figs. 15.05and15.06).
+15.7 Series ofBends
+This signshould beused tocaution thedriver ofthepresence ofzig-zag foralongdistance
+over thesection ofroadahead. Thesignmaybeposted 50-100 mahead ofthesection
+under question. Thesignmayberepeated atappropriate intervals ifthezig-zag road islong
+(Fig. 15.07).
+15.8 270Degree Loop
+Thesign shallbeused tocaution thevehicles about 270degree sharp loop.Thesign shall
+beplaced atthebeginning ofsuch area (Fig. 15.08).
+15.9 SideRoad
+Thesignshould beerected (Figs. 15.09and15.10) inadvance ofthemain road intersections
+where intheopinion ofthecontrolling authority, asufficiently largevolume ofentering traffic
+together with restricted sight distance islikely toconstitute ahazard. Thesignshould only
+beusedwhen thedrivers need tobewarned oftheexistence ofajunction andnoother
+indication, e.g.,byamaptypeadvance direction sign ortraffic signal isgiven.
+15.10 Y-lntersection
+Thesignshould beerected ontheapproach toabifurcation ofanyroad. This signshould
+onlybeusedwhen thedriver needs tobewarned oftheexistence ofajunction andnoother
+indication, e.g.,byamaptypeadvance direction signortraffic signal, isgiven (Figs. 15.11
+to15.13).
+15.11 Cross Road
+Thesignshould beerected inadvance ofthecross roadwhere intheopinion ofthecontrolling
+authority, asufficiently largevolume ofcrossing orentering traffic together with restricted
+sight distance islikely toconstitute ahazard. This signshould onlybeusedwhen thedrivers
+need tobewarned oftheexistence ofanintersection andnoother indication, e.g.,byan
+advance direction signortraffic signal, isgiven (Fig. 15.14).
+38
+
+IRC:67-2012
+15.12 Roundabout
+Thesignshould beusedwhere itisnecessary toindicate theapproach toaroundabout and
+adequate warning isnotconveyed byamaptypeadvance direction sign (Fig. 15.15).
+15.13 Traffic Signals
+This signshould beused tocaution thedrivers ofthepresence oftraffic signals. This sign
+maybeposted 50-100minadvance ofthelocation oftraffic signals (Fig. 15.16).
+15.14 T-lntersection
+Thesignshould beerected inadvance ofT-junctions where intheopinion ofthecontrolling
+authority, thenature oftheintersection isnotobvious toapproaching drivers. Thewidth of
+bands should indicate therelative importance oftheroads. This signshould onlybeused
+when thedriver needs tobewarned oftheexistence ofajunction andnoother indication,
+e.g.,byamaptypeadvance direction signortraffic signal, isgiven (Fig. 15.17and15.18).
+15.15 MajorRoadAhead
+Thesignshould beerected inadvance ofcrossing withamajor road,where intheopinion
+ofthecontrolling authority, asufficiently largevolume oftraffic together with restricted sight
+distance islikely toconstitute ahazard. Thesignshould notbeusedwhere theinter-section
+iscontrolled bytraffic signal (Fig. 15.19).
+15.16 Staggered Inter-section
+Thesignshould beused toindicate junctions where thedistance between twojunctions does
+notexceed 60m.This signshould onlybeusedwhen thedriver needs tobewarned ofthe
+existence ofajunction andnoother indication, e.g.,byamaptypeadvance direction signor
+traffic signal, isgiven (Figs. 15.20and15.21).
+15.17 Merging Traffic Ahead
+This sign isposted insituations where thetraffic from other road ismerging andthedrivers
+arerequired toslowdown their vehicles forsafe travel (Fig. 15.22). Inspecial cases of
+interchanges, there canbemerging from therighthand side also, forwhich appropriate sign
+shallbeusedasshown inFig.15.22.
+15.18Narrow RoadAhead
+Thesignshould beerected onsuch sections ofroads where intheopinion ofthecontrolling
+authority, asudden reduction inwidth ofpavement causes adanger totraffic (Fig. 15.23).
+15.19 RoadWidens
+Thesignshould beerected onsuch sections ofroads where intheopinion ofthecontrolling
+39
+
+IRC:67-2012
+authority, thesudden widening ofaroadcauses adanger totraffic, such as,atwo-lane road
+suddenly widening toafour-lane undivided carriageway (Fig. 15.24).
+15.20 Narrow Bridge Ahead
+Thesignshould beerected onroads inadvance ofbridges where theclear width between
+kerbs orwheel guards islessthan thenormal width ofthecarriageway (Fig. 15.25).
+15.21 Steep Ascent
+Thesignshould beused30mbefore asteep upgrade where theerecting authority considers
+thatthesteepness oftheupgrade warrants awarning totheroad users.Agradient of10per
+centandabove maybeconsidered steep gradient forthispurpose. Thesignshould notbe
+used unless thegradient continues foralength ofabout 500mto1km. Itshould berepeated
+atsuitable intervals inthestretch having thesteep ascent (Fig. 15.26).
+15.22 Steep Descent
+The signshould beused 30mbefore asteep downgrade, where theerecting authority
+considers thatthesteepness ofthegrademay constitute ahazard totraffic.Agradient of10
+percentandabove maybeconsidered asasteep gradient forthispurpose. Thesignshould
+notbeused unless thegradient continues foralength ofabout 500m. Itshould berepeated
+atintervals inthestretch having thesteep descent (Fig. 15.27).
+15.23 Reduced Carriageway
+This sign isused tocaution thedriver ofthereduction inthewidth ofthecarriageway ahead.
+This isapplicable toundivided carriageway whensome portion ofthecarriageway isclosed
+orreduced formaintenance orrepairs (Figs. 15.28and15.29).
+15.24 Start ofDualCarriageway
+This sign isposted when asingle carriageway endsupintodualcarriageway. Thesignmay
+beposted at100mfrom thestart ofdualcarriageway (Fig. 15.30).
+15.25 EndofDua!Carriageway
+This sign isposted when dualcarriageway isending andsingle carriageway isstarting. The
+signmaybeposted at100-150 mfrom theendofdualcarriageway (Fig. 15.31).
+15.26 Gap inMedian
+Thesignshould beinstalled ahead ofagap inthemedian ofadivided carriageway, other
+than atintersection (Fig. 15.32).
+15.27 Pedestrian Crossing
+The signshould beerected inadvance onbothapproaches touncontrolled pedestrian
+40
+
+IRC:67-2012
+crossings. This isabsolutely essential when visibility ofthecrossing isimpaired byabend or
+hump intheroad (Fig. 15.33). Ifrequired, thesigncanberepeated atashort distance ahead
+ofthepedestrian crossing, indicating thedistance tothecrossing withasupplementary plate,
+i.e.Fig.15.33 +Supplementary plate indicating "10m"or"20m".
+15.28 School Ahead
+Thesignshould beerected where school buildings orgrounds areadjacent totheroad,
+andwhere intheopinion ofthecontrolling authority, passing traffic cancreate ahazard to
+children (Fig. 15.34).
+15.29 BuiltUpArea
+Thesign shallbeused tocaution thevehicles about BuiltupArea.Thesign shallbeplaced
+atthebeginning ofsuch area. (Fig 15.35).
+15.30 TwoWayOperation
+Thissign isused tocaution thedriver ofachanged pattern oftraffic condition onacarriageway
+expected tocarry traffic inonedirection only.Forexample, onadualcarriageway, theentire
+traffic isdiverted toonesidebecause ofemergency orroadwork. Inthissituation, drivers are
+warned byposting thissign (Fig. 15.36).
+15.31 TwoWay Traffic onCross RoadAhead
+This sign isposted insituations where thetraffic onthecross roadahead istwowayandthe
+drivers arerequired toslowdown their vehicles forsafe travel (Fig. 15.37).
+15.32 LaneClosures
+This sign isused tocaution thedriver oftheclosure ofaportion ofthecarriageway onmulti-
+lanehighways (Figs. 15.38 to15.40).
+15.33 Traffic Diversion onDualCarriageway
+This sign isused towarn thedriver ofthediversion oftraffic fromonecarriageway tothe
+other. Mostly itisusedondualcarriageway when onecarriageway isclosed formaintenance
+orduetoanincident (Fig. 15.41).
+15.34 Men atWork
+Thesignshould bedisplayed onlywhenmen ormachines areworking ontheroad oradjacent
+to itoronoverhead lines orpoles. Thesignshould beremoved immediately after thework is
+completed (Fig. 15.42). Thesign isgenerally located ontheapproach side oftheworkzone
+orareaandanother sign withsupplementary plate"END" shallbeprovided attheleaving
+side oftheworkzonewhere traffic revert back tonormal flow oftraffic.
+41
+
+IRC:67-2012
+15.35 Danger Warning Sign
+This sign isposted insituations where thevehicle drivers mayfaceanykind ofdanger and
+thedrivers arerequired toslowdown their vehicles forsafe travel (Fig. 15.43).
+15.36 Deaf orBlind Persons Likely onRoadAhead
+This sign isposted onlynear theschools orinstitutions meant forhearing impaired persons
+andblindpersons (Fig. 15.44and15.45).
+15.37 Cycle Crossing
+Thesignshould beerected inadvance ofalluncontrolled cycle crossings (Fig. 15.46).
+15.38 Cycle Route Ahead (Warning forCycles onroad ahead) (Mixed Traffic
+Conditions)
+Thissign isposted insituation where theCycle Route isapproaching, anddrivers arerequired
+toslowdown (Fig. 15.47).
+15.39 Dangerous Dip
+Thesignshould beerected where asharp dip intheprofile oftheroad oracauseway islikely
+tocause considerable discomfort totraffic (Fig. 15.48).
+15.40 Speed Breaker
+This signshould beused towarn thedrivers ofthepresence ofthespeed breaker. This sign
+should beposted 50-60minadvance ofthespeed breaker location (Fig. 15.49). Ifrequired,
+thesigncanberepeated atashort distance ahead ofthespeed breaker, indicating the
+distance tothespeed breaker withasupplementary plate, i.e.Fig.15.49 +Supplementary
+plate indicating "10m"or"20m".
+15.41 Rumble Strip
+Thesignshould beposted 50-60minadvance oftherumble strips provided ontheroad to
+control andreduce thespeed. This istowarn thedrivers ofthepresence oftherumble strips
+(Fig. 15.50). Ifrequired, thesigncanberepeated atashort distance ahead oftherumble
+strips, indicating thedistance totherumble stripwithasupplementary plate, i.e.Fig.15.50 +
+Supplementary plate indicating "10m"or"20m".
+15.42 Rough Road
+This sign isposted insituations where theroad isrough andthedrivers arerequired toslow
+down their vehicles forsafe travel (Fig. 15.51).
+15.43
+Thissign isposted insituations where theroadhasditchandthedrivers arerequired toslow
+down their vehicles forsafe travel (Fig. 15.52).
+42
+
+IRC:67-2012
+15.44 Loose Gravel
+Thesignshould beusedonsection ofaroadonwhich gravel maybethrown upbyfast
+moving vehicles. The signshould beremoved immediately after thehazard isremedied
+(Fig. 15.53).
+15.45 Slippery Road
+Thesignshould beerected towarn thatthesection oftheroadahead maybeparticularly
+slippery. Thesignshould beremoved immediately after thehazard isremedied (Fig. 15.54).
+15.46 Slippery Roadbecause ofIce
+This sign isposted insituations where theroadhasiceandthedrivers arerequired toslow
+down theirvehicles forsafe travel (Fig. 15.55).
+15.47 Opening orSwing Bridge
+This sign isposted insituations where theswing road bridge exists, andthedrivers are
+required toslowdown their vehicles forsafe travel (Fig. 15.56).
+15.48 Overhead Cable
+This sign isused tocaution thedriver ofthepresence ofoverhead power transmission lines
+(Fig. 15.57).
+15.49 PlayGround Ahead
+Thesign shallbeused tocaution thevehicles about playground approaching. Thesign shall
+beplaced atthebeginning ofsucharea (Fig 15.58).
+15.50 Quay SideorRiverBank
+Thissign isused tocaution thedriver ofthepresence oftheimpending danger bythesideof
+theroadduetopresence ofthewater body (Fig. 15.59).
+15.51 Barrier
+Thesignshould beerected inadvance ofagate controlling entry intoaroad.Apairofsigns
+should beused forthepurpose: (i)awarning sign withadefinition plate bearing thewords
+"SLOW, BARRIER AHEAD" installed atadistance of200mfrom thebarrier and (ii)another
+warning sign withadefinition plate bearing thewords "DEAD SLOW, BARRIER AHEAD"
+installed atadistance of50-100minplainand rolling terrain and30-60minhilly terrain. In
+case oftollbarriers, thewords "BARRIER AHEAD" maybereplaced by"TOLL BARRIER
+AHEAD" (Fig. 15.60).
+15.52 Sudden SideWinds
+Thissign isused tocaution thedriver ofthedanger ofsidewinds, which endanger thelives of
+travelers. This sign isposted atplaces where suchweather conditions exist. This willenable
+43
+
+IRC:67-2012
+thedriver toproceed cautiously andactappropriately incase ofemergency (Fig. 15.61).
+15.53 Tunnel Ahead Warning
+Thesign isposted insituations where the traffic approaches atunnel andthedrivers are
+required toslowdown their vehicles forsafe travel (Fig. 15.62).
+15.54 Ferry
+Thesign isintended towarn thedrivers about theexistence ofaferry crossing across a
+river. Itisrecommended thatpairofsigns beused forthispurpose, oneforadvance warning
+located at200mfrom theferry,andthesecond erected near theferry.Thedistance ofthe
+second signfrom theferrymaybe50to100minplainand rolling country and30to60min
+hillsdepending onthedesign speed (Fig. 15.63).
+15.55 Tram Crossing
+Thesign shallbeused tocaution thevehicles about approaching Tram Crossing. Thesign
+shallbeplaced atthebeginning ofsuch area (Fig. 15.64).
+15.56 Falling Rocks
+Thesignshould beerected wherever rocks areliable tofallontheroad either seasonally
+orthroughout theyear.Thesymbol maybereversed toshow thesidefromwhich rock fall
+isexpected. Thehighway authorities should cover thesigns during theseason when this
+problem does notexist (Fig. 15.65).
+15.57 Cattle Crossing
+Thesignshould beerected where there isdanger duetofarmanimals orcattle crossing on
+theroad.Thesignshould notbeused simply because animals aredriven along oracross the
+road atfrequent intervals butshould beusedwhere theycross regularly (Fig. 15.66)
+15.58 WildAnimals likely tobeonRoadAhead
+This sign isposted insituations where thewildanimals maycross theroadandthedrivers
+arerequired toslowdown their vehicles forsafe travel (Fig. 15.67).
+15.59 Queues LikelyAhead
+Thissign isposted insituations where theroad iscongested duetoheavy vehicular movement
+andthedrivers arerequired toslowdown their vehicles oravoid thatroad forsafe travel
+(Fig. 15.68).
+15.60 Airport/Airfield
+Thissign isused towarn thedrivers ofthepresence ofAirport orAirfield andthesignmaybe
+posted at50-100minadvance oftheairport/airfield (Fig. 15.69).
+44
+
+IRC:67-2012
+15.61 Unguarded Railway Crossing
+Thesignshould beused ontheapproaches ofrailway level crossings where there areno
+gates orother barriers. Apairofsigns shallbeused forthepurpose: (i)anadvance warning
+signlocated at200maway from thecrossing and (ii)asecond sign tobeerected near the
+crossing. Thedistance ofthesecond signfrom thecrossing maybe50-100minplainand
+rolling terrain and30-60minhilly terrain (Fig. 15.70).
+15.62 Guarded Railway Crossing
+Thesignshould beused towarn traffic ontheapproaches toguarded railway crossings. A
+pairofsigns shallbeused forthepurpose (i)anadvance warning signlocated at200maway
+from thecrossing and (ii)asecond sign tobeerected nearthecrossing. Thedistance ofthe
+second signfrom thecrossing maybe 50-100minplainand rolling terrain and30-60min
+hillyterrain (Fig. 15.71).
+15.63 Chevron Signs
+Atthecurved alignment ofaroadway, thechevron signs shallbeused toinform thedrivers
+about sharpness ofcurve. Thechevron sign shallbeavertical rectangle andshallbeinstalled
+always ontheoutside ofaturn orcurve, inlinewithand atapproximately rightangle to
+approaching traffic. Spacing ofChevron signs should besuch thattheroaduseralways has
+atleasttwosigns inview, untilthechange inalignment eliminates theneed forthesignas
+given inTable 15.3.Chevron signs should bevisible forasufficient distance toprovide the
+roaduser withadequate time toreact tothechange inalignment.
+Table 15.3Spacing ofSingle Chevron Signs
+Curve Radius(m)Distance Between Single Chevron
+(m)
+OnCurve Before Curve
+50 15 30
+100 20 40
+200 30 60
+300 45 90
+400 60 120
+500 70 140
+>500 80 150
+Depending upon thesharpness ofthecurve, Single Chevron (Fig. 15.72), Double Chevron
+sign (Fig. 15.74) andTriple Chevron Sign Fig.15.75) canbeinstalled. IftheSingle Chevron
+signs aretobeused forroads operating atormore than100kmph, relatively bigger size
+single chevron (Fig. 15.73) shallbeused.
+45
+
+IRC:67-2012
+15.64 Hazard Marker
+Road sidehazard likebridges, trees which arecoming intheroadway aretobeilluminated
+byretro reflective Object Hazard Markers (OHM) and foraleftsidehazard Fig.15.76 shall
+beusedandforarighthazard Fig.15.77 shallbeused. Iftraffic isallowed topassoneither
+sidethetriangular islandTwoHazard Marker Fig.15.78 shallbeused.
+16INFORMATORY SIGNS
+16.1 Thesigns illustrated inthissection giveinformation totheroaduserregarding their
+location orfacilities available inthevicinity orabout thedestination. Thedetailed dimensioned
+drawings fordirection information signs withguidance fordesign areshown inPlate-Ill and
+design principles arepresented inAnnexure-lll. For facility information signs fornormal
+sizes areshown inPlate-IV andsigns ofother sizes thesymbols should beproportionately
+reduced orenlarged. The facility information signs arelisted inAnnexure-IV.
+16.2 Thesigns areclassified under thefollowing sub-heads keeping inview theirdesign
+andapplication:
+1) Direction andPlace Identification signs
+2) Facility Information signs
+3) Other Useful Information Signs
+4) Parking Signs, and
+5) FloodGauge
+16.3 Direction andPlace Identification Signs
+Following arethefunctions ofthedirection signs:
+• Itshould give drivers advance information oftheirapproach toajunction
+Itshould indicate thetype ofjunction
+Itshould inform them ofthedestinations thatmaybereached fromeach exit
+• Itshould identify therouteandindicate itsstatus within network
+16.3.1 Shape, Colour andLanguage ofInscription
+These signs shallberectangular. However direction signsmaybeintheshape ofanelongated
+rectangle withthelonger side horizontal, terminating inanarrowhead. Thecolour pattern for
+direction signs aregiven inTable 8.3andsize oftheletters shallbeasperTable 11.1.The
+English font shallbe"Transport Medium" andHindi shallbe"Hindi7". Thedesign principles
+arepresented pictorially inFigs. 16.01 to16.16. Allmessages, borders, andlegends shallbe
+retro-reflective and allbackground shallberetro-reflective orilluminated.
+16.3.2 Advance Direction Signs
+Thesign indicates theroutes ahead byshowing thenames ofparticular places witharrow
+46
+
+IRC:67-2012
+symbols indicating directions. Ifdesired, distance ofplaces inkmmaybeshown after the
+destination names. Ifmore thanoneplace istobeshown inthesame direction, thenames of
+theplaces maybegrouped andasingle arrow used fordirection indication. Names/ Group
+ofnames ofplaces shallbeseparated byalineasshown inFig.16.01. These arecalled
+asstack type sign.Onhighspeed roads where thejunctions arecomplex inlayout, large
+sizesigns(map type signs) shown inFig.16.02maybeemployed. Insituation where rotary
+(roundabout) inter-section exists, signs asshown inFig.16.03maybeemployed. Thesigns
+canbeeither shoulder mounted organtry mounted. Gantry mounted signs aregenerally
+used forgrade separated intersections. Thesign shall normally belocated atadistance from
+theintersection asgiven inTable 11.1.
+TheAdvance Direction Signs shallbeforshowing directions anddestinations witharrows,
+andwhenever applicable canbewithroutenumbers also.
+16.3.2.1 Advance Direction Signs
+•Map type ofsign isdesigned based onthejunction configuration and
+geometry. However itcanbemodified interms ofshape andcomposition
+forincreasing theclarity andaesthetics.
+• Inaroundabout junction sign, therecommended minimum angle forcut-out
+is25°.Thepurpose ofthecut-out istoemphasize that alltraffic must travel
+inaclockwise direction.
+•Where aroundabout isoffset from themain direction oftravel, itmaybe
+appropriate toshow acurved approach armontheadvanced direction sign.
+16.3.2.2 Siting ofAdvance Direction Signs
+Junction Reference point:Thedistance inadvance ofjunction atwhich Advance Direction
+signs should besited ismeasured from thejunction reference point.Thereference point is
+defined below.
+Incase ofInterchange, thepoint atwhich carriageway widens toform theexitroadand for
+at-grade Junctions from:
+•STOP orGiveWay line
+•The point atwhich thecarriageway firstwidens toform additional turning
+lanes orsliproads.
+16.3.2.3 Siting ofAdvance Direction Signs forInterchanges
+Thestandard distances atwhich Advance Direction signwould besited areshown in
+Table 11.1. This shallbeapplicable forexpressways orhighways withmajor interchanges.
+However, ifthedistance between twosuccessive junctions islessthan 1kmwhich isa
+common phenomenon inmost oftheurban areas inthecountry, onlyAdvance Direction sign
+shallbeused.
+47
+
+IRC:67-2012
+Forgrade separated intersections, (i.e.where the trafficmovement occurs ontwoormore
+thantwolevels), twoadvanced direction signs should beprovided. The firstAdvance Direction
+sign islocated 750mto1.5kmfrom the exit,which should bepreferably gantry mounted
+sign.Thesecond advance direction sign islocated 250mto750mfrom theexit. Itshould be
+gantry mounted; butatintersections where thenumber ofthrough lanes remains constant,
+itmaybeshoulder mounted. Additionally amaptypeandstack type direction signcanbe
+installed at100m to250m ahead ofexit(Fig. 16.14).
+16.3.2.4 Stack TypeAdvance Direction Sign
+• Stack typesigns areintended foruseonly atsimple junctions andshould not
+indicate more than three directions asthesignwould thenbecome difficult
+toread
+o Both thearrow andthepanel arecentered vertically onthesign
+o Arrows maybevertical orhorizontal oratanyangle (increments of22.5°)
+When more thanonedestination isshown, following should beconsidered:
+o Destination ahead with vertical arrow onrighthand side ofdestination name
+andboth rightaligned
+o Destination tothe leftwiththearrow onthe leftofthedestination name and
+both leftaligned
+o Destination totheright withthearrow ontheright ofthedestination name
+andboth rightaligned
+16.3.2.5Destination sign
+Thesignshould beposted inadvance atintersections ofmajor importance oratintersections
+where approach speeds arehigh requiring advance information. Theforward destination
+name with vertical arrow shallbethetoppanel, the leftdestination witharrow shallbethe
+middle panel, andtherightdestination witharrow atthebottom oftheassembly. Themaximum
+number ofdestinations inasingle destination sign shall notexceed three (Fig. 16.01).
+16.3.3 Direction Sign (Flag Type)
+Thesign (Fig.16.04) shows where aroadleads toandindicates thenames oftowns; railway
+stations, aerodromes, orpublic centers, andthedistance byroad tothem. Direction is
+indicated bythearrowhead attheendofthesignboard, theboard being placed generally
+parallel totheroad leading totheplace named. These types ofsignarecalled asFlagtype
+signs. Theplacement ofthedirection sign shall beaspertheprovisions ofTable 11.1.
+Itshould bevisible tothedrivers both during approach andwhile making theturn (with
+minimum clear visibility distance). Thisdesign principle mayalsobeused forsigns indicating
+streetnames inurban areas, whichmaybedesigned forthefontheight of30mmto50mm.
+16.3.4 Reassurance SignorRoute Confirmatory Sign
+The sign (Fig.16.05) should beerected onimportant roads beyond anintersection or
+48
+
+IRC:67-2012
+junction, toreassure adriver ofavehicle thatthedesired direction isbeing followed. Aroute
+confirmatory sign shall normally show theroute number, destination ahead anddistance to
+thedestination. Iftwoplacenames along with theirdistances have tobeshown, theupper
+name should beoftheplace with larger population ormaximum importance ontherouteand
+thenextname being oftheplace next intheorder ofimportance.
+16.3.4.1Siting ofReassurance Sign
+Itshould beplaced 60mbeyond thefarshoulder orcurb lineoftheintersected road ofthe
+junction. Inurban areas, reassurance signmaybeplaced inbetween intersections soasto
+keep theuser informed. Thenames ofthedestination places should bethesame asshown
+ontheadvance direction signs placed before theintersection. Formajor interchanges, it
+should beplaced within adistance of200mfrom thelastpoint atwhich vehicle could join
+themain carriageway. Itmayalsobeused along aroute atspacing notgreater than10km
+onhighways orexpressways.
+16.3.5 Place/City Identification
+Thesign (Fig. 16.06) should beused along highways tomark entrance totheplace orcity.
+Itshould beerected attheentrance totheareaunder thejurisdiction ofthelocal authority.
+16.3.6 TruckLayby
+Along thehighways, theposting ofTruck Lay-by isessential sothatthegoods vehicle drivers
+would beadequately inadvance informed oftheavailability ofsuch afacility. Thesign ofthe
+typeshown inFig.16.07 istobeprovided withthedirectional arrow showing thedirection in
+which the facility islocated. These signs areposted inadvance ofthelocation where truck
+lay-by isprovided.
+16.3.7 TollBoothAhead
+Thesign isused toindicate thelocation oftollbooth where feearelevied andcollected from
+theroadusers fortheiruseofroad facilities. Thesignshown inFig.16.08 istobeprovided.
+Thesign isposted 500to1000mahead ofthe tollbooth.
+16.3.8 Weigh bridge ahead
+Thesign isused toindicate thedrivers oftrucks orheavy goods vehicles thelocation of
+weigh bridge station. Thedistance ordirection arrowmaybeincluded below thetext.This is
+provided inadvance ofthefacility sothatdriver canreduce thespeed andleave thehighway
+safely (Fig. 16.09).
+16.3.9 Gantry Mounted Signs
+Thegantry mounted signs aremade fordifferent situations. These aremade forboth lane
+specific andnon-lane specific directions, andcaninclude more thanonedestination onthe
+same line. Further, the firstgantry may include junction name panel atthetopofthegantry
+assembly.
+49
+
+IRC:67-2012
+Fig.16.10 presents adesign forgantry mounted direction boards tobeplaced ahead ofa
+traffic diverging pointonmainhighway where grade separated movement hasbeen facilitated
+formainhighway traffic.
+Fig.16.11 presents adesign forgantry mounted direction boards tobeplaced ahead ofa
+'At-Grade intersection' where right turning movement hasbeen facilitated byapriority or
+signal controlled junction. Fig.16.12 presents adesign forgantry mounted direction boards
+tobeplaced farahead oftraffic diverging pointonfullaccess controlled andgrade separated
+highway likeexpressway. Fig.16.13 presents adesign forlane specific gantry signswhere
+dedicated lanes havebeenmade fordestinations mentioned inthegantry boards. Fig.16.16
+presents adesign forgantry mounted signs inurban orcityroadahead ofaflyover where
+at-grade movement hasbeen facilitated below theflyover forright turning traffic.
+17FACILITY INFORMATION SIGNS
+Thesigns illustrated inthissection giveinformation totheroaduserregarding location and
+availability ofservices inthevicinity.
+17.1 Size,Shape andColour
+These signs shallberectangular andhave abluebackground, while black symbol shallbe
+displayed inwhite square toindicate the facility. Thesizeofthenormal sign shallbe800mm
+x600mmandofthesmall sized sign600mmx450mm.Thedistance tothefacility indicated
+ortoentry oftheroad leading maybeinscribed inwhite colour ontheblueband atthebottom
+ofthesign.Thesignsmayalsobesetupattheentry totheroad leading tothefacility and
+maythenbearawhite directional arrow ontheblue partatthebottom. ForExpressways, the
+size shallbe1200mmx900mm.
+17.2 Eating Place
+Thesignshould beused toindicate where aregular eating place islocated (Fig. 17.01).
+17.3 LightRefreshments
+Thesignshould beused toindicate aplace where lightrefreshments would beavailable
+(Fig. 17.02).
+17.4 Resting Place
+Thesignshould beused toindicate place where facilities forresting andlodging would be
+available. Itshallbecombined withaseparate definition plate, indicating whether theplace
+isaRestHouse, Motel, Hotel, etc.(Fig. 17.03).
+17.5 FirstAidPost
+Thesignshould beused tonotify thedrivers ofvehicles onlongstretches ofroads inrural
+areas ofthe firstaidfacility whichmaybehelpful incase ofemergency (Fig. 17.04).
+50
+
+IRC:67-2012
+17.6 Toilet
+Thesign shallbeused toinform thevehicles about Toilet facilities. Thesign shallbeplaced
+atthebeginning ofsuch facilities (Fig. 17.05).
+17.7 Filling Station (FuelPump)
+Thesignshould beerected onlongstretches ofroads inruralandurban areas attheentry
+totheroad leading tothefacility including CNG filling stations. Itisnotnecessary when the
+facility iswithin sightandavailable atreasonably frequent intervals along theroute (Fig. 17.06).
+17.8 Hospital
+Thesignshould beused tonotify drivers ofvehicles thattheyshould take theprecautions
+required near medical establishments and inparticular thatthey should notmake any
+unnecessary noise. Thesignalsoserves toindicate thelocation ofhospital where medical
+facilities willbeavailable (Fig. 17.07).
+17.9 Public Telephone
+Thesignshould beerected onlongstretches ofroads inruralareas indicating thedistance to
+thenearest public telephone onsupplementary plate, especially where itisininconspicuous
+position (Fig. 17.08).
+17.10 U-turn Ahead
+Thesign ispositioned onthemedian inadvance ofaU-turn (Fig. 17.09). Therequired sight
+distances aregiven inTable 17.1.
+Table 17.1Placement ofU-turn Ahead Sign
+Design Speed (kmph)Sight Distance
+(m)
+0-60 30
+60-80 45
+Above 80 60
+Thedistances should bemeasured from thebeginning ofdeceleration lane. Ifsuch lane is
+notprovided, then100mshould beadded totheabove mentioned sight distances.
+17.11 Pedestrian Subway
+Toguide thepedestrian traffic totheSubway. Theplatemaybeextended toshow thedirection
+arrow below thetext(Fig. 17.10).
+17.12 FootOver Bridge
+Itisused toinform pedestrians ofthelocation ofpedestrian footover bridge. Signs are
+erected atboth sides ofthecarriageway fortraffic approaching from both directions (Fig.
+17.11).
+51
+
+IRC:67-2012
+17.13 Chair Lift
+Thesign shallbeused toinform thevehicles about Chair Liftfacility. Thesign shallbeplaced
+atthebeginning ofsuch facility (Fig. 17.12).
+17.14 Police Station
+Thesignshould beerected attheplaces where thePolice Station issituated nearby (Fig. 17.13).
+17.15 Picnic Site
+Thesign shallbeused toinform thevehicles about Picnic Site.Thesign shallbeplaced at
+thebeginning ofsuchareas (Fig. 17.14).
+17.16 Repair Facilities
+Thesignshould beerected attheplaces where therepair facilities areavailable. (Fig. 17.15).
+17.17 Railway Station/Metro Station/Monorail Station
+Thesignshould beerected attheplaces where theRailway Station/ Metro station orany
+othermass transit station issituated nearby (Fig. 17.16).
+17.18 Industrial Area
+Thesign shallbeused toinform thevehicles about industrial area.Thesign shallbeplaced
+atthebeginning ofsuchareas (Fig. 17.17).
+17.19 Cycle-rickshaw Stand
+Thesign istobeerected where thecycle-rickshaws aretowait(Fig 17.18).
+17.20 TaxiStand
+Thesign istobeerected where thetaxisareexpected towaitwhen notengaged/hired (Fig. 17.19).
+17.21 Auto-rickshaw Stand
+Thesign istobeerected where theauto-rickshaws aretowait (Fig. 17.20).
+17.22.
+Thesign shallbeused toinform thevehicles abouthome zone, generally useful fortraffic
+calming measures which willentail slowing down torequired speed levels aswellasno
+honking. Thesign shallbeplaced atthebeginning ofsuch area (This signcanbeused in
+both ruralandurban areas) (Fig. 17.21).
+17.23 CampSite
+Thesign shallbeused toinform thevehicles aboutCamp Site.Thesign shallbeplaced at
+thebeginning ofsuch areas. (Fig. 17.22).
+52
+
+IRC:67-2012
+17.24 Airport
+Thesignshould beerected attheplaces where theAirport issituated nearby (Fig. 17.23).
+17.25 GolfCourse
+Thesign shallbeused toinform thevehicles about GolfCourse. Thesign shallbeplaced at
+thebeginning ofsuch facility (Fig. 17.24).
+17.26 National Heritage
+Thesign shallbeused toinform thevehicles about National Heritage Area.Thesign shallbe
+placed atthebeginning ofsuch area (Fig. 17.25).
+17.27 NoThrough Road
+Thesignshould beerected attheentrance toaroadfromwhich there isnoexit(Fig. 17.26).
+17.28 NoThrough SideRoad
+Thesignshould beerected onthemain road, withappropriate variations tothesymbol soas
+toshow theroad layout, where itisconsidered essential togiveadvance indication ofa'No
+Through' SideRoad' (Fig. 17.27).
+17.29 TollRoadAhead
+Thissign shall provide information toallvehicles about Tollroads andshallbeinstalled atthe
+beginning ofsuch road (Fig. 17.28)
+17.30 Guide Sign forETCLane
+This sign shallbeused toinform vehicle about Guide signonTollLane Portal (Fig. 17.29)
+17.31 Country Border
+Thesign shall beused toinform thevehicles about border ofcountry. Thesign shallbe
+placed atthebeginning ofsuch location (Fig. 17.30).
+17.32 EntryRamp forExpressway
+Thesign iserected where there isEntryramp toexpressway (Fig. 17.31).
+17.33 ExitRamp forRxpressway
+Thesign iserected where there isExitramp fromexpressway (Fig. 17.32).
+17.34 Expressway Symbol
+This sign iserected atentry ofExpressways (Fig. 17.33).
+53
+
+IRC:67-2012
+17.35 EndofExpressway
+This sign iserected attheendofExpressway (Fig. 17.34).
+17.36 BusStop
+Thesignshouid beerected attheplaces where thebuses aredesignated tostop (Fig. 17.35).
+17.37 BusLane
+This sign isinstalled toinform thedrivers ofthepresence ofreserved buslane inthe
+carriageway. Theoperation ofbuslane issupported byappropriate markings onthepavement
+todelineate thelaneandindicate thebusonlylanemarkings. These aregenerally mounted
+overhead withappropriate support (Fig. 17.36).
+17.38 Contra FlowBusLane
+This sign isinstalled toindicate thepresence ofbuslane topermit theoperation ofbuses in
+theopposing direction offlowonone-way streets (Fig. 17.37).
+17.39 Cycle lane
+This signprovides information about cycle lane toroadusers (Fig. 17.38).
+17.40 Contra flowcycle lane
+This sign shall beused toinform thevehicles about Contra flow ofcycles and shallbe
+installed before beginning ofsuch lane (Fig. 17.39).
+17.41 Holiday Chalets
+Thesign shallbeused toinform thevehicles about Holiday Chalets. Thesign shallbeplaced
+atthebeginning ofsuchareas (Fig. 17.40).
+17.42 Emergency Exit inTunnel
+Thesign shallbeused toinform people about emergency exit.Thesign shallbeplaced at
+suchareas astunnel etc.(Figs. 17.41&17.42).
+18OTHER USEFUL INFORMATION SIGNS
+Theshape andcolour ofthese signs shallbethesame asthose of'Facility Information' signs.
+Thesymbols shallbeaccording tothedrawings shown inrespective sign.
+18.1 Parking Signs (Figs. 18.01 to18.06)
+Theparking sign,whichmaybesetupparallel totheaxis oftheroad, should indicate the
+places where parking ofvehicles isauthorized. Thesign shallbesquare of600mmx600mm
+size. Itshallbeartheletter P'inwhite colour. Thebackground colour shallbebluewithwhite
+54
+
+IRC:67-2012
+border (Fig. 18.01). Symbols orinscriptions onanadditional platebelow thesignmayshow
+thedirection inwhich theparking places lieorthecategories ofvehicles forwhich parking is
+reserved.
+18.2 AutoRickshaw Parking
+Thissign willindicate AutoRickshaw Parking (Fig. 18.02).
+18.3 Cycle Parking
+This sign willindicate Cycle Parking (Fig. 18.03).
+18.4 Cycle Rickshaw Parking
+This sign willindicate Cycle Rickshaw Parking (Fig. 18.04).
+18.5 Scooter andMotorcycle Parking
+Thissign willindicate Scooter &Motorcycle Parking (Fig. 18.05)
+18.6 TaxiParking
+Thissign willindicate TaxiParking (Fig. 18.06).
+18.7 ParkandRide
+Thesign istobeerected where theparking isallowed only forriding thepublic transport
+vehicle (Fig.18.07 &18.08).
+18.8 Parking Restrictions Signs forTraffic Management
+Thesign istobeerected where theparking isnotallowed forspecified durations fortraffic
+management (Fig. 18.09).
+18.9 FloodGauge Sign
+Thesignshould beinstalled atcauseways andsubmersible bridges orculverts toindicate to
+theroadusers theheight ofthefloodabove theroad level (Fig. 18.10).
+19SIGNS FORPERSONS WITH DISABILITIES
+19.1 TheInternational Symbol ofAccessibility
+The International Symbol ofAccessibility (ISA) isalsoknown astheinternational
+wheelchair symbol. Itisused asinformatory sign with bluebackground andimage of
+aperson using awheelchair overlaid inwhite. Thewheel chair figure should always be
+seen facing right (Fig. 19.01).
+55
+
+IRC:67-2012
+Size,Shape andColour
+These signs shallberectangular andhave abluebackground, while white symbol shallbe
+displayed toindicate the facility. Thesizeofthenormal sign shallbe600mmx600mmand
+thesymbol shallbeasshown inFig.19.01.
+19.3 Parking Information
+Theparking areashould beindicated using asignage toreserved vehicle parking forusers
+with disabilities. Since thewheelchair isalways tobeshown facing right, thedirection ofthe
+parking should beindicated using anarrow (Fig. 19.02and Fig.19.03).
+19.4 Ramped Entrance toSubway/Over Bridge
+These signs shall inform thepersons with disabilities about theramp facility toenter pedestrian
+subway /footover bridge. These signs shallberectangular andhave abluebackground,
+while white symbol shallbedisplayed toindicate thefacility (Fig. 19.04).
+19.5 Telephone Facility
+Telephone facility should beindicated using asignage forpersons with disabilities (Fig. 19.05).
+19.6 Toilet Facility
+Toilet areashould beindicated using asignage forpersons with disabilities (Fig. 19.06).
+19.7 WayFinding Sign forDisabled
+Way finding signshould beindicated using asignage foradisable person (Fig. 19.07).
+20ROUTE MARKER SIGNS
+Route Marker signs areproposed inrespect ofNational Highways, State Highways,
+Expressways andAsian Highways. Thefollowing characteristics forRoute Marker Signs are
+recommended:
+i)Uniform shape ofroute markers fordifferent types ofroads.
+ii)Colour coded andsimple shape withcontrasting colours ofletters forbetter recognition.
+iii)Prominence given tonumber ofroute andcolour background forquick grasp bythe
+driver.
+20.1 StateHighway Route Marker Sign
+TheState Highway Route Marker Sign shall consist ofashield with retro reflective green
+colour baseandwhite symbol andborder onarectangular plate of450mmX600mm.The
+shape, sizeandspacing ofletters andnumerals shallconform tothose given inFig.20.01.
+56
+
+IRC:67-2012
+Location: Thesign shallbeerected onState Highway routeahead oftheintersections of
+other important roads, immediately after theintersections asconfirmatory Route Markers,
+atsuitable locations through built-up areas, andatsuch other point thatmaybeconsidered
+necessary forguiding thethrough traffic. Onroads without kerbs, thesign shallbeerected
+with clear distance oftwotothree meters from theedge ofthecarriageway. Ontheroads
+withkerbs, thesignpost shall notbelessthan600mmaway from theedge ofthekerb.The
+Distance (along theState Highway) ofthesignfrom thejunction, oneither side of itshallbe
+100to150m.Also, itshallbefixedonthe lefthand sideasoneapproaches thejunction.
+20.2 National Highway Route Marker Sign
+National Highway Route Marker Sign shall consist ofashield with retro reflective yellow
+colour baseandblack symbol andborder onarectangular plate of450mmX600mm.The
+shape, sizeandspacing ofletters andnumerals shallconform tothose given inFig.20.02.
+Location: Thesign shallbeerected onNational Highway routeahead oftheintersections
+ofother important roads, immediately after theintersections asconfirmatory Route Markers,
+atsuitable locations through built-up areas, and atsuch other point thatmaybeconsidered
+necessary forguiding thethrough traffic. Onroads without kerbs, thesign shallbeerected
+withclear distance oftwotothree meters from theedge ofthecarriageway. Ontheroads with
+kerbs, thesignpost shall notbelessthan600mmaway from theedge ofthekerb. Distance
+(along theNational Highway) ofthesignfrom thejunction, oneither side of it,shallbe 100to
+150m.Also, itshallbefixedonthe lefthand sideasoneapproaches thejunction.
+20.3 Asian Highway Route Marker Sign
+TheAsian Highway Route Marker Sign shall consist ofashield with retro-reflective green
+colour baseandwhite symbol andborder onarectangular plate of450mmx600mm.The
+signconsists ofthelettersAHfollowed bythenumber inArabic numerals assigned tothe
+route. Theshape, sizeandspacing ofletters andnumerals shallconform tothose given inFig.20.03.
+Location: Thesign shallbeerected onAsian Highway routeahead oftheintersections of
+other important roads, orAsian Highways immediately aftertheintersections asconfirmatory
+AHRoute Markers, atsuitable locations through built-up areas, and atsuch other point that
+maybeconsidered necessary toadvise thetravelers ofthepresence oftheAsian Highways.
+Onroads without kerbs, thesignpost shallbeerected with clear distance oftwoorthree
+meters from theedge ofthecarriageway. Onroads with kerbs, thesignpost shall notbe
+lessthan600mmaway from theedge ofthekerb.Thedistance ofthese signposts from the
+junction along theAsian Highway, oneither side of it,shallbe150to200m.Also, itshallbe
+fixedonthe lefthand sideasoneapproaches thejunction. Thesign shallbesupplemented
+totheNH,SHorExpressway Route Marker Signdepending upon thecategory oftheroad
+that isclassified alsoaspartoftheAsian Highway network within thecountry.
+20.4 Expressway Route Marker Sign
+TheExpressway Route Marker Sign shall consist ofashield with retro-reflective bluecolour
+57
+
+IRC:67-2012
+baseandblack symbol border onarectangular plate of450mmx600mm.Theshape, size
+andspacing ofletters andnumerals shallconform tothose given inFig.20.04.
+Location: The sign shall beerected onExpressway route ahead oftheintersections of
+other important roads, immediately after theintersections asconfirmatory Route Markers,
+atsuitable locations through built-up areas, and atsuch other point thatmaybeconsidered
+necessary forguiding thethrough traffic. Onroads without kerbs, thesign post shallbe
+erected withclear distance oftwoorthree meters fromtheedge ofthecarriageway. Onroads
+withkerbs, thesignpost shall notbelessthan600mmaway from theedge ofthekerb.
+Distance (along theExpressways) ofthesignfrom thejunction (interchange), oneither side
+of it,shallbe 150to200m.Also, itshallbefixedonthe lefthand sideasoneapproaches the
+junction (interchange).
+21GUIDELINES FORSIGNS ONEXPRESSWAYS
+Anexpressway isadivided highway forhighspeed traffic with fullcontrol ofaccess.
+21.1 General
+Thesigning system forexpressways should helproad user togetclear andprogressive
+direction information toavoid possible inconvenience bymissing proper entry orexit.Apart
+from thedirection information signs, alignment delineation signing andhazard adjacent to
+highspeed traffic areimportant while considering signing forexpressway. TheVulnerable
+Road Users likepedestrians and cyclist arenotpresent andthesigns catering theirneed are
+notrequired inthemain alignment.
+Signs aredesigned sothattheyarelegible toroadusers approaching themandcanberead
+intime topermit proper responses. Desired design characteristics include: (a)long visibility
+distances, (b)large lettering andsymbols, and (c)short legends forquick comprehension.
+2.1.2 Colour ofSigns
+Thecolour ofailtype ofsigns except direction informatory sign shallbesame asthat of
+Plate-I, and Plate-ll whereas fordirection information signs, itshallbewhite lettering, border
+andarrows onbluebackground. Incase offacility signs, black symbol isdisplayed within
+white square inbluebackground.
+21.3 Format ofLegends onOverhead andShoulder Mounted Signs
+Thelegend on allsignboards shall bebilingual-regional/local language andenglish
+except onthose signboards located atentry and/exit points ofExpressways. Entry/Exit
+shallhave inscriptions inregional/local language, Hindi andEnglish. Thefonttype shall
+beasperTable 21.1andatypical expressway ahead sign isgiven inFig.16.15.
+58
+
+IRC:67-2012
+Table 21.1FontType forInscription forExpressway Signs
+S.N Language Fonttype
+1. Hindi Hindi7
+2. English Transport Medium
+3. Regional Language Asperlocal practice
+21.4 Warrants forSign Installation
+TheSiting ofregulatory andwarning signs shall follow theguidelines mentioned inrespective
+sections. Distances ofinstallation shallbebased onthespeeds andclear visibility distance
+asmentioned inTable 11.1.
+21.5 Sizes oftheSigns
+Sizes ofthesigns should bedecided based ontheprevailing speeds onthetype oftheroads
+asshown intheTable 21.2.
+Table 21.2Sizes ofDifferent Types ofSigns forExpressways
+Sign ShapeSize(mm) for
+Speeds between
+80-100kmphSize(mm) for
+Speeds more than
+100kmph
+STOP Sign Octagonal 900 1200
+GIVEWAY Sign Triangle 900 1200
+Prohibitory Signs Circle 900 1200
+NoParking andNoStopping,
+NoStanding SignsCircle9001200
+Speed LimitandVehicle Control
+SignsCircle 1200 1200
+Cautionary Signs Triangle 1200 1200
+21.6 Placement oftheSigns withrespect toCarriageway
+Generally, placement ofthesigns shallbeasperthedetails given inSection 4.
+21.7 SizeofLetters
+Size ofletters should beasperTable 11.1. Normally, signsize isdetermined bythelength of
+themessage andsizeoftheletters necessary forproper legibility. Forsupplementary plates
+attached with facility signs, regulatory signs orcautionary signs therecommended letter size
+is100mm.Thetextsizeof100-125mm letter size shallbeused inthesupplementary plates
+withsome oftheregulatory signs depicting information ontypical timings like"09:00 amto
+08:00 pm"coupled withdates ordaysasapplicable.
+59
+
+IRC:67-2012
+21.8 Guidelines forInformatory Signs Installation
+General guidelines given inSections 1to20asrelevant forinformatory signs shall apply
+except forthefollowing signs.
+21.8.1 Direction Signs
+Thedirection signs should beeither gantry orshoulder mounted. These signs shallbeused
+forgrade separated Entryand Exittotheexpressways. Advance direction signs should be
+placed normally at1kmandat2kminadvance oftheexit.
+21.8.2 ExitDirection Signs
+The exitdirection signrepeats theroute anddestination information thatwasshown on
+theadvance information sign(s) forthenext exit,andthereby assures road users ofthe
+destination served andindicates whether they exittothe leftorright forthat destination.
+Shoulder mounted ExitDirection signs should beinstalled atthebeginning ofthedeceleration
+lane. Ifthere islessthan90mfrom thebeginning ofthedeceleration lane, theExitDirection
+signshould beinstalled overhead overtheexiting lane.
+21.8.3 Distance Signs
+Distances tothesame destinations should beshown at5kmintervals. Thedistances
+displayed onthese signs should betheactual distance tothedestination points andnotthe
+distance totheexitfrom theexpressway.
+22GUIDELINES FORSIGNS ONURBAN ANDCITYROADS
+22.1 General
+Thesigning system forurban and cityroads should helproaduser togetclearandunambiguous
+information where there could bemany advertisement hoardings androad side activities.
+TheVulnerable Road Users likepedestrians andcyclists andsigns fordisabled people would
+playimportant role inurban and cityroad signing.
+Signs aredesigned sothattheyarelegible toroadusers approaching themandcanberead
+intime topermit proper responses. Desired design characteristics include: (a)long visibility
+distances, (b)large lettering andsymbols, and (c)short legends forquick comprehension.
+Colour ofSigns
+Thecolour ofalltypes ofsigns except direction informatory sign shallbesame asthatof
+Plate-I, andPIate -II,whereas fordirection information signs, itshallbewhite lettering, border
+andarrows onbluebackground. Incase offacility signs, black symbol isdisplayed within
+white square inbluebackground.
+60
+
+IRC:67-2012
+22.3 Format ofLegends onOverhead andShouSder Mounted Signs
+Thelegend onalisignboards shallbebilingual-regional/local language andEnglish except
+onthose signboards located atentry and exitpoints ofExpressways. Entry/Exit shallhave
+inscriptions inregional/local language, HindiandEnglish. Thefonttype shallbeasperTable 22.1.
+Table 22.1FontType forInscription inSigns ofcityRoads
+S.No Language Fonttype
+1. Hindi Hindi7
+2. English Transport Medium
+3. Regional Language Asperlocal practice
+22.4 Warrants forSign Installation
+Theplacement ofregulatory andwarning signs shall follow theguidelines mentioned in
+respective sections. Distances ofinstallation shallbebased onthespeeds andclear visibility
+distance asmentioned inTable 11.1.
+22.5 Sizes oftheSigns
+Sizes ofthesigns should bedecided based ontheprevailing speeds onthetype oftheroads
+asperTable 14.3andTable 15.1given before.
+22.6 Siting oftheSigns withRespect toCarriageway
+Generally, placement ofthesigns shallbeasperSection 4.Where, however, sitecondition
+demand anydeviation, thecompetent authority maydecide afterdueconsultation with traffic
+engineering specialist.
+22.7 SizeofLetters
+Size ofletters shallbeasperTable 11.1. Forsupplementary plates attached with facility
+signs, regulatory signs orcautionary signs, therecommended letter size is100mm.The text
+size of100 -125mm letter size shallbeused inthesupplementary plates withsome ofthe
+regulatory signs depicting information ontypical timings like,"09:00amto08:00 pm"coupled
+withdates ordaysasapplicable.
+22.8 Guidelines forInformatory Signs Installation
+General guidelines given inSections 1to20asrelevant forinformatory signs shall be
+adopted forinstallation ofsigns inurban and cityroads aswell.
+22.8.1 Gantry Mounted Signs
+Gantry mounted signs given inFigure 16.16 areappropriate foralocation ahead ofaflyover
+inanurban situation.
+61
+
+IRC:67-2012
+23SIGNPLANEXAMPLES FORTYPICAL SITUATIONS
+Sign plans forsome typical situations arepresented inAnnexure V,Figure V.1toFigure
+V.10.Alistofthetypical conditions wherein theposting ofdifferent SignPlans canbeadopted
+isgiven below (typical figures presented inAnnexure V).However, thesignplanshown in
+these figures areindicative only,andarenottheonlysigns tobeused insuch road layouts.
+Tocater tothespecific roadenvironment androadusers likely tousethese locations, other
+signs arealsorequired tobeinstalled. Engineer isrequired toprepare afullsign planand
+necessary estimate forimplementation. Ifrequired, advice oftraffic engineering expert may
+besought before placement forspecial conditions.
+Figure V.1 Sign plan fora3armed priority junction, primarily showing thedirection information
+andjunction control signs.
+Figure V.2 Sign plan fora4armed junction, showing thedirection information andjunction
+priority.
+Figure V.3 Sign plan foraroundabout indicating thedirection information and traffic regulation
+signs.
+Figure V.4 Sign planshowing theessential signs tobeinstalled when arelatively highspeed
+highway passes through atown/village having vulnerable road users onboth
+sides ofhighway.
+Figure V.5 Sign plan forajunction withlowtrafficked roadononeside ofthehighway,
+provided withthespeed breaker andsigns fortheside road.
+Figure V.6 Sign plan foraflyover approach inanon-urban section, mainly giving direction
+signs fortraffic from themain highway, andthedirection information forthe
+junction below theflyover.
+Figure V.7 Sign plan forcurve delineation inadivided highway, showing thepositions of
+chevron signs oncurves, andtheconvention tobefollowed while installing
+hazard markers.
+Figure V.8 Sign planshowing guide signs forone oftheapproaches ofacloverleaf
+interchange, primarily thedirection signs, andalso thegantry signs indicating
+laneassignment near theexit.
+Figure V.9 Sign plan foraflyover approach inanurban section, mainly direction signs for
+traffic from themain highway, andthedirection information forthejunction below
+theflyover.
+Figure V.10
+Sign plan forinformation onRestandService Area.
+62
+
+IRC:67-2012
+Plate ItoIV
+r11111:"
+:^?'W:
+'-.*c.^B1
+63
+
+
+IRC:67-2012
+PLATE -1
+STOP andGIVEWAYSIGNS
+aaaaaMiiiagi^^ —M . ,,.„ , .
+900
+i 45°
+Fig.14.03 GiveWay toBuses
+Exiting theBusBay
+65
+
+IRC:67-2012
+PLATE -1(Continued)
+Fig.14.04 Bullock carts Prohibited Fig.14.05 Bullock andhand carts Prohibited
+Fig.14.08 Horse Riding Prohibited Fig.14.09 Caravan notallowed
+66
+
+IRC:67-2012
+PLATE -1(Continued)
+Fig.14.10 Buses Prohibited Fig.14.11Cars Prohibited
+Fig.14.12 Trucks Prohibited Fig.14.13 Tractor Prohibited
+67
+
+IRC:67-2012
+PLATE -1(Continued)
+Fig.14.16TwoWheeler
+Prohibited
+Fig.14.18Horn Prohibited
+mm
+Fig.14.20OneWayFig.14.17 Cycles Prohibited
+Fig.14.19NoEntry
+Fig.14.21 LeftTurn Prohibited
+68
+
+IRC:67-2012
+PLATE -1(Continued)
+Fig.14.24 U-Turn Prohibited Fig.14.25 Right turn&U-turn Prohibited
+69
+
+IRC:67-2012
+PLATE -1(Continued)
+NOPARKING andNOSTOPPING SIGNS"WW
+60mm60mm
+60mm
+Fig.14.27NoStanding Fig.14.28NoStopping andNoStanding
+262.0NOSTOPPING
+NOSTANDING
+784.3
+Definition Plate toFig14.28(Optional)
+Fig.14.29NoParking
+NOPARKING
+703!
+Definition Plate toFig14.29(Optional)
+-25-
+'45°
+470
+600
+Fig.14.30 Parking notAllowed onFootpath Fig.14.31 Parking NotAllowed on
+HalfofFootPath
+70
+
+IRC:67-2012
+PLATE -1(Continued)
+%ifmmm
+%4Smm
+Fig.14.36 Width Limit470225mmmm335mm*
+50
+Fig.14.37Maximum Speed Limit
+71
+
+IRC:67-2012
+PLATE -!(Continued)
+920mm
+150mm
+600mm
+200mm
+120mm
+150mm IW20mm
+1v:210mm
+1620mm
+80mm (min.) 210mm80mm (min.)
+Fig.14.38Maximum
+Speed Limit (Vehicle Type)Fig.14.39 Stop forPolice Check
+RESTRICTION ENDS SIGNS
+Fig.14.40 Restriction Ends
+COMPULSORY CONTROL andOTHER SIGNS
+120
+mm
+Fig.14.41 Compulsory AheadFi9-1442Compulsory
+Ahead orRight Turn
+72
+
+IRC:67-2012
+PLATE -1(Continued)
+mm
+Fig.14.45 Compulsory Turn Left Fig.14.46 Compulsory Turn Right
+(Inadvance ofJunction)
+Fig.14.47 Compulsory Turn LeftFig.14.48 Compulsory Keep Left
+(Inadvance ofJunction)
+73
+
+IRC:67-2012
+PLATE -1(Continued)
+600
+nun
+Fig.14.49 Compulsory Keep Right600mm
+Fig.14.50 Pass Either Side
+Fig.14.51Minimum Speed Limit600mm
+Fig.14.52 Compulsory Cycle
+Track/Cycle Only
+25-
+4 600
+Fig.14.53 Compulsory Cyclist and
+Pedestrian Route470
+(600)mm
+Fig.14.54 Pedestrian Only
+74
+
+IRC:67-2012
+PLATE -1(Continued)
+-25M
+/TTTTTTTI470
+(600)mm
+i 600
+Fig.14.55 Compulsory Snow ChainFig.14.56 BusWay/Buses Only
+600mm
+Fig.14.57 Compulsory Sound Horn
+75
+
+IRC:67-2012
+PLATE -il
+CAUTIONARY WARNING S
+;IGNS
+Radius 45mm
+Fig.15.01 LeftHand CurveRadius 45mm
+Fig.15.02 RightHand Curve
+25-
+Fig.15.03 Right Hairpin Bend Fig.15.04 LeftHairpin Bend
+130mm*
+MOHOmm
+198mm
+4$ .„
+mm140mm
+Fig.15.05 Right Reverse Bend Fig.15.06 LeftReverse Bend
+76
+
+IRC:67-2012
+PLATE -II(Continued)
+
+IRC:67-2012
+PLATE -II(Continued)
+65mm
+Fig.15.13 Y-lntersection Fig.15.14 Cross Road
+25mm
+Fig.15.15 Roundabout Fig.15.16 Traffic Signals
+.265mm-
+70mm65mm
+130mm\
+125mm730mm65mm
+Fig.15.17 T-lntersection Fig.15.18 T-Intersection Major RoadAhead
+78
+
+IRC:67-2012
+PLATE -II(Continued)
+Fig.15.22 Merging Traffic Ahead (From Right) Fig.15.23 Narrow RoadAhead
+79
+
+IRC:67-2012
+PLATE -fi(Continued)
+Fig.15.24RoadWidens
+Fig.15.26 Steep Ascent
+Fig.15.28Reduced Carriageway
+LeftLane(s) ReducedFig.15.25 Narrow Bridge Ahead
+Fig.15.27 Steep Descent
+Fig.15.29 Reduced Carriageway
+Right Lane(s) Reduced
+80
+
+IRC:67-2012
+PLATE -II(Continued)
+Fig.15.30 Start ofDualCarriageway Fig.15.31 EndofDualCarriageway
+<><><>
+265mm
+55mm25II
+mwmit„> iawiwn»mimEL_JL_M._JI._-H_ J\nr-__
+Fig.15.32Gap inMedian Fig.15.33 Pedestrian Crossing
+Radius 45mm-25-
+Fig.15.34 School Ahead Fig.15.35 Built-up Area
+81
+
+IRC:67-2012
+PLATE -II(Continued)
+Fig.15.36TwoWayOperation
+Fig.15.38 LaneClosed
+(TwoLane Carriageway)
+Fig.15.40 LaneClosed
+(Four Lane Carriageway)Fig.15.37Twoway Traffic onCross
+RoadAhead Warning
+Fig.15.39 Lane Closed
+(Three Lane Carriageway)
+Fig.15.41 Traffic Diversion on
+DualCarriageway
+82
+
+IRC:67-2012
+PLATE -II(Continued)
+70mm
+Radius 45mm
+Fig.15.42Men atWork
+END
+^
+Fig.15.42+Supplimentory Plate"END"
+attheLeaving Side ofWorkZone
+Fig.15.44 DeafPersons Likely on
+RoadAheadFig.15.43 Danger Warning
+Fig.15.45 BlindPersons Likely on
+RoadAhead
+
+IRC:67-2012
+PLATE -II(Continued)
+
+IRC:67-2012
+PLATE -II(Continued)
+Fig.15.54 Slippery Road Fig.15.55 Slippery RoadBecause ofIce
+Fig.15.58 Playground Ahead Fig.15.59Quay Side orRiverBank
+85
+
+IRC:67-2012
+PLATE -II(Continued)
+
+IRC:67-2012
+PLATE -II(Continued)
+Radius 45mm
+Fig.15.66 Cattle Crossing Fig.15.67 WildAnimals
+Fig.15.68Queues LikelyAhead
+900mm
+^300 mrfi-25mm
+Fig.15.69 Airport25mm
+50-100minPlain orRolling
+Terrain and30-60min
+Hiliy Terrain
+(a)At200m
+Fig.15.70 Unguarded Railway Crossing(b)At50-100m(Plain/Rolling)
+At30-60m(Hill)
+87
+
+IRC:67-2012
+PLATE -II(Continued)
+(a)At200m50-700minPlain orRolling
+Terrain and30-60min
+Hilly Terrain
+(b)At50-100m(Plain/Rolling)
+At30-60m(Hill)
+Fig.15.71 Guarded Railway Crossing
+JJ228_ ,251_„21
+«_500 „9. 7&0.0
+«343 «376 m31
+Fig.15.72 Single Chevron (Normal) Fig.15.73 Single Chevron(>100kmph speed)
+400 ,,300_450 „300„,100 _400 ..._300 _,450 300 450 „_300__100.0
+oo
+10
+1550.0
+Fig.15.74 Double Chevron Fig.15.75 Triple Chevron
+88
+
+IRC:67-2012
+PLATE -II(Continued)
+
+IRC:67-2012
+PLATE -III
+INFORMATORY SIGNS
+2.5s/wr—
+L~1.5s/w
+\
+fcl4«»fc-
+i.5s/w,^;r.*-2.5s/w 8s/w
+\-J—i
+i
+T
+I
+•EflHiL--]
+1R1s/w8s/w
+J?2.0s/w1.5s/w
+i
+"^4J5s/w
+Rls/wf._2i^_ji_-.__.
+ii^4s/w iijr
+!LisI«I
+Upper Case Lower Case
+imaginary Text Tile"II"
+~Js/w
+i.e.1s/w=^oflowercase "xheightvL-5s/wTX=4.0s/w
+Arrows from Transport
+Medium Font
+Fig.16.01 Stack typeAdvance Direction Sign
+(Shoulder Mounted)
+90
+
+IRC:67-2012
+PLATE -III(Continued)
+1.5s/w
+1.5s/w L_rr
+8s/w
+8s/w_
+1.5s/w
+1.5s7vTt-2/3L
+Wi
+_>£I IP^5H1.5s/w
+j_2.5s/w
+8s/w
+L8s/w
+8s/w
+1rJ.5s/w
+2.5s/w/"
+""t'ei/w1
+3s/w,(w)'
+——yK—I
+.4--
+i.e.1s/w=ioflowercase "x"heightJs/w
+Width ofRoute Symbol (W)
+6s/w forNH/SH/Urban Roads
+4s/w forMDR
+2Y2s/wforVillage Roads•4JR2.0s/w
+\2.5s/w
+Fig.16.02MaptypeAdvance Direction Sign
+(Shoulder Mounted)
+91
+
+IRC:67-2012
+PLATE -HI(Continued)
+2.5s/wJ1.5s/w
+^tl.Ss/w
+1.5s/wi_|8s/w
+8s/w
+±1.5s/w
+2.5s/w
+Width ofRoute Symbol (W)
+6s/w forNH/SH/Urban Roads
+4s/w forMDR
+2Y2s/wforVillage Roads
+Fig.16.03MaptypeAdvance Direction SignonRoundabout
+(Shoulder Mounted)
+92
+
+IRC:67-2012
+PLATE -III(Continued)
+1.5s/1=L^J_IL^ll•
+1.5s/wR2.0s/w
+Ti.5s7w
+|2.5s/w
+—ytr
+|8s/w
+4
+1"1.5s7w
+1.DS/WWidth ofChevron (W)
+1LineofText=3.5s/w
+2Lines ofText=4s/w
+3Lines ofText=4.5s/w
+4Lines ofText=5s/w
+Fig.16.04 FlagType Direction Sign
+I.5s/w^ 2.5s/w
+}»—f—
+i.5s/w rhP**
+2.5s/w
+8s/wJ
+1
+1.5s/w
+Is/w,--
+2.5s/w
+8s/w/,"H
+1
+8s/
+I
+1.5s/w j
+ls?wjT.
+2.5s/w,
+8s/w/
+8s/w^-q
+i-Ss/wJ1-
+1.5s/w^Ji3jfcQ.fc__12.5s/w 1.5s/w
+jZL^X^
+R2s/w.
+3341
+1 i-
+R1.(V1
+I
+ih^s/w
+I
+Li
+3«~1—
+\2.5s/wLjis/w
+li
+Js/w
+r^s/u
+l.J.5sM
+ZTJo.5s/wJ
+Fig.16.05 Reassurance Sign
+93
+
+IRC:67-2012
+PLATE -ill(Continued)
+R2.0s/w
+2.5s/wF I~]
+Fig.16.06 Place Identification Sign
+Fig.16.07 Truck Lay-By
+94
+
+IRC:67-2012
+PLATE -III(Continued)
+Fig.16.09Weigh Bridge Ahead
+95
+
+IRC:67-2012
+PLATE -III(Continued)
+2.5s/w1s/w
+1
+2.5s/w \2.5s/w2.5s/w1.5s/w
+8s/w
+1.5s/w\<fI'l^
+IliI
+clciid-dl jIbl^<Hcileil<J2J5s/w
+R2.0s/w
+J.5s/w
+Fig.16.10 Gantry Mounted Advance Direction Sign
+Ahead ofaGrade Separated Junction
+2.5s/wISs/w 2.5s/w __ . „ ,v^ / 2.5_s/w 1-5_s/w
+|Y*12
+!g--5l/-Wn^Oj/w 4J&W
+1.5s/w,2.5_s/v^2-5_s/w^
+TT —^_—wt-—"
+j | a,
+11
+1 i
+IblcMIHI 1
+IfeSEIE^
+i- j
+1.5s/w/MM \8J)s/w
+' l7"!'TIII I
+2.5s/w/ \2.5_s/w2.5_siw
+1-4
+I !
+T
+L8s/w
+:XR2.0s/w
+Fig.16.11 Gantry Mounted Advance Direction Ahead
+ofaAt-Grade Junction
+R2.0s/w
+1.5s/w
+2,5_s/w/2.5s/w 2.5s/w
+--i~\
+1.5s/w
+it
+1 1/\
+|ix\
+i^============—=====================1-
+i„1J5s_/w
+Z5s/w
+r_8J0s/w
+-f8,0s/w
+8s/wJ
+16s/w
+RZOs/w
+Fig.16.12 Gantry Mounted Sign forinAdvance
+foranInterchange
+96
+
+IRC:67-2012
+PLATE -III(Continued)
+2.2S/WB^OsZw1.5s/w
+2.5S/W^ 1.5S/WR2.0s/w
+1.5s/w(,
+v4s/wi1?_^
+_l5j/w^ 1.5j/w
+4_s/w r—
+MJL^ *-*-*--*-^- J—** I4_s/w \1.5s/w
+VJ1
+ibiZw/17s/w. 17s/w.
+|w/4W,'-f—
+to-i
+Fig.16.13 Lane Dedicated Gantry Signs
+1J>s/w.
+2^5s/vv_"j—
+fpR2.0s/w
+8.0s/w
+8.0s/wV-
+—I
+8_s/w
+2.5s/wJ
+1."5s/w,~t.^L__7s/w
+5.0s/w/ \4._0s/w
+Fig.16.14 Shoulder Mounted Sign inAdvance
+ofGrade Separated Junction
+R2.0s/w2,5_s/_w2.5s/w
+16.0s/w
+1.5s/w s2^5s/w 4s/vyiJ>^/
+Fig.16.15 Expressway SignAhead
+97
+
+IRC:67-2012
+PLATE -III(Continued)
+2.5s/wJ6s/w 2.5s/w8.0s/w4s/w .
+\7s/w
+4s/w~~~\
+1^s/_wZ5 s/wf\2>5s/w
+4.<5s/w \\\ \~\
+r~T £1s/w
+i"—2.5s/w8s/w2.5s/_w
+equalsj
+8s/w.^l§-s/^f
+egual\
+iii iMM
+2.5s/w/ \2.5s/w
+Detail
+4s/w ^4-s/w J7s/w
+16s/wXJ.5s/w
+^4-2_6s/w
+Fig.16.16 Gantry Mounted Advance Direction Sign
+Ahead ofaFlyover inUrban /CityRoads
+R2.0s/w
+Fig.16.17 Defination /Supplementary Plate
+98
+
+IRC:67-2012
+PLATE -IV
+FACILITY INFORMATION SIGNS
+-25mmm
+25mm
+Fig.17.01 Eating Place Fig.17.02 LightRefreshment
+-25mm
+25mm
+Fig.17.03 Resting Place Fig.17.04 FirstAidPost
+25-
+m
+125-
+Fig.17.05 Toilet Fig.17.06 Filling Station(Fuel Pump)
+99
+
+IRC:67-2012
+PLATE -IV(Continued)
+Fig.17.11 FootOver Bridge Fig.17.12 Chair Lift
+100
+
+IRC:67-2012
+PLATE -IV(Continued)
+>25-
+Fig.17.13 Police Station Fig.17.14 Picnic Site
+Fig.17.15 Repair Facility Fig.17.16 Railway Station/Metro
+Station/Monorail Station
+Fig.17.17 Industrial Area Fig.17.18 Cycle Rickshaw Stand
+101
+
+IRC:67-2012
+PLATE -IV(Continued)
+Fig.17.23 Airport
+102Fig.17.24 GolfCourse
+
+IRC:67-2012
+PLATE -IV(Continued)
+Fig.17.25 National Heritage190mmSSmm
+Fig.17.26NoThrough Road
+999mm*H*89mm
+wrt
+ff#mm
+Fig.17.27NoThrough SideRoad Fig.17.28 TollRoadAhead
+m
+\5
+Fig.17.29 Guide Sign
+onTollLane PortalFig.17.30 Country Border
+103
+
+iRC:67-2012
+PLATE-SV(Continued)
+104
+
+IRC:67-2012
+PLATE -IV(Continued)
+Fig.17.41Emergency Exit Fig.17.42Emergency Exit
+105
+
+IRC:67-2012
+PLATE -IV(Continued)
+Fig.18.01 Parking Fig.18.02 AutoRickshaw
+Parking
+Fig.18.05 Scooter and Fig.18.06 TaxiParking
+Motorcycle Parking
+106
+
+SRC:67-2012
+PLATE -IV(Continued)
+800 800
+Fig.18.07 ParkandRide Fig.18.08 ParkandRide
+KEEPCLEAR
+MONDAY TOFRIDAY
+AM
+8.00 -9.30PM
+4.30 -6.30
+[MOW-NOW.*
+,
+ff .1
+1Goods
+Vehicles
+Loading
+Only
+Mon -Sat
+0am -4pmMon -Sat10am -4pm
+1hourNoreturn
+within 2hours
+Fig.18.09 Parking Restriction Signs forTraffic Mana
+2000mm
+50mm
+1600mm
+1300mm
+1000mm
+Fig.18.10 FloodGauge
+107
+
+IRC:67-2012
+PLATE -IV(Continued)
+SIGNS FORPERSONS WITH DISABILITIESIP" •"I9* m
+m
+600
+Fig.19.01 International Symbol ofAccessibilty©©
+ooRBRIDISABLED
+PERSON
+600 1200
+Fig.19.02 Parking Information
+©©
+©QP>HE)llOLBll LIII
+600 600
+Fig.19.03 Parking Areas600
+800 800
+25- -25-
+1
+(4t-
+Fig.19.04Ramped Entrance
+toSubway/Over Bridge
+108
+
+IRC:67-2012
+PLATE -SV(Continued)
+Fig.19.07Way Finding
+109
+
+IRC:67-2012
+PLATE -IV(Continued)
+..iRQUTE MARKER SIGNS
+Fig.20.03 Asian Highway Fig.20.04 Expressway
+Route Marker Sign Route Marker Sign
+110
+
+IRC:67-2012
+I1
+H
+1
+Annexure ItoVI
+1
+^^^^
+111
+
+
+Annexure -1
+(Section 14.1)
+LISTOFMANDATORY/REGULATORY SIGNS
+I.STOPANDGIVEWAYSIGN
+1)Stop
+2)GiveWay
+3)GiveWay toBuses Exiting theBusBay
+II.PROHIBITORY SIGNS
+1)Bullock Carts Prohibited
+2)Bullock andHand Carts Prohibited
+3)Hand Carts Prohibited
+4)Tongas Prohibited
+5)Horse Riding Prohibited
+6)Caravan notAllowed
+7)Buses Prohibited
+8)Cars Prohibited
+9)Trucks Prohibited
+10)Tractor Prohibited
+11)Construction Vehicle Prohibited
+12)Articulated Vehicles Movement Prohibited
+13)TwoWheeler Prohibited
+14)Cycles Prohibited
+15)Horn Prohibited
+16)NoEntry
+17)OneWay
+18)LeftTurn Prohibited
+19)Right Turn Prohibited
+20)Overtaking Prohibited
+21)U-Turn Prohibited
+22)Right Turn&U-Turn Prohibited
+23)Priority toVehicles from theOpposite Direction
+III.NOPARKING ANDNOSTOPPING SIGNS
+1)NoStanding
+2)NoStopping andNoStanding
+113
+
+IRC:67-2012
+3)Definition Plate toFig.14.28(Optional)
+4)NoParking
+5)Definition Plate toFig.14.29(Optional)
+6)Parking notAllowed onFootpath
+7)Parking notAllowed onHalfofFootpath
+IV.VEHICLE CONTROL SIGNSANDSPEED LIMIT
+1)AxleLoad Limit
+2)Height Limit
+3)Length Limit
+4)Load Limit
+5)Width Limit
+6)Maximum Speed Limit
+7)Maximum Speed Limit (Vehicle Type)
+8)Stop forPolice Check
+V.RESTRICTION ENDS SIGN
+1)Restriction Ends
+VI.COMPULSORY CONTROL ANDOTHER SIGNS
+1)Compulsory Ahead
+2)Compulsory Ahead orRight Turn
+3)Compulsory Ahead orLeftTurn
+4)Compulsory Turn Right
+5)Compulsory Turn Left
+6)Compulsory Turn Right (InAdvance ofJunction)
+7)Compulsory Turn Left (InAdvance ofJunction)
+8)Compulsory Keep Left
+9)Compulsory Keep Right
+10)Pass Either Side
+11)Minimum Speed Limit
+12)Compulsory Cycle Track/Cycle Only
+13)Compulsory Cyclist andPedestrian Route
+14) Pedestrian Only
+15)Compulsory Snow Chain
+16)BusWay/Buses Only
+17)Compulsory Sound Horn
+114
+
+IRC:67-2012
+Annexure -II
+(Section 15.1)
+LISTOFCAUTIONARY/WARNING SIGNS
+1) LeftHand Curve
+2) RightHand Curve
+3) Right Hairpin Bend
+4) LeftHairpin Bend
+5) Right Reverse Bend
+6) LeftReverse Bend
+7) Series ofBend
+8) Degree Loop
+9) SideRoad Right
+10) SideRoad Left
+11) Y-lntersection
+12) Cross Road
+13) Roundabout
+14) Traffic Signals
+15) T-lntersection
+16) T-lntersection MajorRoadAhead
+17) MajorRoadAhead
+18) Staggered Intersection
+19) Merging Traffic Ahead (From Left)
+20) Merging Traffic Ahead (From Right)
+21) Narrow RoadAhead
+22) RoadWidens
+23) Narrow Bridge Ahead
+24) Steep Ascent
+25) Steep Descent
+26) Reduced Carriageway (LeftLane(s) Reduced)
+27) Reduced Carriageway (Right Lane(s) Reduced)
+28) Start ofDualCarriageway
+29) EndofDualCarriageway
+30)Gap inMedian
+31) Pedestrian Crossing
+32) School Ahead
+33) Built-up Area
+34)TwoWayOperation
+35) TwoWay Traffic onCross RoadAhead Warning
+36) LaneClosed (TwoLane Carriageway)
+115
+
+IRC:67-2012
+Of) L.01ICOIUoCU ^Illltiti Ldllc Odl 1laytJvvayj
+^8)1ano 0|n<iprl fFniir 1anp("laiTianpwav)
+Traffic Divprsinn onDualOarriaapwav
+HUJivici i01vvui f\
+41 ^+innlprnpntarv Platp"FND" atthp 1pa\/inn ^idp nfWork7nnp ouuijici iiciiioiyniciic ciluiclcci viiiuoiuc kjivvu ir\t—\j\ic
+42) flannpr Warninn
+4^) flpafPprQnnQ 1ikplvnnRnarlAhpad
+44) BlindPpr^nns LikplvnnRoadAhpad
+45}/Dvrlp Crn^inn
+46) r~l\/p|p RniitpAhpad
+47) Danoprous Din
+48) QnpoH Rrpakpr
+4Q) Riimhlo Qtrin PVUIIIUiC Oil l|J
+50) Rounh Rnad
+51)
+n^nnprni flitrh
+52)/Loo^p Gravpl1—V_/ v_JV_yV—
+J1UVvl
+JO^onuuci yrxuciu
+54) 5^linnprv RnadRpnau^p nflop
+55)ojyOnpninn nr^\A/inn Rridoo wpoimiy uiovviiiy uiluyc
+5fi) WVCl 1ICCIUuaUICo
+57)
+\ictyyiuunu r\\itJau
+58) Oi ia\/Qirlo r»rRi\/orRank wuay oiuc uirxivci Ddi ir\
+59) Rarripr
+60) ^iiddpn ^idpWindc: OUUUCI 1OIUC VvlliUo
+61) Tunnpl Ahpad
+6?) Porr\/rci iy
+TrarriQ (P'rnQQinn
+iioi iiowiuooiiiy
+64) Fallinn Rnnk<5
+65) Cattlp Crn^inn
+66) WildAnimal vv IIBVfl/\11D II11CJI U
+67) Oupiipc; 1ikplvAhpad \xUCUUO LlixCI yr\lICQU
+68) Airnnrt
+69) IJnnilardpd Railwav nrn<;c;inn
+70) fnilarrloH Rail\A/o\/ Prnccinn UUdlUcU rxolIWoy OlUoolliy
+71)
+/OlliyiC V^iitJVIUII ^INUIIIIol^
+72) Sinnlp Ohpvrnn ^lOOkmnh "^nppd) '.J'l 1 1\3-wlICvlUI I 1\J\Ji\l 11LI I1OUCCUI
+73) Dniih|pChpvrnn
+74\Trinlp Ohpvron(11f->ICw 1ICVIUl B
+75) Object Hazard (Left)
+76) Object Hazard (Right)
+77) TwowayHazard Marker
+116
+
+IRC:67-2012
+Annexure -III
+(Section 16.1)
+RULES ANDTECHNICAL ADVISORY FORDESIGN OF
+INFORMATORY ROAD SIGNS
+The listofdirection andplace identification signs given infirstpartandsecond partofAnnex-Ill
+describes therules fordesigning thedirection signs and Plate-Ill pictorially presents design
+rules fordirection signs.
+i)DIRECTION ANDPLACE IDENTIFICATION SIGNS
+1) Stack TypeAdvance Direction Sign(Shoulder Mounted) Fig.16.01
+2)ManTvnpAdvanrp Dirprtinn Sinn(Shouldpr Mountpd^ Fia1602
+°) M^n T\/np AH\/£inrp Dirprtinn Sinn fnrRnimH^hni itf^hniilrlpr Mnuntprh Fin 1fi01
+A\V riag lype Direction oign rig.no.u4
+Reassurance Sign Fig.16.05
+6) Place Identification Sign Fig.16.06
+7) Truck Lay-By Fig.16.07
+8) TollBoothAhead Fig.16.08
+9) Weigh Bridge Ahead Fig.16.09
+10) Gantry Mounted Advance Direction SignAhead ofaGrade Separated Junction
+Fig.16.10
+11) Gantry Mounted Advance Direction SignAhead ofanAt-Grade Junction Fig.16.11
+12) Gantry Mounted SignFarAdvance ofanInterchange inaFullAccess Controlled
+Highway Fig.16.12
+13) Lane Dedicated Gantry Signs Fig.16.13
+14) Shoulder Mounted Sign inAdvance ofaGrade Separated Junction inFull
+Access Controlled Highway Fig.16.14
+15) Expressway Sign Fig.16.15
+16) Gantry Mounted advance Direction SignAhead ofaFlyover inUrban/City
+Roads Fig.16.16
+17) Definition/Supplementary Plates Fig.16.17
+ii)RULES FORDESIGN OFDIRECTION INFORMATION SIGN
+The rules fordesign ofdirection information signgiven infollowing subsections shallbe
+read inconjunction withthepictorial presentation inPlate IIIand alldirection boards shall
+bedesigned accordingly. Itshould benoted thatPlate IIIhasnotbeenshown incolour since
+colour pattern fordifferent kindofroads varies andthecolour pattern shallbetaken fromTable 8.3.
+1)Alphabets
+The"Transport Medium" fontshallbeused forEnglish and"Hindi7" forHindiandforregional
+language itshallbeasperlocal practice. Thearrows fordirections boards shall alsobetaken
+117
+
+IRC:67-2012
+from "Transport Medium" font.Theheight oflettering fordesign ofdirection sign shallbe
+taken fromTable 11.1 forthespeed oftheroad inwhich thesign istobeplaced.
+2)Common Principles fordesign oflayouts forDirection Signs
+Thecommon principles tobeobserved while designing shoulder andgantry mounted
+direction signs aregiven inthesubsection below andthespecific principles fordifferent type
+ofdirection board aregiven under respective subsections. Thecommon principles fordesign
+ofdirection boards (Figs. 16.01 to16.16) are:
+Theheight mentioned inTable 11.1 refers totheheight oflower case "x"and
+upper case shallbe 1.4times oflower case "x"height.
+Thedesign pattern shown inFigs. 16.01 to16.16 expressed thedesign of
+layout ofdirection sign interms ofstroke width and "x"height. Stroke width
+(s/x) shallbe%oflower case "x"height.
+Allplacenames onasign shallbeinletters ofthesame size, regardless
+oftherelative importance oftheplace name.Asmaller letter sizemayonly
+beused foraname which istoolong tofitintoareasonable sized signand
+which cannot behyphenated orabbreviated.
+Letters aregenerally placed inanimaginary tileof2times "x"height i.e.8s/w
+height andtheplacement ofEnglish lettering ispictorially presented inFig.
+16.01 whereas asHindi lettering shallbeplaced within 2times "x"height i.e.
+within 8s/wheight.
+Related words onthesame lineshallbeseparated byVAs/w.
+Route letters androutenumber shallbeseparated by 11/2s/w.
+Route letters shallbe2s/waway placenamewhen onsame line.
+There shallbe3s/wspaces between aroutenumber andabracketed route
+number onsame line.
+Theborder shallbe 1V2s/wwide.
+Internal corner radius ofouter border shallbe2s/wandother internal radius
+shallbe 1s/w.
+Within panel, theborders shall beseparated from thetopandsides of
+imaginary tileby21/2s/wandonbottom byVAs/w.
+Inaddition tothecommon principles laidout inthissection, thespecific principles fordesign
+ofdifferent types ofsigns aregiven infollowing sections:
+3)Layouts ofStack TypeADS Fig.16.01
+"Forward destination andarrow shall bethetoppanel and shall beright
+aligned.
+fflLeftdestination andarrow shallbethesecond panel andshallbeleftaligned,
+d^stination andarrow shallbethethirdpanel andshallberight aligned.
+118
+
+IRC:67-2012
+Thearrows other thantherightangle shallbesetat45degree.
+Figured kilometer ifatallgiven shallbeonthesame lineand shallbeata
+distance of3s/w.
+Thearrow shall alsobetransport medium andshallbe16s/wlongand8s/w
+wideandshallbe2.5s/wfrom theborder andletterings andshallbeplaced
+vertically atcenter ofpanel withequal space from topandbottom border.
+Thefontheight fordifferent speed shallbetaken fromTable 11.1anddesign
+ispresented pictorially inFig.16.01.
+4)Layouts ofMapTypeADS (Fig. 16.02), other thanRoundabouts
+Thewidth ofroute symbol shallbe6s/wwhen indicating aNHandSHand
+Urban roads and4s/wforMDRand21/2s/wforvillage roads.
+The tipsofroutesymbol shallbechamfered 60degree.
+Side turning symbol shallbeextended 2/3rd ofdistance from theforward
+symbol totheborder asshown inFig.16.02.
+When there ismore thanonedestination related toaroute symbol, allplaces
+names should bestacked, with their initial letter aligned. Initial letter ofEnglish
+andHindi should alsobealigned.
+Forward destination shallbecentered ontheforward route symbol.
+Themaptypesigns withonlyoneside turning, theforward destination shall
+bedisplaced from thecenter torange right orleftwithoutside extremity of
+theright orleftturning destinations.
+Backandside destinations shall normally bebelow theroute symbol and
+shallbeplaced at18s/wfromforward destination.
+There shallbeaminimum of4s/wbetween vertical route symbol andthe
+nearest placename orroutenumber laterally andminimum 3s/wvertically
+between theroutesymbol andplace name.
+Forward symbol shallbeminimum of12s/wandimaginary tileofdestination
+name shallbeplaced above theroute symbol.
+Thebottom offorward symbol shallbeVAs/wfrombottom border.
+Thefontheight fordifferent speed shallbethefromTable 11.1.
+5)Layouts ofMapTypeADS (Fig. 16.03), forRoundabouts
+Thewidth ofroute symbol shallbe6s/wwhen indicating aNH,SHand
+Urban roads and4s/wforMDRand214s/wforvillage roads.
+The tipsofroutesymbol shallbechamfered 60degree.
+Side turning symbol shallbeextended 2/3rdofdistance from theforward
+symbol totheborder.
+When there ismore thanonedestination related toaroute symbol, allplaces
+119
+
+IRC:67-2012
+names should bestacked, with their initial letter aligned. Initial letter ofEnglish
+andHindi alsoshould bealigned.
+Forward destination shallbecentered ontheforward route symbol.
+Onsigns withoneside turning, theforward destination shallbedisplaced
+from thecenter torange right orleftwithoutside extremity oftheright orleft
+turning destinations.
+Backandside destinations shall normally bebelow theroute symbol and
+shallbeplaced at18s/wdistance.
+Theroundabout symbol shallhave 12s/wouter radius and7s/winner radius
+andbothconcentric circles shallbediscontinued asshown inFig.16.03.
+There shallbeaminimum of2%s/wvertically between theroute symbol
+andplacename andplacename shallbeplaced horizontally insuch away
+thatimaginary tiletouches theimaginary circle ofradius 2s/wmore thanthe
+outer circle ofroundabout symbol.
+Forward symbol shall beminimum of12s/wandimaginary tileshallbe
+placed above theroute symbol.
+Thebottom offorward symbol shallbe 1Vis/wfrombottom border.
+Thefontheight fordifferent speed shallbefromTable 11.1
+6)Layouts ofFlagType Direction Sign (Fig. 16.04)
+Theappropriate endofsign plate shallbechamfered 120degree, thepointed
+endbeing reduced 1s/w.
+Thechevron shallbeplaced 3/4s/wfrom theendborder andVAs/wfrom
+theedge oftopandbottom borders.
+Placename shallbeseparated VAs/wfrom thechevron.
+*Thewidth ofchevron shallbe4s/wwhen used withtwolines ofinformation,
+VAs/wwithone lineand41/2s/wwith3linesand5s/wwhen used with4
+lines.
+Thefontheight fordifferent speed shallbetaken fromTable 11.1(Column
+7&8).
+7)Layouts ofReassurance Sign (Fig. 16.05)
+Thekilometrage shall becentered over placenames and similarly route
+number ifatallused.
+Placenames shallbealigned left.
+Kilometrage shall follow related placenames onthesame lineand shallbe
+-'ed rightThere shallbeminimum 3s/wbetween longest placenames
+andkilometrage.
+Farthest destination shallbethetoppanel andnearest onbottom panel.
+120
+
+IRC:67-2012
+Thefontheight fordifferent speed shallbethefromTable 11.1(Column 7&8).
+8)Layouts ofPlace Identification Sign (Fig. 16.06)
+The lines oflegend shallbecentered oneovertheother.
+The font height for different speed shall bethefrom Table 11.1
+(Column 7&8).
+9)Layouts ofTruck Lay-by Sign (Fig. 16.07)
+Thelength oftruck symbol shallbesame asthat of"Lay-by" writings and
+vertically shallbeplaced at2.5s/wfromimaginary tileofwritings and2.5s/w
+from topborder.
+Thearrow shallbe3s/wfrom leftborder and3s/wfrom truck symbol.
+Thearrow shallbe20s/whighand10s/wwideand shallbeinclined at45
+degree asshown inFig.16.07.
+Thefontheight fordifferent speed shallbefrom Table 11.1(height shown in
+brackets ofColumn 7&8).
+10)Layouts ofTollBooth Ahead Sign (Fig. 16.08)
+Theheight ofbarrier symbol shallbe20s/wand shallbe2.5s/wgapfrom
+bottom imaginary tileandfrom leftandtopborders.
+Thearrow shallbe16s/wand shallbeplaced 8s/wfrom rightborder as
+shown inFig.16.08.
+Thefontheight fordifferent speed shallbefromTable 11.1(height shown in
+brackets ofColumn 7&8).
+11)Layouts ofWeigh Bridge Ahead Sign (Fig. 16.09)
+Thetrucksymbol shallbe16s/whighand shallbeplaced 2.5s/wfrom the
+imaginary tileandfrom topand leftborder.
+Thearrow shallbe16s/wand shallbeplaced vertically atthecenter of
+imaginary tileandthetopborder andhorizontally at3s/wfrom rightborder
+asshown inFig.16.09.
+The fontheight fordifferent speed shallbetaken from Table 11.1 (height
+shown inbrackets ofColumn 7&8).
+12)Layouts ofGantry Mounted ADSAhead ofaGrade Separated Junction (Fig. 16.10)
+Thearrow shallbe16s/wandshallbeinclined 45degree.
+There shallbedividing lineof1s/wwidth between panels indicating leftand
+forward destination.
+The lettering onboth sides shallbe2.5s/wfrom dividing lineasshown in
+Fig.16.10.
+Thefontheight fordifferent speed shallbetaken fromTable 11.1.
+121
+
+IRC:67-2012
+13)Layouts ofGantry Mounted ADSAhead ofanAt-grade Junction (Fig. 16.11).
+Thearrow shallbe16s/wand shall beinclined 90degree or45degree
+depending upon thejunction layout.
+There shallbedividing lineof 1s/wwidth between panels indicating left,
+forward and right destinations.
+The lettering onboth sides shallbe2.5s/wfrom dividing lineasshown in
+Fig.16.11/
+Ifkilometrage isshown, itshallbe2.5s/wfrom destination names.
+Thefontheight fordifferent speed shallbetaken fromTable 11.1.
+14)Layouts ofGantry Mounted ADSAhead ofaGrade Separated Junction Ahead ofa
+FuilAccess Controlled Highway (Fig. 16.12)
+Thearrow shallbe16s/wandshallbeinclined 45degree.
+Thetoppanel shall fordestination leaving toeither leftsliproad orloopand
+bottom panel shall withforward destinations.
+Thedistance toexitpoint shallbeshown either inkilometer ormeter as
+shown inFig.16.12.
+The right vertical faces oftopandbottom panel shallbesetapart byminimum
+14.5s/w laterally.
+Thefontheight fordifferent speed shallbefrom Table 11.1.
+15)Layouts ofLane Dedicated Gantry Mounted Signs (Fig. 16.13)
+Thedownward arrow shallbe17s/wwideandshallbe7s/whigh.
+The distance between twodownward arrows i.e.between two
+pointed end iswidth ofone lane width forthe particular highway as
+shown inFig.16.13.
+Thefontheight fordifferent speed shallbetaken from Table 11.1.
+16)Layouts ofShoulder Mounted MapTypeADS forFullAccess Controlled Highway
+(Fig. 16.14)
+Thewidth ofroutesymbol shallbe5s/w.
+aLength ofleftroutesymbol is24s/wasshown inFig16.14.
+Thefontheight fordifferent speed shallbetaken fromTable 11.1.
+17)Expressway Ahead Sign (Fig. 16.15)
+Theexpressway symbol shallbe16s/whigh.
+8Chevron shallbe4s/wwideasshown inFig.16.15
+1Thefontheight fordifferent speed shallbetaken from Table 11.1
+18) -.iited SignAhead ofaFlyover inUrban/City Roads (Fig. 16.16)
+122
+
+IRC:67-2012
+TheFlyover symbol andother design shallbeasperFig.16.16.
+Thefontheight fordifferent speed shallbetaken fromTable 11.1
+19)Definition/ Supplementary Plates (Fig. 16.17)
+Theborder shallbe 1s/w.
+Writings shallbeinupper case.
+Fordefinition andsupplementary plate, lettering andborder shallbeblack on
+white background.
+Font height shallbe50mmto100mmdepending upon theneed
+123
+
+IRC:67-2012
+Annexure -IV
+(Section 17.1)
+I-FACILITY INFORMATION SIGNS
+taiing rlace
+2) Lignt Ketresnrneni
+3) Kesiing riace
+4) rirsiaiqrosi
+5) loiiet
+6) rining oiaiion^ruei rump)
+7\Hospital
+ft\o) ruuiic ieiepnone
+9) u- 1urnAneaa
+10) reaestrian buuway
+*l-1\11) rootuverbnage
+12) unair Lin
+1o) roiice otation
+14) ricnic oite
+15) Kepair racuity
+id; rxdllWay oldUUn/IVIoll UOldUUn/IVIUIlUIdll OldllUM
+<|7\
+I/)inaustnai Area
+OyUIc rxluKbridW oldilU
+iy) laxioiana
+ZV) autoKicKsnaw oiana
+21) norne z.one
+22)Camp Site
+Airpon
+9/1 \ooituourse
+ZD)iNationai nentage
+26) NoThrough Road
+27) NoThrough SideRoad
+28) TollRoadAhead
+29) Guide SignonTollLane Portal
+30) Country Border
+31) EntryRamp forExpressway
+32) ExitRamp forExpressway
+33) Expressway Symbol
+124
+
+EndofExpressway
+BusStop
+BusLane
+Contra FlowBusLane
+Cycle Lane
+Contra FlowCycle Lane
+Holiday Chalets
+Emergency Exit
+II-PARKING SIGNS
+(Section 18.1)
+Parking
+AutoRickshaw Parking
+Cycle Parking
+Cycle Rickshaw Parking
+Scooter andMotorcycle Parking
+TaxiParking
+ParkandRide
+Parking Restriction Signs forTraffic Management
+FloodGauge
+III-SIGNS FORDISABLED PERSONS
+(Section 19.1)
+International symbol ofAccessibility
+Parking Information
+Parking Areas
+Ramped Entrance toSubway/Over Bridge
+Telephone Facilities
+Toilet Facilities
+Way Finding
+IV-ROUTE MARKER SIGNS
+(Section 20.1)
+StateHighway Route Marker Sign
+National Highway Route Marker Sign
+Asian Highway Route Marker Sign
+Expressway Route Marker Sign
+125
+
+IRC:67-2012
+
+127
+
+IRC:67-2012
+128
+
+IRC:67-2012
+Annexure V
+FigV.3SignPlan for4Armed Roundabout
+129
+
+IRC:67-2012
+Annexure V
+SignPlan foraHighway
+Passing Through Village/
+Ribbon Development Area
+130
+
+IRC:67-2012
+Annexure V
+Fig.V.5Minor SideRoad WithSpeed Breaker
+131
+
+IRC:67-2012
+132
+
+IRC:67-2012
+Annexure V
+FigV.7Sign Plan forCurve Delineation inaDivided Highway
+133
+
+IRC:67-2012
+134
+
+135
+
+IRC:67-2012
+136
+
+IRC:67-2012
+Annexure VI
+DETERMINATION OF"X"HEIGHT FORDIRECTION SIGNS (SHOULDER &
+GANTRY MOUNTED)
+From thediagrams, "C" isthedistance from thesign
+where adriver isexpected tostopreading thesign .i.e.
+thepointwhere adriver would turn hishead through
+10°ormore.
+i.e.C=Sxcotangent 10°=Sx5.7
+"S" istheoff-set distance from thecentre ofthedriving
+lane tothecentre ofthesign. This ismeasured from
+thecentre oftheright-hand-most laneonadual
+carriageway.
+"R" isthedistance travelled while reading thesign.
+Distance (R)=Reading Time xSpeed
+Reading time=2+(N/3) seconds; where Nisthe
+number ofwords ordestinations onthesign.When
+Nequals 6thereading time istaken as4seconds. It
+allows driver toscan thesigntwice toassimilate the
+information. Thesignmaybeobscured forpartofthe
+time byvirtue ofother vehicles andthe
+driver stillneeds topayattention tothe
+roadahead.I^—-Point atwhich signbecomes legible
+Reading distance
+f; Sign
+S=Off-set Distance
+C=Cut-off Distance
+R-Reading Distance
+CarriagewaySign
+Table VI.1Shoulder Mounted ADS
+Thex-height ofthesigndepends onthe
+distance ofthedriver fromthesignwhen he
+starts toread it.Itistaken that,onaverage
+atadistance of60meters, thexheight
+should be100mmandproportionately at
+30metres, thex-height would be50mm.
+From thefirstprinciple, the"x"heights have
+been determined forvarious categories of
+Indian roads, which aregiven inTable VI.1
+toVI.3.SpeedReading
+time
+(sees)Reading
+distance(Cotangent
+(10)Noof
+lanes inDistance
+from
+DrivingCutoff
+distance!Total
+distanceUpper
+Case "X"
+HeightLower
+Height
+m)
+direction Lane(m)m) (m)(mm) (mm)
+kmph m/sec
+30 8.3 4.0 33.3 5.7 1lane 3.75 21.4 54.7 91 65
+50 13.9 4.0 55.6 5.7 Ilane 3.75 21.4:76.9 128 92
+65 18 1 40 733 S7 llane 375 21.4 93.6 156
+|111
+80 22.2 4.0 88.9 5.7 2lane 7.75 442 133.1 222 158
+100 27.8 4.0 111 1 5.7 2lane 9.25 52.7 163.8 273 195
+110 306 40 122.2 5.7 3lane 13.25 75.5 197.7 330 235
+120 33.3 4.0 133.3 5.7 4lane 1673 955 2288 381 272
+Table VI.2Gantry Mounted Signs
+SpeedReading
+time
+(sees)Reading
+distance(
+m)Cotangent ClearHeight
+includingCutoff Total
+distanceUpper
+Case "X"Lower
+case "x"Noof
+lanes in
+(10) Height(m) depth ofdistance!
+Height Height
+gantry (m)m) (m)(mm) direction
+kmph m/sec
+30 8.3 4.0 33.3 5.7 6 8 4S.6 78.9 132 94 1lane
+50 13.9 4.0 55.6 5.7 6 8 456 101.2 169 120 1lane
+65 18.1 4.0 72.2 5.7 6 8 45.6 117.8 196 140 1lane
+80 22.2 5.0 111.1 5.7 6 8.5 48.5 159.6 266 190 2lane
+100 27.8 5.0 138.9 5.7 6 8.S 48.5 187.3 312 223 2lane
+110 30.6 6.0 183.3 5.7 6 9 51.3 2346 3911279 3lane
+120 333 6.0 200.0 5.7 6 9 513 251 3 419 299 4lane
+Table VI.3Reading time (2*N/3)Sees
+Number Reading
+Constant ofplace (N/3) time
+names (N) (Sees)
+2 6 2.0 4.0
+2 6 2.0 4.0
+2 8 2.7 4.7
+137
+
+SRC:67-2012
+138
+
+
+
+
+(The Official amendments tothisdocument would bepublished by
+theIRC initsperiodical, 'Indian Highways' which shallbe
+considered aseffective andaspart ofthecode/guidelines/manual,
+etc.from thedate specified therein)
+

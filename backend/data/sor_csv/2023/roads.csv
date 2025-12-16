@@ -1,0 +1,1475 @@
+year,page,row_index,item_code,description,unit,unit_rate
+2023,8,0.0,,,,
+2023,9,0.0,,,,
+2023,12,,13.1.1,1:4 (1 cement: 4 fine sand),sqm,347.05
+2023,12,,13.1.2,1:6 (1 cement: 6 fine sand),sqm,333.35
+2023,12,,13.2.1,1:4 (1 cement: 4 fine sand),sqm,399.45
+2023,12,,13.2.2,1:6 (1 cement: 6 fine sand),sqm,383.0
+2023,12,,13.3.1,1:4 (1 cement: 4 fine sand),sqm,471.35
+2023,12,,13.3.2,1:6 (1 cement: 6 fine sand),sqm,450.0
+2023,12,,13.4.1,1:4 (1 cement: 4 coarse sand),sqm,357.35
+2023,12,,13.4.2,1:6 (1 cement: 6 coarse sand),sqm,343.65
+2023,12,,13.5.1,1:4 (1 cement: 4 coarse sand),sqm,411.75
+2023,12,,13.5.2,1:6 (1 cement: 6 coarse sand),sqm,395.35
+2023,12,,13.6.1,1:4 (1 cement: 4 coarse sand),sqm,487.4
+2023,12,,13.6.2,1:6 (1 cement: 6 coarse sand),sqm,466.05
+2023,12,,13.7.1,1:3 (1 cement: 3 fine sand),sqm,439.25
+2023,12,,13.7.2,1:4 (1 cement: 4 fine sand),sqm,425.55
+2023,12,,13.8.1,1:3 (1 cement: 3 fine sand),sqm,494.3
+2023,12,,13.8.2,1:4 (1 cement: 4 fine sand),sqm,477.9
+2023,12,,13.9.1,12 mm cement plaster,sqm,449.55
+2023,12,,13.9.2,20 mm cement plaster,sqm,587.2
+2023,14,,13.13,12 mm cement plaster 1:2 (1 cement : 2 stone dust).,sqm,378.7
+2023,14,,13.15,20 mm cement plaster 1:2 (1 cement : 2 stone dust).,sqm,520.55
+2023,14,,13.16.1,1:3 (1 cement : 3 fine sand),sqm,300.45
+2023,14,,13.18,Neat cement punning.,sqm,79.95
+2023,14,,13.19.1,Ordinary cement finish using ordinary cement,sqm,886.6
+2023,14,,13.23.1,In one coat,sqm,47.65
+2023,14,,13.23.2,In two coats,sqm,72.3
+2023,14,,13.24.1,In one coat,sqm,713.2
+2023,14,,13.24.2,In two coats,sqm,1175.75
+2023,14,,13.25.1,Spherical ceiling,sqm,177.6
+2023,14,,13.25.2,Groined ceiling,sqm,192.3
+2023,14,,13.25.3,Flewing soffits,sqm,117.65
+2023,14,,13.27,Extra for lining out plaster to imitate stone or concrete blocks walling.,sqm,113.9
+2023,16,,13.31.1,Flush / Ruled/ Struck or weathered pointing,sqm,257.35
+2023,16,,13.31.2,Raised and cut pointing,sqm,419.9
+2023,16,,13.32.1,Flush/ Ruled/ Struck or weathered pointing,sqm,350.2
+2023,16,,13.33.1,Flush/ Ruled pointing,sqm,385.4
+2023,16,,13.33.2,Raised and cut pointing,sqm,701.05
+2023,16,,13.35.1,Flush/ Ruled pointing,sqm,214.2
+2023,16,,13.37.1,New work (three or more coats),sqm,39.05
+2023,16,,13.38,Satna lime wash on walls with one coat.,sqm,15.75
+2023,18,,13.39.2,New work (two or more coats) with a base coat of whiting,sqm,52.75
+2023,18,,13.44.1,New work (Two or more coats applied @ 3.84 kg/10 sqm),sqm,116.9
+2023,18,,0.90,litre/10 sqm.,sqm,181.25
+2023,20,,13.51.1,One coat,sqm,101.7
+2023,20,,13.51.2,Two coats,sqm,161.7
+2023,20,,13.52.1,On steel work,sqm,241.75
+2023,20,,13.52.2,On concrete work,sqm,235.15
+2023,20,,13.55.1,100 mm diameter pipes,metre,76.35
+2023,20,,13.55.2,150 mm diameter pipes,metre,113.8
+2023,20,,13.56.1,100 mm diameter pipes,metre,82.0
+2023,20,,13.56.2,150 mm diameter pipes,metre,122.15
+2023,20,,13.57.1,New work (two or more coats),sqm,54.4
+2023,20,,13.61.1,Two or more coats on new work,sqm,155.9
+2023,22,,13.63.1,Two or more coats on new work,sqm,146.8
+2023,22,,13.64.1,Two or more coats on new work,sqm,163.35
+2023,22,,13.65.1,Two or more coats on new work,sqm,140.25
+2023,22,,13.68.1,Two or more coats on new works including a coat of wood filler,sqm,446.25
+2023,22,,13.69.1,New work,sqm,197.65
+2023,22,,13.73.1,15 mm wide and 15 mm deep groove,metre,75.15
+2023,22,,13.73.2,20 mm wide and 15 mm deep groove,metre,75.8
+2023,24,,13.81.1,Old work (one or more coats),sqm,62.7
+2023,24,,13.82.1,One coat,sqm,92.0
+2023,24,,13.82.2,Two coats,sqm,137.45
+2023,24,,13.83.1,One coat,sqm,95.45
+2023,24,,13.83.2,Two coats,sqm,142.8
+2023,24,,13.87.1,Old work (two or more coats),sqm,22.85
+2023,26,,13.87.2,Old work (one or more coats),sqm,13.9
+2023,26,,13.92.1,Old work (one or more coats),sqm,93.3
+2023,26,,13.93.1,75 mm diameter pipes,metre,57.25
+2023,26,,13.94.1,75 mm diameter pipes,metre,26.85
+2023,26,,13.94.2,100 mm diameter pipes,metre,35.5
+2023,26,,13.94.3,150 mm diameter pipes,metre,51.2
+2023,26,,13.95.1,75 mm diameter pipes,metre,58.9
+2023,26,,13.95.2,100 mm diameter pipes,metre,81.45
+2023,26,,13.95.3,150 mm diameter pipes,metre,121.35
+2023,26,,13.96.1,75 mm diameter pipes,metre,28.2
+2023,26,,13.96.2,100 mm diameter pipes,metre,36.25
+2023,26,,13.96.3,150 mm diameter pipes,metre,52.25
+2023,26,,13.97.1,Old work (one or more coats),sqm,41.2
+2023,26,,13.99.1,One or more coats on old work,sqm,102.8
+2023,26,,13.100.1,One or more coats on old work,sqm,96.0
+2023,26,,13.101.1,One or more coats on old work,sqm,107.25
+2023,28,,13.102.1,One or more coats on old work,sqm,93.7
+2023,28,,13.103.1,One or more coats on old work,sqm,224.8
+2023,28,,13.104.1,Old work,sqm,99.8
+2023,28,,13.107.1,32 mm dia,each,80.1
+2023,28,,13.107.2,40 mm dia,each,78.65
+2023,28,,13.109.2,Old work (one or more coats @ 2.20 kg/10 sqm) complete.,sqm,75.8
+2023,28,,13.110.2,Old work (One or more coats) applied @ 1.82 ltr/10 sqm.,sqm,109.1
+2023,28,,13.111.2,Old work (One or more coat applied @ 0.90 ltr/10 sqm).,sqm,80.65
+2023,28,,13.112.2,Old work (one or more coats applied @ 0.83 ltr/10 sqm).,sqm,88.55
+2023,28,,13.113.1,One or more coats with copal varnish,sqm,94.6
+2023,28,,13.113.2,One or more coats with spar varnish,sqm,95.05
+2023,28,,13.114,Melamine polishing on wood work (one or more coat).,sqm,138.1
+2023,34,,14.1,Repairs to plaster of thickness 12 mm to 20 mm in patches of,area,2.5
+2023,34,,14.1.1,With cement mortar 1:4 (1 cement : 4 fine sand),sqm,547.4
+2023,34,,14.1.2,With cement mortar 1:4 (1cement: 4 coarse sand),sqm,560.5
+2023,34,,14.2.1,Door chowkhats,each,1782.55
+2023,34,,14.2.2,Window chowkhats,each,1125.15
+2023,34,,14.2.3,Clerestory window chowkhats,each,851.0
+2023,34,,14.4.1,For door/ window/ clerestory window,sqm,1264.35
+2023,34,,14.8.1,2nd class teak wood fillets,metre,77.7
+2023,34,,14.8.2,Hollock wood fillets,metre,70.75
+2023,36,,14.9,Renewal of old putty of glass panes (length),metre,56.15
+2023,36,,14.10,Refixing old glass panes with putty and nails,sqm,729.85
+2023,36,,14.11,Fixing old glass panes with wooden fillets (excluding cost of fillets),sqm,679.6
+2023,36,,14.14.1,Red/ white sand stone slabs 30 to 50 mm thick,sqm,1365.85
+2023,36,,14.15.1,Sal wood battens,cum,99120.65
+2023,36,,14.16.1.1,Sal wood beams,cum,104573.95
+2023,36,,14.16.1.2,Hollock wood beams,cum,70271.7
+2023,36,,14.16.2.1,Sal wood beams,cum,107320.0
+2023,36,,14.16.2.2,Hollock wood beams,cum,72987.25
+2023,36,,14.18.1,With F.P.S. brick tiles,sqm,137.7
+2023,36,,14.18.2,With modular brick tiles,sqm,139.05
+2023,38,,14.22.1,Wheel 50 mm dia and below per,wheel,123.7
+2023,38,,14.22.2,Wheel above 50 mm dia per,wheel,304.55
+2023,38,,14.27.1,Second class teak wood,sqm,4602.65
+2023,38,,14.28.1,20 mm diameter.,metre,343.5
+2023,38,,14.28.2,25 mm diameter.,metre,421.75
+2023,38,,14.30.1,Sal wood,cum,97978.3
+2023,38,,14.30.2,Hollock wood,cum,64022.85
+2023,40,,14.31.1,150 mm,each,765.05
+2023,40,,14.31.2,125 mm,each,546.0
+2023,40,,14.31.3,100 mm,each,485.65
+2023,40,,14.32.1,150 mm,each,851.85
+2023,40,,14.32.2,125 mm,each,726.65
+2023,40,,14.32.3,100 mm,each,704.75
+2023,40,,14.33.1,250 mm,each,285.05
+2023,40,,14.33.2,150 mm,each,245.35
+2023,40,,14.33.3,100 mm,each,188.45
+2023,40,,14.35.1,300 mm,each,101.85
+2023,40,,14.35.2,250 mm,each,97.7
+2023,40,,14.35.3,200 mm,each,87.75
+2023,40,,14.35.4,150 mm,each,70.55
+2023,40,,14.35.5,100 mm,each,61.85
+2023,40,,14.40.1,125x70x4 mm (ordinary type),each,171.05
+2023,40,,14.40.2,100x70x4 mm (ordinary type),each,148.75
+2023,40,,14.40.3,75x65x4 mm (heavy type),each,181.0
+2023,40,,14.40.4,75x40x2.5 mm (ordinary type),each,102.6
+2023,40,,14.40.5,50x40x2.5 mm (ordinary type),each,47.6
+2023,42,,14.75,Repair to plaster of thickness 12 mm to 20 mm in patches of,area,2.5
+2023,42,,150,mm dia upto 300 mm,metre,340.75
+2023,44,,14.80.1,Long pattern W.C Pan of size 580x440 mm,each,3501.7
+2023,44,,14.80.2,Orissa pattern W.C Pan of size 580x440 mm,each,4478.75
+2023,46,,14.89.1,2 mm (for corrugated roof sheets),sqm,498.35
+2023,48,,14.90.1,3 mm thick,sqm,537.45
+2023,48,,14.91.1,3 mm thick,sqm,560.95
+2023,52,,15.7.1,In mud mortar,cum,704.9
+2023,52,,15.7.2,In lime mortar with old mughal bricks,cum,1783.35
+2023,52,,15.7.3,In lime mortar,cum,851.5
+2023,52,,15.7.4,In cement mortar,cum,2060.2
+2023,52,,15.8.1,From brick work in mud mortar 1000,Nos,4658.45
+2023,52,,15.8.2,From brick work in lime mortar 1000,Nos,5355.3
+2023,52,,15.8.3,From brick work in cement mortar 1000,Nos,6700.8
+2023,52,,15.9.1,In lime mortar,cum,1158.1
+2023,52,,15.9.2,In cement mortar,cum,2458.95
+2023,52,,15.10.1,In lime mortar,cum,1464.25
+2023,52,,15.10.2,In cement mortar,cum,2877.75
+2023,52,,15.11.1,In lime mortar,cum,478.55
+2023,54,,15.11.2,In cement mortar,cum,689.2
+2023,54,,15.12.1,Of area 3 sq. metres and below,each,367.2
+2023,54,,15.12.2,Of area beyond 3 sq. metres,each,502.75
+2023,54,,15.13.1,Of area 3 sq. metres and below,each,143.5
+2023,54,,15.13.2,Of area beyond 3 sq. metres,each,188.9
+2023,54,,15.14.1,Of sectional area 40 square centimetres and above,cum,4459.1
+2023,54,,15.14.2,Of sectional area below 40 square centimetres,metre,17.85
+2023,54,,15.17.1,R.S. Joists,kg,3.4
+2023,54,,15.17.2,"Channels, angles, tees and flats",kg,2.3
+2023,54,,15.22,Extra for marking of structural steel work required to be re-erected.,kg,4.65
+2023,56,,15.23.1,For thickness of tiles 10 mm to 25 mm,sqm,73.4
+2023,56,,15.23.2,For thickness of tiles above 25 mm and up to 40 mm,sqm,113.35
+2023,56,,15.28.1,G.S. Sheet,sqm,164.95
+2023,56,,15.28.2,Asbestos Cement sheet,sqm,77.3
+2023,56,,15.34.1,T’ or ‘L’ iron or pipe,each,230.9
+2023,56,,15.34.2,R.C.C.,each,243.3
+2023,56,,15.39.1,Up to 10 mm thick,sqm,61.0
+2023,56,,15.39.2,Thickness above 10 mm up to 25 mm,sqm,77.75
+2023,58,,15.39.3,Thickness above 25 mm up to 40 mm,sqm,90.35
+2023,58,,15.40.1,Thickness up to 40 mm,sqm,289.3
+2023,58,,15.40.2,Thickness above 40 mm up to 75 mm,sqm,433.55
+2023,58,,15.42.1,75 to 80 mm dia pipe,metre,75.7
+2023,58,,15.42.2,100 mm dia pipe,metre,78.0
+2023,58,,15.42.3,150 mm dia pipe,metre,80.25
+2023,58,,15.43.1,Water bound macadam road,sqm,217.45
+2023,58,,15.43.2,bituminous road,sqm,428.5
+2023,58,,15.44.1,15 mm to 40 mm nominal bore,metre,149.8
+2023,58,,15.44.2,Above 40 mm nominal bore,metre,161.4
+2023,58,,15.45.1,Up to 150 mm diameter,metre,332.4
+2023,58,,15.45.2,Above 150 mm dia up to 300 mm dia,metre,456.65
+2023,58,,15.45.3,Above 300 mm diameter,metre,614.3
+2023,58,,15.46.1,Up to 600 mm diameter,metre,695.25
+2023,58,,15.46.2,Above 600 mm diameter,metre,1752.45
+2023,58,,15.47.1,Up to 150 mm diameter,metre,332.15
+2023,58,,15.47.2,Above 150 mm diameter,metre,403.05
+2023,60,,15.53.1,Up to 150 mm diameter,each,319.5
+2023,60,,15.53.2,Above 150 mm diameter,each,1184.15
+2023,60,,15.55.1,120 x 120 cm (outside to outside),each,1104.05
+2023,60,,15.55.2,210 x 120 cm (outside to outside),each,1693.35
+2023,60,,15.55.3,320 x 120 cm (outside to outside),each,2396.95
+2023,64,,16.3.1,90 mm to 45 mm size stone aggregate,cum,2098.4
+2023,64,,16.3.2,63 mm to 45 mm size stone aggregate,cum,1636.05
+2023,64,,16.3.3,53 mm to 22.4 mm size stone aggregate,cum,1842.3
+2023,64,,16.3.4,Over burnt (Jhama) brick aggregate 120 mm to 40 mm,cum,798.1
+2023,64,,16.3.5,Over burnt (Jhama) brick aggregate 90 mm to 45 mm,cum,872.05
+2023,64,,16.3.6,Stone screening 13.2 mm nominal size (Type A),cum,2034.35
+2023,64,,16.3.7,Stone screening 11.2 mm nominal size (Type B),cum,2247.75
+2023,64,,16.3.8,Red bajri,cum,1564.9
+2023,64,,16.3.9,Good earth,cum,775.5
+2023,64,,16.3.10,Moorum,cum,768.25
+2023,64,,16.5.1,Over burnt (Jhama) brick aggregate 120 mm to 40 mm,cum,879.7
+2023,64,,16.5.2,Over burnt (Jhama) brick aggregate 90 mm to 45 mm,cum,879.7
+2023,64,,16.6.1,With road roller/ hand roller,sqm,24.45
+2023,66,,16.13.1,bituminous portion,cum,5032.25
+2023,66,,16.13.2,Water bound macadam,cum,3078.05
+2023,66,,16.17.1,With G.I. barbed wire,metre,14.0
+2023,66,,16.18.1,With G.I. barbed wire,metre,22.1
+2023,68,,16.24.1,35x111x25 cm size,each,2876.7
+2023,68,,16.24.2,50x152.5x25 cm size,each,5170.25
+2023,68,,16.24.3,35x93.5x18 cm size,each,1924.5
+2023,68,,8,tonne capacity etc. complete.,sqm,311.85
+2023,70,,16.30.1,On W.B.M. @ 0.75 Kg / sqm,sqm,60.5
+2023,70,,16.30.2,On bituminous surface @ 0.50 Kg / sqm,sqm,48.2
+2023,70,,16.31.1.1,On W.B.M / W.M.M. @ 0.4kg/sqm,sqm,13.45
+2023,70,,16.31.1.2,On bituminous surface @ 0.25kg/sqm,sqm,9.2
+2023,70,,16.31.2.1,On W.B.M / W.M.M. @ 0.4kg/sqm,sqm,21.2
+2023,70,,16.31.2.2,On bituminous surface @ 0.25kg/sqm,sqm,14.05
+2023,70,,16.32.2,With paving Asphalt grade VG - 30 with no solvent,sqm,245.15
+2023,74,,16.39.2,With paving asphalt grade VG - 30 with no solvent,sqm,568.6
+2023,74,,16.40,Providing and laying seal coat of premixed fine aggregate (,passing,2.36
+2023,74,,16.43.1,Cement concrete prepared with batch mixing machine,cum,10529.35
+2023,76,,16.47.1,New work (Two or more coats),sqm,188.2
+2023,76,,16.47.2,Old work (One or more coats),sqm,120.8
+2023,76,,16.48.1,New work (Two or more coats),sqm,288.9
+2023,76,,16.48.2,Old work (One or more coats),sqm,189.85
+2023,78,,16.51.1,Minimum thickness 15 cm,cum,1514.4
+2023,82,,3650,mm,each,5559.75
+2023,82,,16.60.1,Overhead informatory road signage,sqm,5879.9
+2023,84,,16.66.1,All kind of soil,each,27.5
+2023,86,,16.70.1,Made of G.I. wire of dia 4 mm,sqm,1017.8
+2023,86,,16.74.1,Moorum,sqm,76.3
+2023,86,,16.74.2,Stone aggregate 20 mm nominal size,sqm,175.0
+2023,86,,16.74.3,Stone aggregate 40 mm nominal size,sqm,172.35
+2023,88,,0.075,mm) having CBR Value-30,cum,2784.0
+2023,88,,0.075,mm ) having CBR Value-25,cum,2924.85
+2023,88,,0.075,mm ) having CBR Value-20,cum,2808.55
+2023,90,,16.86.1,With granite stone of area less than 0.50 sqm.,sqm,4746.2
+2023,92,,200,"mm, as per drawing, all complete as per direction of Engineer-in-charge.",cum,4178.0
+2023,98,,17.2.1,W.C. pan with ISI marked white solid plastic seat and lid,each,6515.55
+2023,98,,17.2.2,W.C. pan with ISI marked black solid plastic seat and lid,each,6383.25
+2023,98,,17.3.1,W.C. pan with ISI marked white solid plastic seat and lid,each,8006.6
+2023,98,,17.3.2,W.C. pan with ISI marked black solid plastic seat and lid,each,7874.3
+2023,100,,17.6.1,Single squatting plate with 5 litre P.V.C. automatic flushing cistern,each,9256.45
+2023,102,,17.9.1,White glazed fire clay kitchen sink of size 600x450x 250 mm,each,3892.75
+2023,102,,17.10.1.1,510x1040 mm bowl depth 250 mm,each,6945.6
+2023,102,,17.10.1.2,510x1040 mm bowl depth 225 mm,each,7514.65
+2023,102,,17.10.1.3,510x1040 mm bowl depth 200 mm,each,7159.0
+2023,102,,17.10.1.4,510x1040 mm bowl depth 178 mm,each,6917.2
+2023,102,,17.10.2.1,610x510 mm bowl depth 200 mm,each,4940.8
+2023,102,,17.10.2.2,610x460 mm bowl depth 200 mm,each,3873.8
+2023,102,,17.10.2.3,470x420 mm bowl depth 178 mm,each,3407.2
+2023,102,,17.11.1,Size 450x300x150 mm,each,5020.85
+2023,102,,17.11.2,Size 600x450x200 mm,each,6585.8
+2023,102,,17.12.1,White glazed fire clay draining board of size 600x450x 25 mm,each,1579.65
+2023,102,,17.13.1,Long pattern W.C. pan of size 580 mm,each,1959.8
+2023,102,,17.13.2,Orissa pattern W.C. pan of size 580x440 mm,each,3169.05
+2023,102,,17.14.1,Orissa pattern W.C. pan 580x440 mm,each,426.8
+2023,104,,17.17.1,250x130x30 mm,pair,244.85
+2023,104,,17.17.2,250x125x25 mm,pair,256.25
+2023,104,,17.18.1,10 litre capacity - White,each,1190.65
+2023,104,,17.18.2,10 litre capacity - coloured,each,1136.6
+2023,104,,17.19.1,10 litre (full flush) capacity-white,each,2243.75
+2023,104,,17.19.2,10 litre (full flush) capacity-coloured,each,2912.4
+2023,104,,17.20.1,White solid plastic seat with lid,each,684.85
+2023,104,,17.20.2,Black solid plastic seat with lid,each,552.55
+2023,104,,17.20.3,Coloured (other than black & white) solid plastic seat with lid,each,590.95
+2023,104,,17.25.1,Flat back wash basin of size 630x450 mm,each,1339.7
+2023,104,,17.25.2,Flat back wash basin of size 550x400 mm,each,992.6
+2023,104,,17.25.3,Angle back wash basin of size 600x480 mm,each,1339.7
+2023,104,,17.25.4,Angle back wash basin of size 400x400 mm,each,870.25
+2023,104,,17.25.5,Flat back wash basin of size 450x300 mm,each,627.0
+2023,104,,17.25.6,Surgeon type wash basin of size 660x460 mm,each,1816.3
+2023,104,,17.26.1,White glazed fire clay sink of size 600x450x250 mm,each,2199.8
+2023,104,,17.27.1,Size 450x300x150 mm,each,2512.75
+2023,106,,17.27.2,Size 600x450x200 mm,each,4077.65
+2023,106,,17.28.1.1,32 mm dia,each,103.9
+2023,106,,17.28.1.2,40 mm dia,each,116.7
+2023,106,,17.28.2.1,32 mm dia,each,119.55
+2023,106,,17.28.2.2,40 mm dia,each,119.55
+2023,106,,17.29,Providing and fixing 100 mm sand cast Iron grating for gully trap.,each,53.25
+2023,106,,17.32.1,Circular shape 450 mm dia,each,1479.05
+2023,106,,17.32.2,Rectangular shape 453x357 mm,each,1361.8
+2023,106,,17.32.3,Oval shape 450x350 mm (outer dimensions),each,1377.1
+2023,106,,17.32.4,Rectangular shape 1500x450 mm,each,2093.0
+2023,106,,17.34.1,C.P. brass,each,803.7
+2023,106,,17.34.2,Vitreous china,each,546.35
+2023,106,,17.35.1.1,Sand cast iron S&S pipe as per IS: 1729,metre,1151.9
+2023,106,,17.35.2.1,Sand cast iron S&S pipe as per IS: 1729,metre,1044.75
+2023,106,,17.36.1,75 mm dia pipe,each,168.2
+2023,106,,17.36.2,100 mm dia pipe,each,198.15
+2023,108,,17.37.1,For 100 mm dia pipe,each,362.85
+2023,108,,17.37.2,For 75 mm dia pipe,each,360.0
+2023,108,,17.38.1.1,Sand cast iron S&S as per IS - 1729,each,598.5
+2023,108,,17.38.1.2,Sand cast iron S&S as per IS - 3989,each,705.2
+2023,108,,17.38.2.1,Sand cast iron S&S as per IS - 1729,each,501.45
+2023,108,,17.38.2.2,Sand cast iron S&S as per IS- 3989,each,522.8
+2023,108,,17.39.1.1,Sand cast iron S&S as per IS - 1729,each,470.45
+2023,108,,17.39.1.2,Sand cast iron S&S as per IS : 3989,each,570.05
+2023,108,,17.39.2.1,Sand cast iron S&S as per IS -1729,each,376.25
+2023,108,,17.39.2.2,Sand cast iron S&S as per IS - 3989,each,390.5
+2023,108,,17.40.1.1,Sand cast iron S&S as per IS - 1729,each,584.25
+2023,108,,17.40.1.2,Sand cast iron S&S as per IS - 3989,each,548.7
+2023,108,,17.40.2.1,Sand cast iron S&S as per IS - 1729,each,490.05
+2023,108,,17.40.2.2,Sand cast iron S&S as per IS - 3989,each,504.3
+2023,108,,17.41.1.1,Sand cast iron S&S as per IS - 1729,each,1138.65
+2023,108,,17.41.1.2,Sand cast iron S&S as per IS - 3989,each,1103.1
+2023,108,,17.41.2.1,Sand cast iron S&S as per IS - 1729,each,842.9
+2023,108,,17.41.2.2,Sand cast iron S&S as per IS - 3989,each,885.6
+2023,110,,17.42.1.1,Sand cast iron S&S as per IS - 1729,each,939.9
+2023,110,,17.42.1.2,Sand cast iron S&S as per IS - 3989,each,1075.05
+2023,110,,17.42.2.1,Sand cast iron S&S as per IS - 1729,each,625.2
+2023,110,,17.42.2.2,Sand cast iron S&S as per IS - 3989,each,803.05
+2023,110,,17.43.1.1,Sand cast iron S&S as per IS - 1729,each,726.55
+2023,110,,17.43.1.2,Sand cast iron S&S as per IS - 3989,each,925.7
+2023,110,,17.43.2.1,Sand cast iron S&S as per IS - 1729,each,629.5
+2023,110,,17.43.2.2,Sand cast iron S&S as per IS - 3989,each,665.05
+2023,110,,17.44.1.1,Sand cast iron S&S as per IS - 1729,each,626.95
+2023,110,,17.44.1.2,Sand cast iron S&S as per IS - 3989,each,811.9
+2023,110,,17.44.2.1,Sand cast iron S&S as per IS - 1729,each,504.3
+2023,110,,17.44.2.2,Sand cast iron S&S as per IS - 3989,each,561.2
+2023,110,,17.45.1.1,Sand cast iron S&S as per IS - 1729,each,1153.3
+2023,110,,17.45.1.2,Sand cast iron S&S as per IS - 3989,each,1601.45
+2023,110,,17.46.1.1,Sand cast iron S&S as per IS - 1729,each,954.15
+2023,110,,17.46.1.2,Sand cast iron S&S as per IS - 3989,each,1402.3
+2023,110,,17.47.1.1,Sand cast iron S&S as per IS - 1729,each,911.45
+2023,112,,17.47.1.2,Sand cast iron S&S as per IS - 3989,each,1146.2
+2023,112,,17.48.1.1,Sand cast iron S&S as per IS - 1729,each,811.9
+2023,112,,17.48.1.2,Sand cast iron S&S as per IS - 3989,each,1032.4
+2023,112,,17.49.1.1,Sand cast iron S&S as per IS - 1729,each,883.0
+2023,112,,17.49.1.2,Sand cast iron S&S as per IS 3989,each,989.7
+2023,112,,17.49.2.1,Sand cast iron S&S as per IS - 1729,each,660.8
+2023,112,,17.49.2.2,Sand cast iron S&S as per IS - 3989,each,803.05
+2023,112,,17.50.1.1,Sand cast iron S&S as per iron 1729,each,698.05
+2023,112,,17.50.1.2,Sand cast iron S&S as per IS - 3989,each,747.85
+2023,112,,17.50.2.1,Sand cast iron S&S as per IS - 1729,each,575.45
+2023,112,,17.50.2.2,Sand cast iron S&S as per IS - 3989,each,575.45
+2023,112,,17.51.1.1,Sand cast iron S&S as per IS - 1729,each,1011.05
+2023,112,,17.51.1.2,Sand cast iron S&S as per IS - 3989,each,1274.25
+2023,112,,17.52.1.1,Sand cast iron S&S as per IS - 1729,each,804.8
+2023,112,,17.52.1.2,Sand cast iron S&S as per IS - 3989,each,996.85
+2023,112,,17.53.1.1,With 75 mm dia pipe,each,376.25
+2023,112,,17.53.1.2,With 100 mm dia pipe,each,603.9
+2023,112,,17.53.2.1,With 75 mm dia pipe,each,527.35
+2023,112,,17.53.2.2,With 100 mm dia pipe,each,648.3
+2023,114,,17.53.3.1,With 75 mm dia pipe,each,619.9
+2023,114,,17.53.3.2,With 100 mm dia pipe,each,769.25
+2023,114,,17.54.1.1,With 75 mm dia pipe,each,418.95
+2023,114,,17.54.2.1,With 75 mm dia pipe,each,585.55
+2023,114,,17.54.2.2,With 100 mm dia pipe,each,734.95
+2023,114,,17.55.1.1,Sand cast iron S&S as per IS - 1729,each,783.45
+2023,114,,17.55.1.2,Sand cast iron S&S as per IS - 3989,each,683.85
+2023,114,,17.55.2.1,Sand cast iron S&S as per IS - 1729,each,501.45
+2023,114,,17.55.2.2,Sand cast iron S&S as per IS - 3989,each,537.0
+2023,114,,17.56.1.1,Sand cast iron S&S as per IS - 1729,each,442.0
+2023,114,,17.56.1.2,Sand cast iron S&S as per IS - 3989,each,506.0
+2023,114,,17.56.2.1,Sand cast iron S&S as per IS - 1729,each,340.7
+2023,114,,17.56.2.2,Sand cast iron S&S as per IS - 3989,each,404.75
+2023,114,,17.57.1.1,Sand cast iron S&S as per IS - 1729,each,463.35
+2023,114,,17.57.1.2,Sand cast iron S&S as per IS - 3989,each,513.15
+2023,114,,17.57.2.1,Sand cast iron S&S as per IS - 1729,each,305.15
+2023,114,,17.57.2.2,Sand cast iron S&S as per IS - 3989,each,362.05
+2023,116,,17.58.1,100 mm,each,622.5
+2023,116,,17.58.2,75 mm,each,526.25
+2023,116,,17.58.3,50 mm,each,423.15
+2023,116,,17.59.1,100 mm,each,139.7
+2023,116,,17.59.2,75 mm,each,90.3
+2023,116,,17.59.3,50 mm,each,81.85
+2023,116,,17.60.1.1,Sand cast iron S&S as per IS: 3989,each,1996.5
+2023,116,,17.60.1.2,Sand Cast Iron S&S as per IS: 1729,each,1683.55
+2023,116,,17.60.2.1,Sand cast iron S&S as per IS - 3989,each,1975.15
+2023,116,,17.60.2.2,Sand Cast Iron S&S as per IS- 1729,each,1558.35
+2023,116,,17.61.1,100 mm dia,metre,713.2
+2023,116,,17.61.2,75 mm dia,metre,513.25
+2023,116,,17.61.3,50 mm dia,metre,336.0
+2023,118,,17.65.1,100 mm diameter pipe,metre,82.8
+2023,118,,17.65.2,75 mm diameter pipe,metre,62.95
+2023,118,,17.66.1,100 mm diameter pipe,metre,39.5
+2023,118,,17.66.2,75 mm diameter pipe,metre,29.55
+2023,118,,17.67,Repainting bath tub of size 1700x730x430 mm with enamel paint.,each,804.3
+2023,118,,88,gms.,each,231.95
+2023,120,,170,gms,each,673.4
+2023,124,,18.1.1,1216 (16 mm OD) pipe,metre,286.75
+2023,124,,18.1.2,1620 (20 mm OD) pipe,metre,331.2
+2023,124,,18.1.3,2025 (25 mm OD) pipe,metre,401.55
+2023,124,,18.1.4,2532 (32 mm OD) pipe,metre,529.85
+2023,124,,18.1.5,3240 (40 mm OD) pipe,metre,684.45
+2023,124,,18.1.6,4050 (50 mm OD) pipe,metre,939.7
+2023,124,,18.2.1,1216 (16 mm OD) pipe,metre,522.7
+2023,124,,18.2.2,1620 (20 mm OD) pipe,metre,557.55
+2023,124,,18.2.3,2025 (25 mm OD) pipe,metre,627.25
+2023,124,,18.2.4,2532 (32 mm OD) pipe,metre,754.2
+2023,124,,18.3.1,1216 (16 mm OD) pipe,metre,263.2
+2023,124,,18.3.2,1620 (20 mm OD ) pipe,metre,289.1
+2023,124,,18.3.3,2025 (25 mm OD ) pipe,metre,340.85
+2023,124,,18.3.4,2532 (32 mm OD ) pipe,metre,435.2
+2023,124,,18.3.5,3240 (40 mm OD ) pipe,metre,544.55
+2023,124,,18.3.6,4050 (50 mm OD ) pipe,metre,799.8
+2023,126,,18.4.1,"PN - 16 Pipe, 20 mm OD (SDR-7.4)",metre,272.0
+2023,126,,18.4.2,"PN - 16 Pipe, 25 mm OD (SDR-7.4)",metre,318.35
+2023,126,,18.4.3,"PN - 16 Pipe, 32 mm OD (SDR-7.4)",metre,362.9
+2023,126,,18.4.4,"PN - 16 Pipe, 40 mm OD (SDR-7.4)",metre,545.75
+2023,126,,18.4.5,"PN - 10 Pipe, 50 mm OD (SDR-11)",metre,580.1
+2023,126,,18.5.1,"PN - 16 Pipe, 20 mm OD (SDR-7.4)",metre,477.85
+2023,126,,18.5.2,"PN - 16 Pipe, 25 mm OD (SDR-7.4)",metre,515.2
+2023,126,,18.5.3,"PN - 16 Pipe, 32 mm OD (SDR-7.4)",metre,561.45
+2023,126,,18.6.1,"PN - 16 Pipe, 20 mm OD (SDR-7.4)",metre,224.95
+2023,126,,18.6.2,"PN - 16 Pipe, 25 mm OD (SDR-7.4)",metre,265.05
+2023,126,,18.6.3,"PN - 16 Pipe, 32 mm OD (SDR-7.4)",metre,316.25
+2023,126,,18.6.4,"PN - 16 Pipe, 40 mm OD (SDR-7.4)",metre,415.1
+2023,126,,18.6.5,"PN - 10 Pipe, 50 mm OD (SDR-11)",metre,450.95
+2023,126,,18.6.6,"PN - 10 Pipe, 63 mm OD (SDR-11)",metre,597.75
+2023,126,,18.6.7,"PN - 10 Pipe, 75 mm OD (SDR-11)",metre,696.75
+2023,126,,18.6.8,"PN - 10 Pipe, 90 mm OD (SDR-11)",metre,975.3
+2023,126,,18.6.9,"PN - 10 Pipe, 110 mm OD (SDR-11)",metre,1301.35
+2023,126,,18.6.10,"PN - 10 Pipe, 160 mm OD (SDR-11)",metre,2746.85
+2023,128,,18.7.1,15 mm nominal dia Pipes,metre,286.8
+2023,128,,18.7.2,20 mm nominal dia Pipes,metre,335.0
+2023,128,,18.7.3,25 mm nominal dia Pipes,metre,401.55
+2023,128,,18.7.4,32 mm nominal dia Pipes,metre,518.75
+2023,128,,18.7.5,40 mm nominal dia Pipes,metre,702.95
+2023,128,,18.7.6,50 mm nominal dia Pipes,metre,934.15
+2023,128,,18.8.1,15 mm nominal dia Pipes,metre,497.8
+2023,128,,18.8.2,20 mm nominal dia Pipes,metre,537.6
+2023,128,,18.8.3,25 mm nominal dia Pipes,metre,627.25
+2023,128,,18.8.4,32 mm nominal dia Pipes,metre,739.3
+2023,128,,18.9.1,15 mm nominal dia Pipes,metre,244.7
+2023,128,,18.9.2,20 mm nominal dia Pipes,metre,274.3
+2023,128,,18.9.3,25 mm nominal dia Pipes,metre,355.4
+2023,128,,18.9.4,32 mm nominal dia Pipes,metre,438.6
+2023,128,,18.9.5,40 mm nominal dia Pipes,metre,563.05
+2023,128,,18.9.6,50 mm nominal dia Pipes,metre,794.25
+2023,128,,18.9.7,65 mm nominal dia Pipes,metre,1674.4
+2023,128,,18.9.8,80 mm nominal dia Pipes,metre,2166.35
+2023,128,,18.9.9,100 mm nominal dia Pipes,metre,3271.7
+2023,128,,18.9.10,150 mm nominal dia Pipes,metre,6822.7
+2023,130,,18.10.1,15 mm dia nominal bore,metre,366.4
+2023,130,,18.10.2,20 mm dia nominal bore,metre,437.3
+2023,130,,18.10.3,25 mm dia nominal bore,metre,551.7
+2023,130,,18.10.4,32 mm dia nominal bore,metre,667.0
+2023,130,,18.10.5,40 mm dia nominal bore,metre,811.9
+2023,130,,18.10.6,50 mm dia nominal bore,metre,1048.35
+2023,130,,18.11.1,15 mm dia nominal bore,metre,580.45
+2023,130,,18.11.2,20 mm dia nominal bore,metre,635.2
+2023,130,,18.12.1,15 mm dia nominal bore,metre,322.15
+2023,130,,18.12.2,20 mm dia nominal bore,metre,368.6
+2023,130,,18.12.3,25 mm dia nominal bore,metre,467.75
+2023,130,,18.12.4,32 mm dia nominal bore,metre,540.3
+2023,130,,18.12.5,40 mm dia nominal bore,metre,617.05
+2023,130,,18.12.6,50 mm dia nominal bore,metre,762.15
+2023,130,,18.12.7,65 mm dia nominal bore,metre,896.6
+2023,130,,18.12.8,80 mm dia nominal bore,metre,1041.7
+2023,130,,18.13.1,25 to 40 mm nominal bore,each,911.9
+2023,130,,18.13.2,50 to 80 mm nominal bore,each,1785.35
+2023,130,,18.15.1,15 mm nominal bore,each,353.25
+2023,130,,18.15.2,20 mm nominal bore,each,379.2
+2023,130,,18.16.1,15 mm nominal bore,each,353.25
+2023,130,,18.16.2,20 mm nominal bore,each,379.2
+2023,130,,18.17.1,25 mm nominal bore,each,622.4
+2023,130,,18.17.2,32 mm nominal bore.,each,689.6
+2023,130,,18.17.3,40 mm nominal bore,each,826.1
+2023,130,,18.17.4,50 mm nominal bore,each,1026.65
+2023,132,,18.17.5,65 mm nominal bore,each,1742.15
+2023,132,,18.17.6,80 mm nominal bore,each,2604.55
+2023,132,,18.18.1,15 mm nominal bore,each,406.85
+2023,132,,18.18.2,20 mm nominal bore,each,462.5
+2023,132,,18.18.3,25 mm nominal bore,each,464.05
+2023,132,,18.19.1.1,Horizontal,each,591.4
+2023,132,,18.19.1.2,Vertical,each,624.1
+2023,132,,18.19.2.1,Horizontal,each,791.9
+2023,132,,18.19.2.2,Vertical,each,850.25
+2023,132,,18.19.3.1,Horizontal,each,952.6
+2023,132,,18.19.3.2,Vertical,each,1134.7
+2023,132,,18.19.4.1,Horizontal,each,1371.2
+2023,132,,18.19.4.2,Vertical,each,1445.15
+2023,132,,18.19.5.1,Horizontal,each,2448.05
+2023,132,,18.19.5.2,Vertical,each,2291.55
+2023,132,,18.19.6.1,Horizontal,each,3664.75
+2023,132,,18.19.6.2,Vertical,each,3855.4
+2023,132,,18.20.1,15 mm nominal bore,each,329.3
+2023,132,,18.20.2,20 mm nominal bore,each,380.0
+2023,132,,18.20.3,25 mm nominal bore,each,486.8
+2023,132,,18.21.1.1,15 mm nominal bore,each,85.0
+2023,132,,18.21.1.2,20 mm nominal bore,each,93.55
+2023,132,,18.21.2.1,15 mm nominal bore,each,97.75
+2023,132,,18.21.2.2,20 mm nominal bore,each,119.05
+2023,132,,18.22.1,100 mm diameter,each,193.95
+2023,132,,18.22.2,150 mm diameter,each,222.35
+2023,134,,18.25.1,Up to 300 mm dia,quintal,6352.4
+2023,134,,18.25.2,Over 300 mm dia,quintal,6352.4
+2023,134,,18.26.1,Up to 300 mm dia,quintal,8913.15
+2023,134,,18.26.2,Over 300 mm dia,quintal,8486.35
+2023,134,,18.27.1,100 mm dia pipe,metre,1423.1
+2023,134,,18.27.2,125 mm dia pipe,metre,1729.35
+2023,134,,18.27.3,150 mm dia pipe,metre,2037.0
+2023,134,,18.27.4,200 mm dia pipe,metre,3406.85
+2023,134,,18.27.5,250 mm dia pipe,metre,4639.8
+2023,134,,18.27.6,300 mm dia pipe,metre,6128.65
+2023,134,,18.27.7,350 mm dia pipe,metre,7343.8
+2023,134,,18.27.8,400 mm dia pipe,metre,9701.0
+2023,134,,18.27.9,450 mm dia pipe,metre,11714.85
+2023,134,,18.27.10,500 mm dia pipe,metre,13728.75
+2023,134,,18.27.11,600 mm dia pipe,metre,18636.45
+2023,134,,18.28.1,100 mm diameter pipe,each,496.4
+2023,134,,18.28.2,125 mm diameter pipe,each,737.5
+2023,134,,18.28.3,150 mm diameter pipe,each,744.85
+2023,134,,18.28.4,200 mm diameter pipe,each,990.2
+2023,134,,18.28.5,250 mm diameter pipe,each,1237.8
+2023,134,,18.28.6,300 mm diameter pipe,each,1488.8
+2023,134,,18.28.7,350 mm diameter pipe,each,1513.6
+2023,134,,18.28.8,400 mm diameter pipe,each,1993.75
+2023,134,,18.28.9,450 mm diameter pipe,each,2238.45
+2023,134,,18.28.10,500 mm diameter pipe,each,2366.45
+2023,134,,18.28.11,600 mm diameter pipe,each,3211.4
+2023,134,,18.29,Supplying pig lead at site of work.,quintal,29875.4
+2023,134,,18.30.1,80 mm diameter pipe,each,215.1
+2023,136,,18.30.2,100 mm diameter pipe,each,332.0
+2023,136,,18.30.3,125 mm diameter pipe,each,351.9
+2023,136,,18.30.4,150 mm diameter pipe,each,387.4
+2023,136,,18.30.5,200 mm diameter pipe,each,428.65
+2023,136,,18.30.6,250 mm diameter pipe,each,596.65
+2023,136,,18.30.7,300 mm diameter pipe,each,599.5
+2023,136,,18.30.8,350 mm diameter pipe,each,762.9
+2023,136,,18.30.9,400 mm diameter pipe,each,1066.8
+2023,136,,18.30.10,450 mm diameter pipe,each,1305.6
+2023,136,,18.30.11,500 mm diameter pipe,each,1437.8
+2023,136,,18.30.12,600 mm diameter pipe,each,1704.1
+2023,136,,18.31.1.1,Class I,each,4791.2
+2023,136,,18.31.1.2,Class II,each,4985.85
+2023,136,,18.31.2.1,Class I,each,5160.8
+2023,136,,18.31.2.2,Class II,each,5943.0
+2023,136,,18.31.3.1,Class I,each,6966.55
+2023,136,,18.31.3.2,Class II,each,7312.4
+2023,136,,18.31.4.1,Class I,each,13554.7
+2023,136,,18.31.4.2,Class II,each,14622.95
+2023,136,,18.31.5.1,Class I,each,19566.55
+2023,136,,18.31.5.2,Class II,each,24623.5
+2023,136,,18.31.6.1,Class I,each,27059.3
+2023,136,,18.31.6.2,Class II,each,30203.0
+2023,140,,18.38.1,15 mm diameter pipe,metre,19.4
+2023,140,,18.38.2,20 mm diameter pipe,metre,23.25
+2023,140,,18.38.3,25 mm diameter pipe,metre,30.25
+2023,140,,18.38.4,32 mm diameter pipe,metre,36.35
+2023,140,,18.38.5,40 mm diameter pipe,metre,42.65
+2023,140,,18.38.6,50 mm diameter pipe,metre,51.0
+2023,140,,18.39.1,15 mm diameter pipe,metre,9.5
+2023,140,,18.39.2,20 mm diameter pipe,metre,11.3
+2023,140,,18.39.3,25 mm diameter pipe,metre,14.4
+2023,140,,18.39.4,32 mm diameter pipe,metre,17.25
+2023,140,,18.39.5,40 mm diameter pipe,metre,20.0
+2023,140,,18.39.6,50 mm diameter pipe,metre,23.85
+2023,140,,18.40.1,15 mm diameter pipe,metre,12.05
+2023,140,,18.40.2,20 mm diameter pipe,metre,14.45
+2023,140,,18.40.3,25 mm diameter pipe,metre,18.35
+2023,140,,18.40.4,32 mm diameter pipe,metre,22.2
+2023,140,,18.40.5,40 mm diameter pipe,metre,25.25
+2023,140,,18.40.6,50 mm diameter pipe,metre,30.5
+2023,140,,18.40.7,65 mm diameter pipe,metre,37.85
+2023,140,,18.40.8,80 mm diameter pipe,metre,44.0
+2023,140,,18.41.1,15 mm diameter pipe,metre,154.45
+2023,140,,18.41.2,20 mm diameter pipe,metre,156.55
+2023,140,,18.41.3,25 mm diameter pipe,metre,160.7
+2023,140,,18.41.4,32 mm diameter pipe,metre,164.9
+2023,140,,18.41.5,40 mm diameter pipe,metre,167.0
+2023,140,,18.41.6,50 mm diameter pipe,metre,173.25
+2023,140,,18.41.7,65 mm diameter pipe,metre,273.45
+2023,140,,18.41.8,80 mm diameter pipe,metre,281.8
+2023,140,,18.41.9,100 mm diameter pipe,metre,298.5
+2023,140,,18.41.10,150 mm diameter pipe,metre,444.6
+2023,140,,18.42.1,Up to 6 metres depth,metre,747.9
+2023,140,,18.42.2,Beyond 6 m and up to 12 m depth,metre,884.85
+2023,140,,18.42.3,Beyond 12 m and up to 18 m depth,metre,1025.95
+2023,142,,18.46.1,15 mm nominal bore,each,318.35
+2023,142,,18.46.2,20 mm nominal bore,each,346.8
+2023,142,,18.46.3,25 mm nominal bore,each,439.25
+2023,142,,18.46.4,32 mm nominal bore,each,489.05
+2023,142,,18.46.5,40 mm nominal bore,each,631.3
+2023,142,,18.46.6,50 mm nominal bore,each,823.8
+2023,142,,18.46.7,65 mm nominal bore,each,1136.8
+2023,142,,18.46.8,80 mm nominal bore,each,1207.95
+2023,142,,18.47.1,15 mm nominal bore,each,829.45
+2023,142,,18.47.2,20 mm nominal bore,each,857.85
+2023,142,,18.47.3,25 mm nominal bore,each,950.35
+2023,142,,18.47.4,32 mm nominal bore,each,1000.15
+2023,142,,18.47.5,40 mm nominal bore,each,1142.4
+2023,142,,18.47.6,50 mm nominal bore,each,1520.8
+2023,142,,18.47.7,65 mm nominal bore,each,1833.75
+2023,142,,18.47.8,80 mm nominal bore,each,1904.9
+2023,142,,18.49.1,15 mm nominal bore,each,506.8
+2023,142,,18.50.1,15 mm nominal bore,each,820.7
+2023,144,,18.51.1,15 mm nominal bore,each,798.95
+2023,144,,18.52.1,15 mm nominal bore,each,670.45
+2023,144,,18.53.1,15 mm nominal bore,each,574.3
+2023,144,,88,gms,each,125.6
+2023,144,,99,gms,each,161.2
+2023,144,,110,gms,each,176.85
+2023,144,,93,gms,each,196.75
+2023,144,,88,gms,each,118.5
+2023,144,,88,gms,each,129.9
+2023,144,,110,gms,each,208.45
+2023,144,,75,gms,each,112.8
+2023,144,,46,gms,each,95.75
+2023,144,,18.58.1.1,100 mm nominal dia,each,37.6
+2023,144,,18.58.1.2,125 mm nominal dia with 25 mm waste hole,each,51.85
+2023,146,,18.59.1,50 mm dia,each,5748.8
+2023,146,,18.59.2,80 mm dia,each,6993.6
+2023,146,,18.59.3,100 mm dia,each,8893.0
+2023,146,,18.60.1,80 mm dia nominal bore,each,3627.65
+2023,146,,18.60.2,100 mm dia nominal bore,each,5468.35
+2023,146,,18.60.3,150 mm dia nominal bore,each,8408.8
+2023,146,,18.60.4,200 mm dia nominal bore,each,9043.3
+2023,146,,18.61.1,80 mm dia,each,4623.5
+2023,146,,18.61.2,100 mm dia,each,7460.0
+2023,146,,18.61.3,150 mm dia,each,9433.1
+2023,146,,18.61.4,200 mm dia,each,12927.1
+2023,146,,138,gms,each,182.1
+2023,146,,198,gms,each,257.6
+2023,146,,440,gms,each,523.8
+2023,146,,690,gms,each,737.2
+2023,146,,1240,gms,each,1375.95
+2023,146,,18.66.1,Up to 300 mm dia,quintal,8628.6
+2023,146,,18.66.2,Above 300 mm dia,quintal,10157.95
+2023,146,,18.67.1,Up to 300 mm dia,quintal,13764.35
+2023,146,,18.67.2,Above 300 mm dia,quintal,14532.55
+2023,148,,18.68.1,Up to 600 mm dia,quintal,20009.7
+2023,148,,18.68.2,Above 600 mm dia,quintal,26696.1
+2023,148,,18.69.1,Up to 600 mm dia,quintal,21290.1
+2023,148,,18.69.2,Above 600 mm dia,quintal,28403.25
+2023,148,,18.70.1,100 mm dia pipes,joint,119.45
+2023,148,,18.70.2,150 mm dia pipes,joint,192.85
+2023,148,,18.70.3,200 mm dia pipes,joint,280.85
+2023,148,,18.70.4,250 mm dia pipes,joint,340.35
+2023,148,,18.70.5,300 mm dia pipes,joint,435.45
+2023,148,,18.70.6,350 mm dia pipes,joint,495.0
+2023,148,,18.70.7,400 mm dia pipes,joint,696.8
+2023,148,,18.70.8,450 mm dia pipes,joint,820.35
+2023,148,,18.70.9,500 mm dia pipes,joint,871.45
+2023,148,,18.70.10,600 mm dia pipes,joint,1207.9
+2023,148,,18.70.11,700 mm dia pipes,joint,1572.7
+2023,148,,18.70.12,750 mm dia pipes,joint,1693.65
+2023,148,,18.70.13,800 mm dia pipes,joint,1844.4
+2023,148,,18.70.14,900 mm dia pipes,joint,2314.65
+2023,148,,18.70.15,1000 mm dia pipes,joint,2604.4
+2023,148,,18.71.1,100 mm dia C.I. Double Flanged Pipe,metre,2089.35
+2023,148,,18.71.2,150 mm dia C.I. Double Flanged Pipe,metre,3218.5
+2023,148,,18.71.3,200 mm dia C.I. Double Flanged Pipe,metre,4995.85
+2023,148,,18.71.4,250 mm dia C.I. Double Flanged Pipe,metre,6227.0
+2023,148,,18.71.5,300 mm dia C.I. Double Flanged Pipe,metre,8094.3
+2023,148,,18.71.6,350 mm dia C.I. Double Flanged Pipe,metre,10093.9
+2023,148,,18.71.7,400 mm dia C.I. Double Flanged Pipe,metre,13136.65
+2023,148,,18.71.8,450 mm dia C.I. Double Flanged Pipe,metre,16769.3
+2023,148,,18.71.9,500 mm dia C.I. Double Flanged Pipe,metre,21619.65
+2023,148,,18.71.10,600 mm dia C.I. Double Flanged Pipe,metre,27459.4
+2023,148,,18.72.1,100 mm dia Ductile Iron Class K-7 pipes,metre,1257.8
+2023,150,,18.72.2,150 mm dia Ductile Iron Class K-7 pipes,metre,1789.6
+2023,150,,18.72.3,200 mm dia Ductile Iron Class K-7 pipes,metre,2328.15
+2023,150,,18.72.4,250 mm dia Ductile Iron Class K-7 pipes,metre,2880.7
+2023,150,,18.72.5,300 mm dia Ductile Iron Class K-7 pipes,metre,3518.25
+2023,150,,18.72.6,350 mm dia Ductile Iron Class K-7 pipes,metre,4186.5
+2023,150,,18.72.7,400 mm dia Ductile Iron Class K-7 pipes,metre,5084.55
+2023,150,,18.72.8,450 mm dia Ductile Iron Class K-7 pipes,metre,6163.35
+2023,150,,18.72.9,500 mm dia Ductile Iron Class K-7 pipes,metre,6787.4
+2023,150,,18.72.10,600 mm dia Ductile Iron Class K-7 pipes,metre,8965.95
+2023,150,,18.72.11,700 mm dia Ductile Iron Class K-7 pipes,metre,11566.35
+2023,150,,18.72.12,800 mm dia Ductile Iron Class K-7 pipes,metre,14609.05
+2023,150,,18.72.13,900 mm dia Ductile Iron Class K-7 pipes,metre,18734.2
+2023,150,,18.72.14,1000 mm dia Ductile Iron Class K-7 pipes,metre,19895.8
+2023,150,,18.72.15,100 mm dia Ductile Iron Class K-9 pipes,metre,1344.6
+2023,150,,18.72.16,150 mm dia Ductile Iron Class K-9 pipes,metre,1837.75
+2023,150,,18.72.17,200 mm dia Ductile Iron Class K-9 pipes,metre,2478.1
+2023,150,,18.72.18,250 mm dia Ductile Iron Class K-9 pipes,metre,3516.8
+2023,150,,18.72.19,300 mm dia Ductile Iron Class K-9 pipes,metre,4344.4
+2023,150,,18.72.20,350 mm dia Ductile Iron Class K-9 pipes,metre,5409.85
+2023,150,,18.72.21,400 mm dia Ductile Iron Class K-9 pipes,metre,6844.3
+2023,150,,18.72.22,450 mm dia Ductile Iron Class K-9 pipes,metre,7976.85
+2023,150,,18.72.23,500 mm dia Ductile Iron Class K-9 pipes,metre,9679.85
+2023,150,,18.72.24,600 mm dia Ductile Iron Class K-9 pipes,metre,12986.95
+2023,150,,18.72.25,700 mm dia Ductile Iron Class K-9 pipes,metre,17431.6
+2023,150,,18.72.26,750 mm dia Ductile Iron Class K-9 pipes,metre,18567.85
+2023,150,,18.72.27,800 mm dia Ductile Iron Class K-9 pipes,metre,18891.2
+2023,150,,18.72.28,900 mm dia Ductile Iron Class K-9 pipes,metre,23163.0
+2023,150,,18.72.29,1000 mm dia Ductile Iron Class K-9 pipes,metre,25133.0
+2023,152,,18.73.1,100 mm dia Ductile Iron Double Flanged,metre,1821.55
+2023,152,,18.73.2,150 mm dia Ductile Iron Double Flanged,metre,2607.5
+2023,152,,18.73.3,200 mm dia Ductile Iron Double Flanged,metre,3360.8
+2023,152,,18.73.4,250 mm dia Ductile Iron Double Flanged,metre,4696.15
+2023,152,,18.73.5,300 mm dia Ductile Iron Double Flanged,metre,5895.7
+2023,152,,18.73.6,350 mm dia Ductile Iron Double Flanged,metre,7550.45
+2023,152,,18.73.7,400 mm dia Ductile Iron Double Flanged,metre,9744.4
+2023,152,,18.73.8,450 mm dia Ductile Iron Double Flanged,metre,10136.1
+2023,152,,18.73.9,500 mm dia Ductile Iron Double Flanged,metre,15472.95
+2023,152,,18.73.10,600 mm dia Ductile Iron Double Flanged,metre,19925.3
+2023,152,,18.73.11,700 mm dia Ductile Iron Double Flanged,metre,22830.8
+2023,152,,18.74.1,15 mm nominal bore with 30 cm length,each,96.35
+2023,152,,18.74.2,15 mm nominal bore with 45 cm length,each,121.9
+2023,152,,18.75.1,"15 mm nominal bore, weighing not less than 32 gms",each,53.6
+2023,152,,18.75.2,"20 mm nominal bore, weighing not less than 40 gms",each,93.45
+2023,152,,18.75.3,"25 mm nominal bore, weighing not less than 62 gms",each,113.35
+2023,152,,18.76.1,With common burnt clay F.P.S. (non modular) bricks,each,416.8
+2023,152,,18.80.1,80 mm diameter C.I. pipe 100,metre,1844.0
+2023,152,,18.80.2,100 mm diameter C.I. pipe 100,metre,2415.15
+2023,152,,18.80.3,125 mm diameter C.I. pipe 100,metre,3006.4
+2023,152,,18.80.4,150 mm diameter C.I. pipe 100,metre,3593.85
+2023,154,,18.80.5,200 mm diameter C.I. pipe 100,metre,4771.6
+2023,154,,18.80.6,250 mm diameter C.I. pipe 100,metre,5977.65
+2023,154,,18.80.7,300 mm diameter C.I. pipe 100,metre,6618.15
+2023,154,,18.80.8,350 mm diameter C.I. pipe 100,metre,7272.35
+2023,154,,18.80.9,400 mm diameter C.I. pipe 100,metre,7950.85
+2023,154,,18.80.10,450 mm diameter C.I. pipe 100,metre,8635.75
+2023,154,,18.80.11,500 mm diameter C.I. pipe 100,metre,9351.25
+2023,154,,18.80.12,600 mm diameter C.I. pipe 100,metre,10787.45
+2023,154,,18.81.1,80 mm diameter C.I. pipe 100,metre,674.95
+2023,154,,18.81.2,100 mm diameter C.I. pipe 100,metre,824.95
+2023,154,,18.81.3,125 mm diameter C.I. pipe 100,metre,1003.95
+2023,154,,18.81.4,150 mm diameter C.I. pipe 100,metre,1164.25
+2023,154,,18.81.5,200 mm diameter C.I. pipe 100,metre,1753.1
+2023,154,,18.81.6,250 mm diameter C.I. pipe 100,metre,2012.75
+2023,154,,18.81.7,300 mm diameter C.I. pipe 100,metre,2255.15
+2023,154,,18.81.8,350 mm diameter C.I. pipe 100,metre,2632.0
+2023,154,,18.81.9,400 mm diameter C.I. pipe 100,metre,3011.2
+2023,154,,18.81.10,450 mm diameter C.I. pipe 100,metre,3398.15
+2023,154,,18.81.11,500 mm diameter C.I. pipe 100,metre,3787.1
+2023,154,,18.81.12,600 mm diameter C.I. pipe 100,metre,4573.95
+2023,154,,18.82.1,80 mm diameter C.I. pipe,metre,315.55
+2023,154,,18.82.2,100 mm diameter C.I. pipe,metre,332.5
+2023,154,,18.82.3,125 mm diameter C.I. pipe,metre,348.75
+2023,154,,18.82.4,150 mm diameter C.I. pipe,metre,365.45
+2023,154,,18.82.5,200 mm diameter C.I. pipe,metre,411.5
+2023,154,,18.82.6,250 mm diameter C.I. pipe,metre,456.6
+2023,154,,18.82.7,300 mm diameter C.I. pipe,metre,497.8
+2023,154,,18.82.8,350 mm diameter C.I. pipe,metre,538.0
+2023,154,,18.82.9,400 mm diameter C.I. pipe,metre,575.8
+2023,154,,18.82.10,450 mm diameter C.I. pipe,metre,614.3
+2023,154,,18.82.11,500 mm diameter C.I. pipe,metre,649.45
+2023,154,,18.82.12,600 mm diameter C.I. pipe,metre,713.95
+2023,154,,18.83.1,80 mm diameter C.I. pipe each,cut,145.25
+2023,154,,18.83.2,100 mm diameter C.I. pipe each,cut,194.7
+2023,154,,18.83.3,125 mm diameter C.I. pipe each,cut,269.8
+2023,154,,18.83.4,150 mm diameter C.I. pipe each,cut,365.7
+2023,156,,18.83.5,200 mm diameter C.I. pipe each,cut,487.75
+2023,156,,18.83.6,250 mm diameter C.I. pipe each,cut,606.85
+2023,156,,18.83.7,300 mm diameter C.I. pipe each,cut,728.85
+2023,156,,18.83.8,350 mm diameter C.I. pipe each,cut,847.95
+2023,156,,18.83.9,400 mm diameter C.I. pipe each,cut,969.55
+2023,156,,18.83.10,450 mm diameter C.I. pipe each,cut,1089.1
+2023,156,,18.83.11,500 mm diameter C.I. pipe each,cut,1210.7
+2023,156,,18.83.12,600 mm diameter C.I. pipe each,cut,1445.95
+2023,156,,18.84.1,15 mm nominal bore,each,8803.7
+2023,156,,18.85.1,15.88 mm outer dia pipe,metre,420.25
+2023,156,,18.85.2,22.22 mm outer dia Pipe,metre,599.5
+2023,156,,18.85.3,28.58 mm outer dia Pipe,metre,704.55
+2023,156,,18.85.4,34.00 mm outer dia Pipe,metre,913.65
+2023,156,,18.85.5,42.70 mm outer dia Pipe,metre,943.9
+2023,156,,18.85.6,48.60 mm outer dia Pipe,metre,1202.35
+2023,156,,18.86.1,15.88 mm outer dia Pipe.,metre,622.25
+2023,156,,18.86.2,22.22 mm Outer dia pipe,metre,801.5
+2023,158,,18.87.1,For 15.88 mm outer dia pipe,each,93.9
+2023,158,,18.87.2,For 22.22 mm outer dia pipe,each,113.8
+2023,158,,18.87.3,For 28.58 mm outer dia pipe,each,156.5
+2023,158,,18.87.4,For 34.00 mm outer dia pipe,each,213.4
+2023,158,,18.87.5,For 42.70 mm outer dia pipe,each,256.1
+2023,158,,18.87.6,For 48.60 mm outer dia pipe,each,291.65
+2023,158,,18.88.1,For 22.22 mm x 15.88 mm outer dia pipe,each,139.4
+2023,158,,18.88.2,For 28.58 mm x 15.88 mm outer dia pipe,each,186.35
+2023,158,,18.88.3,For 28.58 mm x 22.22 mm outer dia pipe,each,189.2
+2023,158,,18.88.4,For 34.00 mm x 15.88 mm outer dia pipe,each,313.0
+2023,158,,18.88.5,For 34.00 mm x 22.22 mm outer dia pipe,each,327.2
+2023,158,,18.88.6,For 34.00 mm x 28.58 mm outer dia pipe,each,327.2
+2023,158,,18.88.7,For 42.70 mm x 15.88 mm outer dia pipe,each,517.85
+2023,160,,18.88.8,For 42.70 mm x 22.22 mm outer dia pipe,each,529.25
+2023,160,,18.88.9,For 42.70 mm x 28.58 mm outer dia pipe,each,606.05
+2023,160,,18.88.10,For 42.70 mm x 34.00 mm outer dia pipe,each,643.05
+2023,160,,18.88.11,For 48.60 mm x 15.88 mm outer dia pipe,each,643.05
+2023,160,,18.88.12,For 48.60 mm x 22.22 mm outer dia pipe,each,643.05
+2023,160,,18.88.13,For 48.60 mm x 28.58 mm outer dia pipe,each,643.05
+2023,160,,18.88.14,For 48.60 mm x 34.00 mm outer dia pipe,each,664.35
+2023,160,,18.88.15,For 48.60 mm x 42.70 mm outer dia pipe,each,667.2
+2023,160,,18.89.1,For 15.88 mm outer dia pipe,each,92.45
+2023,160,,18.89.2,For 22.22 mm outer dia pipe,each,113.8
+2023,160,,18.89.3,For 28.58 mm outer dia pipe,each,156.5
+2023,160,,18.89.4,For 34.00 mm outer dia pipe,each,220.5
+2023,160,,18.89.5,For 42.70 mm outer dia pipe,each,256.1
+2023,160,,18.89.6,For 48.60 mm outer dia pipe,each,277.4
+2023,162,,18.90.1,For 15.88 mm outer dia pipe,each,99.6
+2023,162,,18.90.2,For 22.22 mm outer dia pipe,each,113.8
+2023,162,,18.90.3,For 28.58 mm outer dia pipe,each,163.6
+2023,162,,18.90.4,For 34.00 mm outer dia pipe,each,204.85
+2023,162,,18.90.5,For 42.70 mm outer dia pipe,each,221.95
+2023,162,,18.90.6,For 48.60 mm outer dia pipe,each,273.15
+2023,162,,18.91.1,For22.22 mm x 15.88 mm outer dia pipe,each,223.35
+2023,162,,18.91.2,For 28.58 mm x 15.88 mm outer dia pipe,each,304.45
+2023,162,,18.91.3,For 28.58 mm x 22.22 mm outer dia pipe,each,318.65
+2023,162,,18.91.4,For 34.00 mm x 22.22 mm outer dia pipe,each,426.8
+2023,162,,18.91.5,For 34.00 mm x 28.58 mm outer dia pipe,each,512.15
+2023,162,,18.91.6,For 42.70 mm x 34.00 mm outer dia pipe,each,554.8
+2023,162,,18.92.1,For 15.88 mm outer dia pipe,each,197.75
+2023,162,,18.92.2,For 22.22 mm outer dia pipe,each,300.2
+2023,162,,18.92.3,For 28.58 mm outer dia pipe,each,466.6
+2023,162,,18.92.4,For 34.00 mm outer dia pipe,each,688.55
+2023,162,,18.92.5,For 42.70 mm outer dia pipe,each,1088.3
+2023,162,,18.92.6,For 48.60 mm outer dia pipe,each,1429.75
+2023,164,,18.93.1,For 22.22 mm x 15.88 mm outer dia pipe,each,268.85
+2023,164,,18.93.2,For 28.58 mm x 15.88 mm outer dia pipe,each,357.1
+2023,164,,18.93.3,For 28.58 mm x 22.22 mm outer dia pipe,each,362.75
+2023,164,,18.93.4,For 34.00 mm x 15.88 mm outer dia pipe,each,633.1
+2023,164,,18.93.5,For 34.00 mm x 22.22 mm outer dia pipe,each,654.4
+2023,164,,18.93.6,For 34.00 mm x 28.58 mm outer dia pipe,each,675.75
+2023,164,,18.93.7,For 42.70 mm x 15.88 mm outer dia pipe,each,1045.65
+2023,164,,18.93.8,For 42.70 mm x 22.22 mm outer dia pipe,each,1066.95
+2023,164,,18.93.9,For 42.70 mm x 28.58 mm outer dia pipe,each,1095.45
+2023,164,,18.93.10,For 42.70 mm x 34.00 mm outer dia pipe,each,1123.9
+2023,164,,18.93.11,For 48.60 mm x 15.88 mm outer dia pipe,each,1280.35
+2023,164,,18.93.12,For 48.60 mm x 22.22 mm outer dia pipe,each,1296.0
+2023,164,,18.93.13,For 48.60 mm x 28.58 mm outer dia pipe,each,1320.2
+2023,164,,18.93.14,For 48.60 mm x 34.00 mm outer dia pipe,each,1372.85
+2023,164,,18.93.15,For 48.60 mm x 42.70 mm outer dia pipe,each,1401.3
+2023,166,,18.94.1,For 15.88 mm outer dia x 15 mm nominal dia threaded,each,291.65
+2023,166,,18.94.2,For 22.22 mm outer dia x 15 mm nominal dia threaded,each,334.3
+2023,166,,18.94.3,For 22.22 mm outer dia x 20 mm nominal dia threaded,each,355.65
+2023,166,,18.94.4,For 28.58 mm outer dia x 15 mm nominal dia threaded,each,448.15
+2023,166,,18.94.5,For 28.58 mm outer dia x 20 mm nominal dia threaded,each,462.35
+2023,166,,18.94.6,For 28.58 mm outer dia x 25 mm nominal dia threaded,each,476.6
+2023,166,,18.94.7,For 34.00 mm outer dia x 15 mm nominal dia threaded,each,661.5
+2023,166,,18.94.8,For 34.00 mm outer dia x 20 mm nominal dia threaded,each,675.75
+2023,166,,18.94.9,For 34.00 mm outer dia x 25 mm nominal dia threaded,each,704.2
+2023,166,,18.94.10,For 34.00 mm outer dia x 32 mm nominal dia threaded,each,732.65
+2023,166,,18.94.11,For 42.70 mm outer dia x 15 mm nominal dia threaded,each,1010.05
+2023,166,,18.94.12,For 42.70 mm outer dia x 20 mm nominal dia threaded,each,1031.4
+2023,166,,18.94.13,For 42.70 mm outer dia x 25 mm nominal dia threaded,each,1088.3
+2023,166,,18.94.14,For 42.70 mm outer dia x 32 mm nominal dia threaded,each,1131.0
+2023,166,,18.94.15,For 42.70 mm outer dia x 40 mm nominal dia threaded,each,1173.65
+2023,166,,18.94.16,For 48.60 mm outer dia x 15 mm nominal dia threaded,each,1415.55
+2023,166,,18.94.17,For 48.60 mm outer dia x 20 mm nominal dia threaded,each,1442.55
+2023,166,,18.94.18,For 48.60 mm outer dia x 25 mm nominal dia threaded,each,1458.2
+2023,166,,18.94.19,For 48.60 mm outer dia x 32 mm nominal dia threaded,each,1493.75
+2023,166,,18.94.20,For 48.60 mm outer dia x 40 mm nominal dia threaded,each,1536.45
+2023,166,,18.94.21,For 48.60 mm outer dia x 50 mm nominal dia threaded,each,1586.25
+2023,166,,18.95.1,For 15.88 mm outer dia x15 mm nominal dia threaded,each,277.4
+2023,166,,18.95.2,For 22.22 mm outer dia x 15 mm nominal dia threaded,each,305.85
+2023,166,,18.95.3,For 22.22 mm outer dia x 20 mm nominal dia threaded,each,320.1
+2023,166,,18.95.4,For 28.58 mm outer dia x 15 mm nominal dia threaded,each,405.45
+2023,166,,18.95.5,For 28.58 mm outer dia x 20 mm nominal dia threaded,each,419.7
+2023,166,,18.95.6,For 28.58 mm outer dia x 25 mm nominal dia threaded,each,433.9
+2023,166,,18.95.7,For 34.00 mm outer dia x 15 mm nominal dia threaded,each,647.3
+2023,166,,18.95.8,For 34.00 mm outer dia x 20 mm nominal dia threaded,each,690.0
+2023,166,,18.95.9,For 34.00 mm outer dia x 25 mm nominal dia threaded,each,732.65
+2023,168,,18.95.10,For 34.00 mm outer dia x 32 mm nominal dia threaded,each,775.35
+2023,168,,18.95.11,For 42.70 mm outer dia x 15 mm nominal dia threaded,each,995.85
+2023,168,,18.95.12,For 42.70 mm outer dia x 20 mm nominal dia threaded,each,1010.05
+2023,168,,18.95.13,For 42.70 mm outer dia x 25 mm nominal dia threaded,each,1038.5
+2023,168,,18.95.14,For 42.70 mm outer dia x 32 mm nominal dia threaded,each,1066.95
+2023,168,,18.95.15,For 42.70 mm outer dia x 40 mm nominal dia threaded,each,1145.25
+2023,168,,18.95.16,For 48.60 mm outer dia x 15 mm nominal dia threaded,each,1287.5
+2023,168,,18.95.17,For 48.60 mm outer dia x 20 mm nominal dia threaded,each,1301.7
+2023,168,,18.95.18,For 48.60 mm outer dia x 25 mm nominal dia threaded,each,1323.05
+2023,168,,18.95.19,For 48.60 mm outer dia x 32 mm nominal dia threaded,each,1394.2
+2023,168,,18.95.20,For 48.60 mm outer dia x 40 mm nominal dia threaded,each,1429.75
+2023,168,,18.95.21,For 48.60 mm outer dia x 50 mm nominal dia threaded,each,1543.55
+2023,168,,18.96.1,For 15.88 mm outer dia x 15 mm nominal dia threaded,each,264.6
+2023,168,,18.96.2,For 22.22 mm outer dia x 15 mmnominal dia threaded,each,291.65
+2023,168,,18.96.3,For 22.22 mm outer dia x 20 mm nominal dia threaded,each,337.15
+2023,168,,18.96.4,For 28.58 mm outer dia x 15 mm nominal dia threaded,each,394.05
+2023,168,,18.96.5,For 28.58 mm outer dia x 20 mm nominal dia threaded,each,412.55
+2023,168,,18.96.6,For 28.58 mm outer dia x 25 mm nominal dia threaded,each,505.05
+2023,168,,18.96.7,For 34.00 mm outer dia x 25 mm nominal dia threaded,each,640.2
+2023,168,,18.96.8,For 34.00 mm outer dia x 32 mm nominal dia threaded,each,768.25
+2023,168,,18.96.9,For 42.70 mm outer dia x 32 mm nominal dia threaded,each,953.15
+2023,168,,18.96.10,For 42.70 mm outer dia x 40 mm nominal dia threaded,each,1002.95
+2023,168,,18.96.11,For 48.60 mm outer dia x 40 mm nominal dia threaded,each,1287.5
+2023,170,,18.96.12,For 48.60 mm outer dia x 50 mm nominal dia threaded,each,1387.05
+2023,170,,18.97.1,For 15.88 mm outer dia x 15 mm nominal dia threaded,each,250.4
+2023,170,,18.97.2,For 22.22 mm outer dia x 15 mm nominal dia threaded,each,268.85
+2023,170,,18.97.3,For 22.22 mm outer dia x 20 mm nominal dia threaded,each,300.2
+2023,170,,18.97.4,For 28.58 mm outer dia x 20 mm nominal dia threaded,each,458.1
+2023,170,,18.97.5,For 28.58 mm outer dia x 25 mm nominal dia threaded,each,460.95
+2023,170,,18.97.6,For 34.00 mm outer dia x 25 mm nominal dia threaded,each,675.75
+2023,170,,18.97.7,For 34.00 mm outer dia x 32 mm nominal dia threaded,each,803.8
+2023,170,,18.97.8,For 42.70 mm outer dia x 32 mm nominal dia threaded,each,1017.2
+2023,170,,18.97.9,For 42.70 mm outer dia x 40 mm nominal dia threaded,each,1038.5
+2023,170,,18.97.10,For 48.60 mm outer dia x 40 mm nominal dia threaded,each,1330.15
+2023,170,,18.97.11,For 48.60 mm outer dia x 50 mm nominal dia threaded,each,1621.8
+2023,172,,18.98.1,For 15.88 mm outer dia x 15 mm nominal dia threaded,each,317.25
+2023,172,,18.98.2,For 22.22 mm outer dia x 15 mm nominal dia threaded,each,364.2
+2023,172,,18.98.3,For 22.22 mm outer dia x 20 mm nominal dia threaded,each,395.5
+2023,172,,18.98.4,For 28.58 mm outer dia x 25 mm nominal dia threaded,each,604.6
+2023,172,,18.98.5,For 34.00 mm outer dia x 32 mm nominal dia threaded,each,917.6
+2023,172,,18.98.6,For 42.70 mm outer dia x 40 mm nominal dia threaded,each,1298.85
+2023,172,,18.98.7,For 48.60 mm outer dia x 50 mm nominal dia threaded,each,1756.95
+2023,172,,18.99.1,For 15.88 mm outer dia x 15 mm nominal dia threaded,each,270.3
+2023,172,,18.99.2,For 22.22 mm outer dia x 15 mm nominal dia threaded,each,305.85
+2023,172,,18.99.3,For 22.22 mm outer dia x 20 mm nominal dia threaded,each,341.45
+2023,172,,18.99.4,For 25.58 mm outer dia x 25 mm nominal dia threaded,each,369.9
+2023,172,,18.99.5,For 34.00 mm outer dia x 32 mm nominal dia threaded,each,476.6
+2023,172,,18.99.6,For 42.70 mm outer dia x 32 mm nominal dia threaded,each,754.0
+2023,172,,18.99.7,For 42.70 mm outer dia x 40 mm nominal dia threaded,each,754.0
+2023,172,,18.99.8,For 48.60 mm outer dia x 40 mm nominal dia threaded,each,1123.9
+2023,172,,18.99.9,For 48.60 mm outer dia x 50 mm nominal dia threaded,each,1123.9
+2023,172,,18.100.1,For 15.88 mm outer dia x 15 mm nominal dia threaded,each,325.8
+2023,172,,18.100.2,For 22.22 mm outer dia x 15 mm nominal dia threaded,each,355.65
+2023,172,,18.100.3,For 22.22 mm outer dia x 20 mm nominal dia threaded,each,377.0
+2023,172,,18.100.4,For 28.58 mm outer dia x 25 mm nominal dia threaded,each,405.45
+2023,172,,18.100.5,For 34.00 mm outer dia x 25 mm nominal dia threaded,each,448.15
+2023,172,,18.100.6,For 34.00 mm outer dia x 32 mm nominal dia threaded,each,448.15
+2023,172,,18.100.7,For 42.70 mm outer dia x 32 mm nominal dia threaded,each,682.85
+2023,172,,18.100.8,For 42.70 mm outer dia x 40 mm nominal dia threaded,each,754.0
+2023,174,,18.100.9,For 48.60 mm outer dia x 40 mm nominal dia threaded,each,1088.3
+2023,174,,18.100.10,For 48.60 mm outer dia x 50 mm nominal dia threaded,each,1187.9
+2023,174,,18.101.1,For 15.88 mm outer dia pipe,each,58.35
+2023,174,,18.101.2,For 22.22 mm outer dia pipe,each,85.35
+2023,174,,18.101.3,For 28.58 mm outer dia pipe,each,122.35
+2023,174,,18.101.4,For 34.00 mm outer dia pipe,each,234.75
+2023,174,,18.101.5,For 42.70 mm outer dia pipe,each,342.85
+2023,174,,18.101.6,For 48.60 mm outer dia pipe,each,426.8
+2023,174,,18.102.1,For 15.88 mm outer dia pipe,each,136.55
+2023,174,,18.102.2,For 22.22 mm outer dia pipe,each,240.45
+2023,174,,18.102.3,For 28.58 mm outer dia pipe,each,386.95
+2023,176,,18.103.1,For 15 mm outer dia X 1/2” nominal dia threaded,each,1408.4
+2023,176,,18.103.2,For 22 mm outer dia X 1/2” nominal dia threaded,each,1422.65
+2023,176,,18.103.3,For 22 mm outer dia X 3/4” nominal dia threaded,each,1628.9
+2023,176,,18.103.4,For 28 mm outer dia X 1” nominal dia threaded,each,2873.7
+2023,176,,18.103.5,For 35 mm outer dia X 1-1/4” nominal dia threaded,each,3001.75
+2023,176,,18.103.6,For 42 mm outer dia X 1-1/2” nominal dia threaded,each,3385.85
+2023,176,,18.103.7,For 54 mm outer dia X 2” nominal dia threaded,each,5861.25
+2023,176,,18.104.1,For 22 mm outer dia X 3/4” nominal dia threaded,each,1508.0
+2023,176,,18.104.2,For 28 mm outer dia X 1” nominal dia threaded,each,2034.35
+2023,176,,18.105.1,For 15 mm outer dia X 1/2” nominal dia threaded,each,1031.4
+2023,176,,18.105.2,For 22 mm outer dia X 1/2” nominal dia threaded,each,1379.95
+2023,176,,18.105.3,For 22 mm outer dia X 3/4” nominal dia threaded,each,1429.75
+2023,180,,19.1.1,100 mm diameter,metre,443.6
+2023,180,,19.1.2,150 mm diameter,metre,695.8
+2023,180,,19.1.3,200 mm diameter,metre,970.35
+2023,180,,19.1.4,250 mm diameter,metre,1505.6
+2023,180,,19.1.5,300 mm diameter,metre,2064.15
+2023,180,,19.2.1,100 mm diameter S.W. pipe,metre,964.75
+2023,180,,19.2.2,150 mm diameter S.W. pipe,metre,1179.85
+2023,180,,19.2.3,200 mm diameter S.W. pipe,metre,1375.45
+2023,180,,19.2.4,250 mm diameter S.W. pipe,metre,1590.55
+2023,180,,19.3.1,100 mm diameter S.W. pipe,metre,458.5
+2023,180,,19.3.2,150 mm diameter S.W. pipe,metre,743.1
+2023,180,,19.3.3,200 mm diameter S.W. pipe,metre,873.5
+2023,180,,19.3.4,250 mm diameter S.W. pipe,metre,1016.9
+2023,180,,19.3.5,300 mm diameter S.W. pipe,metre,1173.35
+2023,180,,19.4.1.2,With Sewer bricks conforming to IS : 4885,each,2685.2
+2023,180,,19.4.2.2,With sewer bricks conforming to IS : 4885,each,2711.7
+2023,180,,19.4.3.2,With Sewer bricks conforming to IS : 4885,each,2779.65
+2023,182,,19.5.1,100 mm diameter,metre,89.0
+2023,182,,19.5.2,150 mm diameter,metre,98.45
+2023,182,,19.5.3,200 mm diameter,metre,104.7
+2023,182,,19.5.4,250 mm diameter,metre,111.0
+2023,182,,19.5.5,300 mm diameter,metre,117.25
+2023,182,,19.5.6,350 mm diameter,metre,135.05
+2023,182,,19.5.7,400 mm diameter,metre,147.65
+2023,182,,19.5.8,450 mm diameter,metre,153.9
+2023,182,,19.6.1,100 mm dia. R.C.C. pipe,metre,507.05
+2023,182,,19.6.2,150 mm dia. R.C.C. pipe,metre,556.45
+2023,182,,19.6.3,250 mm dia. R.C.C. pipe,metre,899.8
+2023,182,,19.6.4,300 mm dia. R.C.C. pipe,metre,994.3
+2023,182,,19.6.5,450 mm dia. R.C.C. pipe,metre,1620.95
+2023,182,,19.6.6,500 mm dia. R.C.C. pipe,metre,1918.9
+2023,182,,19.6.7,600 mm dia. R.C.C. pipe,metre,2243.4
+2023,182,,19.6.8,700 mm dia. R.C.C. pipe,metre,2932.5
+2023,182,,19.6.9,800 mm dia. R.C.C. pipe,metre,3511.95
+2023,182,,19.6.10,900 mm dia. R.C.C. pipe,metre,4750.85
+2023,182,,19.6.11,1000 mm dia. R.C.C. pipe,metre,5562.6
+2023,182,,19.6.12,1100 mm dia. R.C.C. pipe,metre,6276.6
+2023,182,,19.6.13,1200 mm dia. R.C.C. pipe,metre,7102.15
+2023,182,,19.7.1.2,With Sewer bricks conforming to IS : 4885,each,12711.8
+2023,184,,19.7.2.2,With Sewer bricks conforming to IS : 4885,each,26244.7
+2023,184,,19.7.3.2,With Sewer bricks conforming to IS : 4885,each,32719.5
+2023,184,,19.8.1.2,With Sewer bricks conforming to IS : 4885,metre,8654.25
+2023,184,,19.8.2.2,With Sewer bricks conforming to IS : 4885,metre,10381.45
+2023,184,,19.9.1.2,With Sewer bricks conforming to IS : 4885,each,12600.4
+2023,184,,19.10.2,With Sewer bricks conforming IS : 4885,metre,7448.45
+2023,186,,19.11.1.2,With Sewer bricks conforming IS : 4885,each,24446.7
+2023,186,,19.12.2,With Sewer bricks conforming IS : 4885,metre,9674.4
+2023,186,,19.13.1.2,With Sewer bricks conforming IS : 4885,each,52266.8
+2023,186,,19.14.2,With Sewer bricks conforming IS : 4885,metre,22288.1
+2023,188,,19.15.1,With 20x20 mm square bar,each,544.7
+2023,188,,19.15.2,With 20 mm diameter round bar,each,496.5
+2023,188,,19.17.1,With 20x20 mm square bar,each,670.2
+2023,188,,19.17.2,With 20 mm diameter round bar,each,621.95
+2023,188,,19.19.1.2,Square shape 450 mm internal dimensions,each,1155.45
+2023,188,,19.19.1.3,Circular shape 450 mm internal diameter,each,1169.65
+2023,188,,19.19.2.1,Square shape 450 mm internal dimension,each,1386.55
+2023,188,,19.19.2.2,Circular shape 500 mm internal diameter,each,1172.6
+2023,188,,19.19.3.1,Circular shape 560 mm internal diameter,each,1675.7
+2023,188,,19.19.4.1,Circular shape 560 mm internal dia,each,2123.8
+2023,190,,19.21.1,For pipes 100 to 250 mm diameter,each,810.45
+2023,190,,19.21.2,For pipes 250 to 300 mm diameter,each,922.4
+2023,190,,19.21.3,For pipes 350 to 450 mm diameter,each,1328.45
+2023,190,,19.22.1,100 mm dia sand cast iron drop connection,each,12172.05
+2023,190,,19.22.2,150 mm dia sand cast iron drop connection,each,16577.8
+2023,190,,19.23.1,For 100 mm dia sand cast iron drop connection,metre,3240.45
+2023,190,,19.23.2,For 150 mm dia sand cast iron drop connection,metre,4126.9
+2023,190,,19.24.1,Rectangular manhole 90x80 cm and 45 cm deep,each,2540.85
+2023,190,,19.24.2,Rectangular manhole 120x90 cm and 90 cm deep,each,4475.5
+2023,190,,19.24.4,Circular manhole 122 cm diameter and 1.68 m deep,each,6472.4
+2023,190,,19.25.1,Rectangular manhole 90x80 cm and beyond 45 cm depth,metre,2045.5
+2023,190,,19.25.2,Rectangular manhole 120x90 cm and beyond 90 cm depth,metre,2436.9
+2023,194,,19.34.1,100 mm dia,each,441.4
+2023,194,,19.34.2,150 mm dia,each,602.65
+2023,194,,19.35.1,450 mm dia RCC pipes.,metre,2676.55
+2023,194,,19.35.2,600 mm dia RCC pipes.,metre,3401.25
+2023,194,,19.35.3,900 mm dia RCC pipes.,metre,5377.25
+2023,194,,19.36.1,450 mm dia RCC pipes.,metre,3053.55
+2023,194,,19.36.2,600 mm dia RCC pipes.,metre,3934.75
+2023,194,,19.36.3,900 mm dia RCC pipes.,metre,7397.4
+2023,198,,20.1.1,400 mm dia piles,metre,2767.0
+2023,198,,20.1.2,450 mm dia piles,metre,3430.65
+2023,198,,20.1.3,500 mm dia piles,metre,4129.95
+2023,198,,20.1.4,550 mm dia piles,metre,4530.9
+2023,198,,20.1.5,750 mm dia piles,metre,7738.55
+2023,198,,20.1.6,1000 mm dia piles,metre,12748.45
+2023,198,,20.1.7,1200 mm dia piles,metre,16671.05
+2023,198,,20.1.8,1500 mm dia piles,metre,23577.75
+2023,198,,20.2.1,450 mm dia piles,metre,2278.3
+2023,198,,20.2.2,500 mm dia piles,metre,2703.25
+2023,198,,20.2.3,600 mm dia piles,metre,3637.2
+2023,198,,20.2.4,750 mm dia piles,metre,5581.2
+2023,200,,20.3.1,300 mm dia piles,metre,3065.6
+2023,200,,20.3.2,400 mm dia piles,metre,3797.3
+2023,200,,20.3.3,450 mm dia piles,metre,4232.75
+2023,200,,20.3.4,550 mm dia piles,metre,4721.15
+2023,200,,20.4.1,300 mm dia piles,each,2626.3
+2023,200,,20.4.2,400 mm dia piles,each,2924.45
+2023,200,,20.4.3,450 mm dia piles,each,3104.2
+2023,200,,20.4.4,550 mm dia piles,each,3360.15
+2023,200,,20.5.1,400 mm dia piles,metre,3727.8
+2023,200,,20.5.2,450 mm dia piles,metre,4766.25
+2023,200,,20.5.3,500 mm dia piles,metre,4931.35
+2023,200,,20.5.4,550 mm dia piles,metre,5633.0
+2023,200,,20.5.5,750 mm dia piles,metre,10846.8
+2023,200,,20.5.6,1000 mm dia piles,metre,14946.4
+2023,200,,20.6.1.1,Initial test (Test Load 2.5 times the Safe capacity) per,test,54771.5
+2023,202,,20.6.2.1,Initial test (Test Load 2.5 times the Safe capacity) per,test,61173.35
+2023,202,,20.6.3.1,Initial test (Test Load 2.5 times the Safe capacity) per,test,70420.5
+2023,202,,20.7.1.1,Upto 50 tonne Safe capacity pile per,test,19632.4
+2023,202,,20.7.2.1,Upto 400 tonne Safe capacity of group per,test,40545.15
+2023,202,,20.8.1,Upto 50 tonne capacity pile per,test,19632.4
+2023,202,,20.8.2,Above 50 tonne and upto 100 tonne capacity pile per,test,32862.9
+2023,208,,21.4.1,With stainless steel cover plate minimum 1.25 mm thickness,each,2823.85
+2023,208,,21.4.2,With brass cover plate minimum 1.25 mm thickness,each,2966.1
+2023,208,,21.8.1,Upto 5 mm depth and 5 mm width,metre,96.75
+2023,210,,21.9.1,For fixed portion,kg,12.8
+2023,210,,21.9.2,"For shutters of doors, windows & ventilators",kg,12.8
+2023,210,,21.11.1,205 X 19 mm,each,344.3
+2023,210,,21.11.2,255 X 19 mm,each,387.0
+2023,210,,21.11.3,355 X 19 mm,each,325.8
+2023,210,,21.11.4,510 X 19 mm,each,802.4
+2023,210,,21.11.5,710 X 19 mm,each,1478.15
+2023,210,,21.12.1,Anodized (AC 15 ) aluminium tubular handle bar,each,575.75
+2023,210,,21.15.1,Anodized (AC 15) aluminium,each,89.4
+2023,210,,21.15.2,Powder coated minimum thickness 50 micron aluminium,each,97.95
+2023,210,,21.16.1,Anodized (AC 15) aluminium,each,107.9
+2023,210,,21.16.2,Powder coated minimum thickness 50 micron aluminium,each,109.3
+2023,212,,21.19.1,Upto 5 mm depth and 5 mm width,metre,148.1
+2023,212,,21.19.2,Upto 10 mm depth and 10 mm width,metre,200.95
+2023,212,,21.19.3,Upto 20 mm depth and 20 mm width,metre,363.2
+2023,216,,22.1.1,Using rough kota stone.,sqm,1515.6
+2023,216,,22.2.1,Using rough Kota stone,sqm,2024.7
+2023,216,,22.4.1,"Serrated with central bulb (225 mm wide, 8-11 mm thick)",metre,327.65
+2023,216,,22.4.2,"Dumb bell with central bulb (180 mm wide, 8 mm thick)",metre,267.9
+2023,216,,22.4.3,"Kickers (320 mm wide, 5 mm thick)",metre,263.65
+2023,220,,22.13.1,at 6 cudm per sqm,sqm,17.55
+2023,220,,22.13.2,at 8 cudm per sqm,sqm,22.1
+2023,220,,22.14.2,Cement mortar 1:3 (1 cement : 3 coarse sand),cum,16112.1
+2023,220,,22.14.3,Cement mortar 1:4 (1cement : 4 coarse sand),cum,15155.6
+2023,228,,23.1.1.1,300 mm dia,metre,707.75
+2023,228,,23.1.1.2,350 mm dia,metre,774.05
+2023,228,,23.1.1.3,400 mm dia,metre,990.8
+2023,228,,23.1.2.1,300 mm dia,metre,1695.1
+2023,228,,23.1.2.2,350 mm dia,metre,1792.85
+2023,228,,23.1.2.3,400 mm dia,metre,2131.45
+2023,228,,23.2.1.1,300 mm dia,metre,825.7
+2023,228,,23.2.1.2,350 mm dia,metre,917.4
+2023,228,,23.2.1.3,400 mm dia,metre,1238.5
+2023,228,,23.2.2.1,300 mm dia,metre,1870.6
+2023,228,,23.2.2.2,350 mm dia,metre,1955.6
+2023,228,,23.2.2.3,400 mm dia,metre,2496.55
+2023,228,,23.3.1,100 mm nominal size dia,metre,672.3
+2023,228,,23.3.2,150 mm nominal size dia,metre,793.25
+2023,228,,23.3.3,200 mm nominal size dia,metre,1113.35
+2023,228,,23.4.1,100 mm nominal size dia,metre,686.55
+2023,228,,23.4.2,150 mm nominal size dia,metre,807.45
+2023,228,,23.4.3,200 mm nominal size dia,metre,1255.7
+2023,230,,5.00,mm,metre,1359.25
+2023,230,,5.00,mm,metre,1972.25
+2023,230,,5.40,mm,metre,2442.75
+2023,230,,23.11.1,100 mm nominal size dia,metre,1456.8
+2023,230,,23.11.2,150 mm nominal size dia,metre,2102.25
+2023,230,,23.11.3,200 mm nominal size dia,metre,2571.05
+2023,232,,23.13.1,100 mm dia,each,224.1
+2023,232,,23.13.2,150 mm dia,each,246.45
+2023,232,,23.13.3,200 mm dia,each,321.15
+2023,232,,23.14.1,100 mm clamp,each,1911.4
+2023,232,,23.14.2,150 mm clamp,each,2019.05
+2023,232,,23.14.3,200 mm clamp,each,2293.65
+2023,232,,23.15.1,100 mm dia,each,265.1
+2023,232,,23.15.2,150 mm dia,each,322.0
+2023,232,,23.15.3,200 mm dia,each,357.6
+2023,258,,26.18.1,Ultimate tensile strength- 100 kN/m,sqm,393.85
+2023,258,,26.18.2,Ultimate tensile strength- 150 kN/m,sqm,411.1
+2023,258,,26.18.3,Ultimate tensile strength- 200 kN/m,sqm,645.8
+2023,258,,26.18.4,Ultimate tensile strength- 250 kN/m,sqm,663.05
+2023,258,,26.18.5,Ultimate tensile strength- 300 kN/m,sqm,681.8
+2023,258,,26.18.6,Ultimate tensile strength- 350 kN/m,sqm,699.05
+2023,258,,26.18.7,Ultimate tensile strength- 400 kN/m,sqm,843.0
+2023,258,,26.18.8,Ultimate tensile strength- 500 kN/m,sqm,933.75
+2023,258,,26.18.9,Ultimate tensile strength- 600 kN/m,sqm,1022.95
+2023,258,,26.18.10,Ultimate tensile strength- 700 kN/m,sqm,1202.9
+2023,258,,26.18.11,Ultimate tensile strength- 800 kN/m,sqm,1337.5
+2023,258,,26.18.12,Ultimate tensile strength- 900 kN/m,sqm,1562.85
+2023,260,,26.18.13,Ultimate tensile strength- 1000 kN/m,sqm,1742.8
+2023,260,,26.18.14,Ultimate tensile strength- 1100 kN/m,sqm,1833.6
+2023,260,,26.18.15,Ultimate tensile strength- 1200 kN/m,sqm,1922.8
+2023,264,,26.28.1,75 mm average thickness,sqm,378.0
+2023,266,,26.28.2,50 mm average thickness,sqm,256.35
+2023,266,,26.28.3,25 mm average thickness,sqm,126.75
+2023,266,,26.29.1,Bars upto 12 mm diameter,metre,8.25
+2023,266,,26.29.2,Bars above 12 mm diameter,metre,16.45
+2023,266,,26.30.1,Upto and including 12 mm dia.,each,141.2
+2023,266,,26.32.1,12 mm average thickness.,sqm,388.65
+2023,266,,26.32.2,25 mm average thickness in 2 layers.,sqm,587.35
+2023,266,,26.32.3,50 mm average thickness in 3 layers.,sqm,1174.7
+2023,268,,26.36.1,Wooven PVC cloth,sqm,54.25
+2023,276,,26.49.1,Non load bearing panels 50 mm thick of required size,sqm,1315.7
+2023,276,,26.49.2,Non load bearing panels 60 mm thick of required size,sqm,1487.5
+2023,276,,26.49.3,Non load bearing panels 75 mm thick of required size,sqm,1840.05
+2023,276,,26.49.4,Non load bearing panels 90 mm thick of required size,sqm,2141.8
+2023,276,,26.49.5,Non load bearing panels 100 mm thick of required size,sqm,2518.2
+2023,284,,26.68.1,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,7387.25
+2023,286,,26.69.1,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,9844.65
+2023,286,,26.70.1,Cement mortar 1:4(1 cement : 4 coarse sand),sqm,897.15
+2023,286,,26.71.1,Cement mortar 1:4 (1 cement : 4 coarse sand),sqm,1099.15
+2023,286,,26.73.1.1,100 mm thick hollow core slab,metre,1287.25
+2023,286,,26.73.1.2,120 mm thick hollow core slab,metre,1501.4
+2023,286,,26.73.1.3,150 mm thick hollow core slab,metre,1822.6
+2023,286,,26.73.1.4,200 mm thick hollow core slab,metre,2217.0
+2023,286,,26.73.1.5,250 mm thick hollow core slab,metre,2717.1
+2023,286,,26.73.1.6,300 mm thick hollow core slab,metre,3217.2
+2023,286,,26.73.1.7,350 mm thick hollow core slab,metre,3717.25
+2023,286,,26.73.1.8,400 mm thick hollow core slab,metre,4217.35
+2023,286,,26.73.2.1,100 mm thick hollow core slab,metre,18.4
+2023,286,,26.73.2.2,120 mm thick hollow core slab,metre,22.1
+2023,286,,26.73.2.3,150 mm thick hollow core slab,metre,27.65
+2023,288,,26.73.2.4,200 mm thick hollow core slab,metre,34.4
+2023,288,,26.73.2.5,250 mm thick hollow core slab,metre,43.0
+2023,288,,26.73.2.6,300 mm thick hollow core slab,metre,51.6
+2023,288,,26.73.2.7,350 mm thick hollow core slab,metre,60.2
+2023,288,,26.73.2.8,400 mm thick hollow core slab,metre,68.8
+2023,288,,26.73.3.1,100 mm thick hollow core slab,metre,29.5
+2023,288,,26.73.3.2,120 mm thick hollow core slab,metre,35.35
+2023,288,,26.73.3.3,150 mm thick hollow core slab,metre,44.2
+2023,288,,26.73.3.4,200 mm thick hollow core slab,metre,55.0
+2023,288,,26.73.3.5,250 mm thick hollow core slab,metre,68.8
+2023,288,,26.73.3.6,300 mm thick hollow core slab,metre,82.55
+2023,288,,26.73.3.7,350 mm thick hollow core slab,metre,96.3
+2023,288,,26.73.3.8,400 mm thick hollow core slab,metre,110.05
+2023,288,,26.74.1,Concrete grade M-35 (Cement content 370 kgs),cum,20928.7
+2023,288,,1860,"etc, complete as per drawings and direction of Engineer -in-charge.",kg,192.35
+2023,288,,26.76.1,Lead within 15 km,MT,540.85
+2023,288,,5,km,MT,117.3
+2023,290,,26.77.1,Prestressed hollow core Slab up to 200 mm thickness,sqm,203.5
+2023,290,,26.77.3,Solid concrete wall elements,cum,2720.3
+2023,290,,26.78.1,Sealant 25 mm x10 mm at joints,metre,178.95
+2023,290,,26.79.1,2 mm thick,each,28.9
+2023,290,,26.79.2,5 mm thick,each,36.0
+2023,290,,26.79.3,10 mm thick,each,51.65
+2023,302,,26.93.1,With 24 mm thickness (+/-10%) terracota tiles of grey colour,sqm,6230.9
+2023,306,,3.1,Cement Mortar 1:1 (1 cement : 1 fine sand).,cum,10.2
+2023,306,,3.2,Cement mortar 1:2 (1 cement : 2 fine sand).,cum,6.8
+2023,306,,3.3,Cement mortar 1:3 (1 cement : 3 fine sand),cum,5.1
+2023,306,,3.4,Cement mortar 1:4 (1 cement : 4 fine sand),cum,3.8
+2023,306,,3.5,Cement mortar 1:5 (1 cement : 5 fine sand).,cum,3.1
+2023,306,,3.6,Cement mortar 1:6 (1 cement : 6 fine sand).,cum,2.5
+2023,306,,3.7,Cement mortar 1:2 (1 cement : 2 coarse sand).,cum,6.8
+2023,306,,3.8,Cement mortar 1:3 (1 cement : 3 coarse sand).,cum,5.1
+2023,306,,3.9,Cement mortar 1:4 (1 cement : 4 coarse sand).,cum,3.8
+2023,306,,3.10,Cement mortar 1:5 (1 cement : 5 coarse sand).,cum,3.1
+2023,306,,3.11,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,2.5
+2023,306,,3.12,Cement mortar 1:2 (1 cement : 2 stone dust).,cum,6.8
+2023,306,,3.13,Cement mortar 1:2 (1 cement : 2 marble dust).,cum,6.8
+2023,306,,3.14,Cement mortar 1:5 (1 cement : 5 marble dust).,cum,3.1
+2023,326,,5.27,Providing and filling in position bitumen mix filler.,cum,0.032
+2023,330,,6.1.1,Cement mortar 1:4 (1 cement : 4 coarse sand),cum,0.95
+2023,330,,6.1.2,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,0.625
+2023,330,,6.2.1,Cement mortar 1:4 (1 cement : 4 coarse sand),cum,0.836
+2023,330,,6.2.2,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,0.55
+2023,330,,6.3.1,With non modular bricks.,cum,0.625
+2023,330,,6.3.2,With modular bricks.,cum,0.55
+2023,330,,6.4.1,Cement mortar 1:4 (1 cement : 4 coarse sand),cum,0.95
+2023,330,,6.4.2,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,0.625
+2023,330,,6.8,Brick work 7 cm in cement mortar (1:3). 100,sqm,9.23
+2023,330,,6.9,& 6.10 Brick work in plain & gauged arches in cement mortar (1:3).,cum,1.28
+2023,330,,6.13.1,100,sqm,14.28
+2023,330,,6.13.2,100,sqm,10.64
+2023,330,,6.16.1,Cement mortar 1:4 (1 cement : 4 coarse sand),cum,1.52
+2023,330,,6.16.2,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,1.0
+2023,330,,6.22,Tile brick masonry work 5 cm thick in cement mortar (1:3). 100,sqm,7.65
+2023,330,,6.26,Brick work with selected bricks in cement mortar (1:6).,cum,0.625
+2023,330,,6.27,Brick work with modular bricks in cement mortar (1:6).,cum,0.55
+2023,332,,6.32.1,Cement mortar 1:4 (1 cement : 4 coarse sand),cum,0.95
+2023,332,,6.32.2,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,0.625
+2023,332,,6.34.1,Cement mortar 1:4 (1 cement : 4 coarse sand),cum,0.95
+2023,332,,6.34.2,Cement mortar 1:6 (1 cement : 6 Coarse sand),cum,0.625
+2023,332,,6.35.1,Cement mortar 1:4 (1 cement : 4 coarse sand),cum,0.836
+2023,332,,6.35.3,Cement mortar 1:6 (1 cement : 6 Coarse sand),cum,0.55
+2023,332,,6.36.1,Cement Mortar 1:4 ( 1 cement : 4 coarse sand),cum,0.836
+2023,332,,6.44,Brick edging 7 cm wide in cement mortar (1:4). 100,metre,0.137
+2023,332,,6.45.1,Cement mortar 1:3 (1 cement :3 coarse sand). 100,sqm,14.28
+2023,332,,6.45.2,Cement mortar 1:4 (1 cement :4 coarse sand). 100,sqm,10.64
+2023,334,,7.7.1,Cement mortar 1:6 (1 cement : 6 coarse sand),cum,0.75
+2023,334,,7.14,(1:3) including pointing with white cement mortar (1:2).,cum,1.07
+2023,336,,8.7.1,Gunmetal cramps,kg,0.0635
+2023,336,,8.7.2,Stainless steel cramps,kg,0.0701
+2023,336,,8.25,P/F 2nd class teak wood plain lining with wooden plugs. 100,sqm,0.055
+2023,340,,10.4,P/F 1 mm thick M.S. sheet sliding-shutters with frame. 100,sqm,0.35
+2023,340,,10.5,P/F 1 mm thick M.S. sheet door with frame. 100,sqm,0.35
+2023,340,,10.6,Supplying and fixing rolling shutters. 100,sqm,0.35
+2023,340,,10.10.1,& Fixing standard steel glaze door windows etc. 100,kg,0.13
+2023,340,,10.13.1,P/F ‘T’ iron froms for doors windows & ventilators 100,kg,0.11
+2023,342,,11.1.1,1:4 (1 cement : 4 coarse sand),sqm,0.185
+2023,342,,11.1.2,1:6 (1cement : 6 coarse sand),sqm,0.1285
+2023,342,,11.3.1,40mm thick with 20mm nominal size stone aggregate,sqm,0.17
+2023,342,,11.4,52 mm thick cement concrete flooring.,sqm,0.231
+2023,342,,11.5,62 mm thick cement concrete flooring.,sqm,0.263
+2023,342,,11.6,Cement plaster skirting with cement mortar (1:3).,sqm,0.14
+2023,342,,11.7,Cement concrete pavement with C.C. (1:2:4).,cum,3.2
+2023,342,,11.9.1,Dark shade pigment with ordinary cement,sqm,0.1695
+2023,342,,11.9.5,Light shade pigment with ordinary cement,sqm,0.1695
+2023,342,,11.9.6,Ordinary cement without any pigment,sqm,0.1695
+2023,342,,11.10.1,Dark shade pigment with Ordinary cement,sqm,0.1783
+2023,342,,11.10.5,Light shade pigment with ordinary cement,sqm,0.1783
+2023,342,,11.10.6,Ordinary cement without any pigment,sqm,0.1783
+2023,342,,11.11.1,Dark shade pigment with ordinary cement,sqm,0.1907
+2023,342,,11.11.5,Light shade pigment with ordinary cement,sqm,0.1097
+2023,342,,11.11.6,Ordinary cement without any pigment,sqm,0.1097
+2023,344,,11.12.1.1,Dark shade pigment with ordinary cement,sqm,0.1292
+2023,344,,11.12.1.5,Light shade pigment with ordinary cement,sqm,0.1292
+2023,344,,11.12.1.6,Ordinary cement without any pigment,sqm,0.1292
+2023,344,,11.16.3,Dark shade using ordinary cement,sqm,0.0939
+2023,344,,11.16.4,Ordinary cement without any pigment,sqm,0.0939
+2023,344,,11.18.3,Dark shade using ordinary cement,sqm,0.1394
+2023,344,,11.18.4,Ordinary cement without any pigment,sqm,0.1394
+2023,344,,11.19.3,Dark shade using ordinary cement,sqm,0.0939
+2023,344,,11.19.4,Ordinary cement without any pigment,sqm,0.0939
+2023,344,,11.20.3,Dark shade using ordinary cement,sqm,0.1951
+2023,344,,11.20.4,Ordinary cement without any pigment,sqm,0.1951
+2023,346,,11.22,"Tile work in skirting, risers of steps etc. with 8 mm thick marble tile.",sqm,0.1044
+2023,346,,11.23,Marble stone flooring with 18 mm thick marble stone over 20 mm,sqm,0.13512
+2023,346,,11.26,Kota stone slab flooring over 20 mm thick bed of cement mortar,sqm,0.1491
+2023,346,,11.27,"Kota stone slabs 20 mm thick in risers of steps, skirting etc. laid on",sqm,0.1374
+2023,346,,11.28,40 mm thick fine dressed stone flooring over 20 mm (average),sqm,0.0775
+2023,346,,11.29,40 mm thick fine dressed stone flooring over 20 mm (average),sqm,0.0931
+2023,346,,11.30,40 mm thick rubbed stone flooring over 20 mm (average) thick,sqm,0.0931
+2023,346,,11.37,P/L ceramic glazed floor tiles laid on 20 mm thick Cement Mortar,sqm,0.1242
+2023,346,,11.38,P/L ceramic glazed floor tiles laid on 20mm thick bed of Cement,sqm,0.1242
+2023,346,,11.39,& P/L rectified Glazed Ceramic floor tiles laid on 20mm thick cement,sqm,0.1242
+2023,346,,11.41,& P/L vitrified floor tile laid on 20mm thick cement mortar (1:4).,sqm,0.1242
+2023,346,,11.44,Crazy ceramic tile flooring.,sqm,0.0646
+2023,346,,11.46,P/L vitrified tile in skirting in cement mortar (1:3).,sqm,0.088
+2023,350,,13.1.1,1:4 (1 cement : 4 fine sand) 100,sqm,5.47
+2023,350,,13.1.2,1:6 (1 cement : 6 fine sand) 100,sqm,3.6
+2023,350,,13.2.1,1:4 (1 cement : 4 fine sand) 100,sqm,6.54
+2023,350,,13.2.2,1:6 (1 cement : 6 fine sand) 100,sqm,4.3
+2023,350,,13.3.1,1:4 (1 cement : 4 fine sand) 100,sqm,8.51
+2023,350,,13.3.2,1:6 (1 cement : 6 fine sand) 100,sqm,5.6
+2023,350,,13.4.1,1:4 (1 cement : 4 coarse sand) 100,sqm,5.47
+2023,350,,13.4.2,1:6 (1 cement : 6 coarse sand) 100,sqm,3.6
+2023,350,,13.5.1,1:4 (1 cement : 4 coarse sand) 100,sqm,6.54
+2023,350,,13.5.2,1:6 (1 cement : 6 coarse sand) 100,sqm,4.3
+2023,350,,13.6.1,1:4 (1 cement : 4 coarse sand) 100,sqm,8.51
+2023,350,,13.6.2,1:6 (1 cement : 6 coarse sand) 100,sqm,5.6
+2023,350,,13.7.1,1:3 (1 cement : 3 fine sand) 100,sqm,9.54
+2023,350,,13.7.2,1:4 (1 cement : 4 fine sand) 100,sqm,7.67
+2023,350,,13.8.1,1:3 (1 cement : 3 fine sand) 100,sqm,10.97
+2023,350,,13.8.2,1:4 (1 cement : 4 fine sand) 100,sqm,8.74
+2023,350,,13.9.1,12 mm Cement Plaster 100,sqm,9.54
+2023,350,,13.9.2,20 mm Cement Plaster 100,sqm,13.62
+2023,352,,13.16.1,1:3 (1 cement : 3 fine sand) 100,sqm,3.67
+2023,352,,13.31.1,Flush / Ruled/ Struck or weathered pointing 100,sqm,1.53
+2023,352,,13.31.2,Raised and cut pointing 100,sqm,2.04
+2023,352,,13.32.1,Flush/ Ruled/ Struck or weathered pointing 100,sqm,2.35
+2023,352,,13.33.1,Flush/ Ruled pointing 100,sqm,1.17
+2023,352,,13.33.2,Raised and cut pointing 100,sqm,2.35
+2023,354,,13.35,Pointing on stone slab ceiling with cement mortar (1:2). 100,sqm,1.02
+2023,356,,14.1,Repairs to plaster of thickness 12 mm to 20 mm in,patches,6.95
+2023,356,,14.2.1,Door chowkhats,each,0.12
+2023,356,,14.2.2,Window chowkhats,each,0.06
+2023,356,,14.2.3,Clerestory window chowkhats,each,0.03
+2023,356,,14.12,Providing and fixing 16 mm M.S. Fan clamps in,existing,0.016
+2023,356,,14.13,Regrading terracing of mud phaska to proper slope. 100,sqm,3.11
+2023,356,,14.14,Replacing sand stone slabs in roofing in cement mortar 1:4. 100,sqm,0.78
+2023,356,,14.15,Renewing wooden battens in roofs & making good the,holes,0.36
+2023,356,,14.16,Renewing wooden beams in roofs & making good the,holes,0.13
+2023,356,,14.18,Flush pointing with cement mortar 1:3 for flat tile bricks,on,0.76
+2023,358,,16.24.1,35x111x25 cm size,each,0.37
+2023,358,,16.24.2,50x152.5x25 cm size,each,0.698
+2023,358,,16.24.3,35x93.5x18 cm size,each,0.23
+2023,358,,16.42,Cement concrete (1:2:4) in pavements.,cum,3.2
+2023,358,,16.80,Dry lean cement concrete sub base.,cum,1.5
+2023,358,,16.85,"Laying old kerb stones, jointed with cement mortar (1:3). 100",metre,0.3723
+2023,358,,16.86,"P/L gang saw cut 18 mm thick, morror polished",sqm,0.09
+2023,358,,16.87,P/L gang saw cut 30 mm thick mirror polished,sqm,0.09
+2023,358,,16.88,P/L Matt finished vitrified tile of size,sqm,0.12
+2023,358,,16.89,P/L Matt finished vitrifid tile of size,sqm,0.12
+2023,358,,16.90,P/L tactile tile,sqm,0.12
+2023,358,,16.92,P/F 10x10x7.5 cm. granite stone block,sqm,1.85
+2023,360,,17.7,Fixing wash basin with C.I. brackets.,each,0.025
+2023,360,,17.9,Fixing kitchen sink with C.I. brackets.,each,0.025
+2023,360,,17.10,Fixing kitchen sink with C.I. brackets.,each,0.025
+2023,360,,17.11,Fixing kitchen sink with C.I. brackets.,each,0.025
+2023,360,,17.12,Fixing draining board with C.I. brackets.,each,0.014
+2023,360,,17.13,Fixing White vitreous china water closet squatting pan.,each,0.025
+2023,360,,17.17,Fixing a pair of white vitreous china foot rests.,each,0.025
+2023,360,,17.23,Fixing white vitreous china flat urinal basin.,each,0.01
+2023,360,,17.24,Fixing white vitreous china squatting plate urinal.,each,0.02
+2023,360,,17.25,Fixing white vitreous china wash basin.,each,0.015
+2023,362,,17.26,Fixing kitchen sink.,each,0.015
+2023,362,,17.27,Fixing kitchen sink.,each,0.015
+2023,362,,17.37,Providing and fixing M.S. holder-bat clamps.,each,0.005
+2023,362,,17.59,Providing and fixing M.S. stays and clamps.,each,0.005
+2023,364,,18.10.1,15 mm dia nominal bore 100,metre,0.05
+2023,364,,18.10.2,20 mm dia nominal bore 100,metre,0.06
+2023,364,,18.10.3,25 mm dia nominal bore 100,metre,0.07
+2023,364,,18.10.4,32 mm dia nominal bore 100,metre,0.075
+2023,366,,19.1.1,100 mm diameter 100,metre,2.17
+2023,366,,19.1.2,150 mm diameter 100,metre,3.23
+2023,366,,19.1.3,200 mm diameter 100,metre,4.33
+2023,366,,19.1.5,250 mm diameter 100,metre,5.4
+2023,366,,19.1.6,300 mm diameter 100,metre,6.47
+2023,366,,19.2.1,100 mm diameter S.W. pipe 100,metre,19.24
+2023,366,,19.2.2,150 mm diameter S.W. pipe 100,metre,23.53
+2023,366,,19.2.3,200 mm diameter S.W. pipe 100,metre,27.43
+2023,366,,19.2.5,250 mm diameter S.W. pipe 100,metre,31.72
+2023,366,,19.3.1,100 mm diameter S.W. pipe 100,metre,9.14
+2023,366,,19.3.2,150 mm diameter S.W. pipe 100,metre,14.82
+2023,366,,19.3.3,200 mm diameter S.W. pipe 100,metre,17.42
+2023,366,,19.3.4,250 mm diameter S.W. pipe 100,metre,20.28
+2023,366,,19.3.5,300 mm diameter S.W. pipe 100,metre,23.4
+2023,366,,19.4.1,100x100 mm size P type,each,0.27
+2023,366,,19.4.2,150 x 100 mm size P type.,each,0.26
+2023,366,,19.4.3,180x150 mm size P type,each,0.25
+2023,366,,19.6.1,100 mm dia. R.C.C. pipe 100,metre,0.5
+2023,366,,19.6.2,150 mm dia. R.C.C. pipe 100,metre,0.6
+2023,366,,19.6.3,250 mm dia. R.C.C. pipe 100,metre,0.9
+2023,366,,19.6.4,300 mm dia. R.C.C. pipe 100,metre,1.1
+2023,366,,19.6.5,450 mm dia. R.C.C. pipe 100,metre,2.4
+2023,366,,19.6.6,500 mm dia. R.C.C. pipe 100,metre,2.6
+2023,366,,19.6.7,600 mm dia. R.C.C. pipe 100,metre,3.2
+2023,366,,19.6.8,700 mm dia. R.C.C. pipe 100,metre,3.7
+2023,366,,19.6.9,800 mm dia. R.C.C. pipe 100,metre,4.2
+2023,366,,19.6.10,900 mm dia. R.C.C. pipe 100,metre,4.9
+2023,366,,19.6.11,1000 mm dia. R.C.C. pipe 100,metre,5.5
+2023,368,,19.6.12,1100 mm dia. R.C.C. pipe 100,metre,6.1
+2023,368,,19.6.13,1200 mm dia. R.C.C. pipe 100,metre,6.8
+2023,368,,19.7.1,Inside size 90x80 cm and 45 cm deep,each,2.92
+2023,368,,19.8.1,Size 90x80 cm,metre,1.26
+2023,368,,19.8.2,Size 120x90 cm,metre,1.52
+2023,368,,19.9.1,0.91 m deep,each,2.75
+2023,368,,19.11.1,1.68 m deep,each,5.39
+2023,368,,19.13.1,2.30 m deep,each,10.86
+2023,368,,19.19.1.2,Square shape 450mm internal dimensions,each,0.096
+2023,368,,19.19.1.3,Circular shape 450mm internal diameter,each,0.096
+2023,368,,19.19.2.1,Square shape 450mm internal dimension,each,0.128
+2023,368,,19.19.2.2,Circular shape 500mm internal diameter,each,0.096
+2023,368,,19.19.3.1,Circular shape 560 mm internal diameter,each,0.096
+2023,370,,19.19.4.1,Circular shape 560 mm internal dia,each,0.096
+2023,370,,19.21.1,For pipes 100 to 250 mm diameter,each,0.056
+2023,370,,19.21.2,For pipes 100 to 300 mm diameter,each,0.095
+2023,370,,19.21.3,For pipes 100 to 450 mm diameter,each,0.153
+2023,370,,19.22.1,100 mm dia sand cast iron drop connection,each,0.34
+2023,370,,19.22.2,150 mm dia sand cast iron drop connection,each,0.46
+2023,370,,19.23.1,For 100 mm dia. sand cast iron drop connection,metre,0.21
+2023,370,,19.23.2,For 150 mm dia. sand cast iron drop connection,metre,0.26
+2023,370,,77.5,cm in cement mortar (1:4).,each,1.66
+2023,370,,19.31.1,For 455x610 mm size,metre,0.87
+2023,370,,19.31.2,For 500x700 mm size,metre,0.95
+2023,370,,19.31.3,For 600x850 mm size,metre,1.12
+2023,370,,19.32,Making soak pit 2.5 m diameter 3.0 metre deep.,each,0.072
+2023,370,,19.34.1,100 mm dia,each,0.013
+2023,370,,19.34.2,150 mm dia,each,0.019
+2023,370,,19.35.1,450 mm dia RCC pipe 100,metre,1.2
+2023,370,,19.35.2,600 mm dia RCC pipe 100,metre,1.6
+2023,372,,19.35.3,900 mm dia RCC pipe 100,metre,2.5
+2023,372,,19.35.4,1000 mm dia RCC pipe 100,metre,2.8
+2023,372,,19.35.5,1200 mm dia RCC pipe 100,metre,3.4
+2023,372,,19.35.6,1800 mm dia RCC pipe 100,metre,4.9
+2023,372,,19.36.1,450 mm dia RCC pipe 100,metre,1.2
+2023,372,,19.36.2,600 mm dia RCC pipe 100,metre,1.6
+2023,372,,19.36.3,900 mm dia RCC pipe 100,metre,2.5
+2023,372,,19.36.4,1000 mm dia RCC pipe 100,metre,2.8
+2023,372,,19.36.5,1200 mm dia RCC pipe 100,metre,3.4
+2023,372,,19.36.6,1800 mm dia RCC pipe 100,metre,4.9
+2023,374,,20.1.1,400 mm dia piles,metre,0.414
+2023,374,,20.1.2,450 mm dia piles,metre,0.525
+2023,374,,20.1.3,500 mm dia piles,metre,0.648
+2023,374,,20.1.4,550 mm dia piles,metre,0.784
+2023,374,,20.1.5,750 mm dia piles,metre,1.456
+2023,374,,20.1.6,1000 mm dia piles,metre,2.59
+2023,374,,20.1.7,1200 mm dia piles,metre,3.729
+2023,374,,20.1.8,1500 mm dia piles,metre,5.83
+2023,374,,20.2.1,450 mm dia piles,metre,0.525
+2023,374,,20.2.2,500 mm dia piles,metre,0.648
+2023,374,,20.2.3,600 mm dia piles,metre,0.932
+2023,374,,20.2.4,750 mm dia piles,metre,1.456
+2023,374,,20.3.1,300 mm dia piles,metre,0.257
+2023,374,,20.3.2,400 mm dia piles,metre,0.488
+2023,374,,20.3.3,450 mm dia piles,metre,0.629
+2023,374,,20.3.4,550 mm dia piles,metre,0.792
+2023,374,,20.4.1,300 mm dia piles,each,0.109
+2023,374,,20.4.2,400 mm dia piles,each,0.208
+2023,374,,20.4.3,450 mm dia piles,each,0.267
+2023,374,,20.4.4,550 mm dia piles,each,0.337
+2023,378,,22.1.1,Using rough kota stone,sqm,0.335
+2023,378,,22.2.1,Using rough Kota stone,sqm,0.437
+2023,378,,22.6,P/L water proofing treatment on roofs.,sqm,0.0195
+2023,378,,22.14.1,Cement concrete 1:2:4,cum,3.2
+2023,378,,22.14.2,Cement mortar 1:3,cum,5.1
+2023,378,,22.14.3,Cement mortar 1:4,cum,3.8
+2023,380,,26.32.1,12 mm average thickness. 100,sqm,5.47
+2023,380,,26.32.2,25 mm average thickness in 2 layers. 100,sqm,11.4
+2023,380,,26.32.3,50 mm average thickness in 3 layers. 100,sqm,22.8
+2023,382,,20,mm nominal size). 100,sqm,58.6
+2023,382,,26.73.1.1,100 mm thick hollow core slab,metre,0.36
+2023,382,,26.73.1.2,120 mm thick hollow core slab,metre,0.432
+2023,382,,26.73.1.3,150 mm thick hollow core slab,metre,0.54
+2023,382,,26.73.1.4,200 mm thick hollow core slab,metre,0.672
+2023,382,,26.73.1.5,250 mm thick hollow core slab,metre,0.84
+2023,384,,26.73.1.6,300 mm thick hollow core slab,metre,1.008
+2023,384,,26.73.1.7,350 mm thick hollow core slab,metre,1.176
+2023,384,,26.73.1.8,400mm thick hollow core slab,metre,1.344
+2023,384,,26.73.2.1,100 mm thick hollow core slab,metre,0.0225
+2023,384,,26.73.2.2,120 mm thick hollow core slab,metre,0.027
+2023,384,,26.73.2.3,150 mm thick hollow core slab,metre,0.03375
+2023,384,,26.73.2.4,200 mm thick hollow core slab,metre,0.042
+2023,384,,26.73.2.5,250 mm thick hollow core slab,metre,0.0525
+2023,384,,26.73.2.6,300 mm thick hollow core slab,metre,0.063
+2023,384,,26.73.2.7,350 mm thick hollow core slab,metre,0.0735
+2023,384,,26.73.2.8,400mm thick hollow core slab,metre,0.084
+2023,384,,26.73.3.1,100 mm thick hollow core slab,metre,0.036
+2023,384,,26.73.3.2,120 mm thick hollow core slab,metre,0.0432
+2023,384,,26.73.3.3,150 mm thick hollow core slab,metre,0.054
+2023,384,,26.73.3.4,200 mm thick hollow core slab,metre,0.0672
+2023,384,,26.73.3.5,250 mm thick hollow core slab,metre,0.084
+2023,384,,26.73.3.6,300 mm thick hollow core slab,metre,0.1008
+2023,384,,26.73.3.7,350 mm thick hollow core slab,metre,0.1176
+2023,384,,26.73.3.8,400mm thick hollow core slab,metre,0.1344
+2023,384,,26.74.1,kgs),cum,3.7
+2023,384,,26.74.2,kg) instaed of M-35,cum,0.3
+2023,384,,26.74.3,kg) instaed of M-35,cum,0.55
+2023,384,,26.74.4,kg) instaed of M-35,cum,0.7
+2023,388,,16.28.1,Using bitumen emulsion,sqm,0.0195
+2023,388,,16.29.1,Using bitumen emulsion,sqm,0.0122
+2023,388,,16.30.1,On W.B.M. @ 0.75 Kg / sqm,sqm,0.0075
+2023,388,,16.30.2,On bituminous surface @ 0.50 Kg / sqm,sqm,0.005
+2023,388,,16.31.1.1,On W.B.M @ 0.4kg/sqm,sqm,0.004
+2023,388,,16.31.1.2,On bituminous surface @ 0.25kg/sqm,sqm,0.0025
+2023,388,,16.37.2,40 mm thick,sqm,0.0941
+2023,390,,16.40,P/L seal coat using 128 kg of bitumen of grade VG-10.,sqm,0.0077
+2023,390,,16.41,P/L seal coat using 98 kg of bitumen of grade VG-10.,sqm,0.0098
+2023,394,,22.8.1,Bitumen felt (hessian base)type 3 grade I,sqm,0.029
+2023,394,,22.18.1,2 mm (for corrugated roof sheets),sqm,0.0035
+2023,394,,22.19.1,3 mm thick,sqm,0.0035
+2023,394,,22.20.1,3 mm thick,sqm,0.0035

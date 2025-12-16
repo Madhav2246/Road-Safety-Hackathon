@@ -1,0 +1,167 @@
+/* ROOT */
+.results-root {
+  background: #f4f7fb;
+  min-height: 100vh;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: #1f2937;
+}
+
+/* HEADER (consistent with other pages) */
+.gov-header {
+  background: linear-gradient(90deg, #0f172a, #020617);
+  color: white;
+  padding: 16px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gov-title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.gov-subtitle {
+  display: block;
+  font-size: 12px;
+  color: #cbd5f5;
+}
+
+.gov-nav button {
+  background: #0ea5e9;
+  border: none;
+  padding: 10px 18px;
+  color: white;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* MAIN */
+.results-container {
+  padding: 60px 24px;
+  display: flex;
+  justify-content: center;
+}
+
+/* WRAPPER */
+.results-wrapper {
+  max-width: 1100px;
+  width: 100%;
+  background: white;
+  border-radius: 20px;
+  padding: 50px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.08);
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s ease;
+}
+
+.results-wrapper.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* HEADER TEXT */
+.results-header h1 {
+  font-size: 32px;
+  margin-bottom: 12px;
+}
+
+.results-header p {
+  color: #475569;
+  max-width: 900px;
+  line-height: 1.6;
+  margin-bottom: 40px;
+}
+
+/* LIST */
+.results-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ACTION */
+.results-action {
+  margin-top: 40px;
+  padding-top: 30px;
+  border-top: 1px solid #e5e7eb;
+}
+
+/* BUTTON */
+.primary-btn {
+  background: #16a34a;
+  color: white;
+  border: none;
+  padding: 16px 28px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.primary-btn.full {
+  width: 100%;
+}
+
+.primary-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* REVEAL */
+.reveal {
+  opacity: 0;
+}
+
+.reveal.active {
+  opacity: 1;
+}
+
+.results-root {
+  background: #f1f5f9;
+  min-height: 100vh;
+}
+
+.gov-header.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: linear-gradient(90deg, #020617, #0f172a);
+  padding: 14px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.results-main {
+  padding: 40px 24px;
+  display: flex;
+  justify-content: center;
+}
+
+.results-panel {
+  max-width: 1100px;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 40px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.intervention-list {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.action-bar {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: flex-end;
+}

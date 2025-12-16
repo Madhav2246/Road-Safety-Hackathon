@@ -1,0 +1,359 @@
+/* ===============================
+   PAGE BASE
+================================ */
+
+.summary-page {
+  min-height: 100vh;
+  background: #f4f7fb;
+  padding: 24px 32px 80px;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: #1f2937;
+}
+
+.page-error {
+  padding: 40px;
+  text-align: center;
+  font-size: 1.1rem;
+  color: #374151;
+}
+
+/* ===============================
+   TOP ACTION BAR
+================================ */
+
+.summary-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 28px;
+  position: sticky;
+  top: 0;
+  background: #f4f7fb;
+  padding: 16px 0;
+  z-index: 10;
+}
+
+.action-group {
+  display: flex;
+  gap: 12px;
+}
+
+.primary-btn {
+  background: #2563eb;
+  color: #ffffff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.primary-btn:hover {
+  background: #1d4ed8;
+  transform: translateY(-1px);
+}
+
+.secondary-btn {
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  color: #1f2937;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.secondary-btn:hover {
+  background: #f3f4f6;
+}
+
+/* ===============================
+   HERO / KPI SECTION
+================================ */
+
+.summary-hero {
+  background: linear-gradient(135deg, #1e40af, #2563eb);
+  color: #ffffff;
+  border-radius: 16px;
+  padding: 36px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.summary-hero h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.summary-hero p {
+  font-size: 1rem;
+  opacity: 0.9;
+  max-width: 720px;
+}
+
+.kpi-grid {
+  margin-top: 28px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.kpi-card {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(6px);
+  border-radius: 14px;
+  padding: 20px;
+  text-align: center;
+}
+
+.kpi-card span {
+  display: block;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  opacity: 0.85;
+}
+
+.kpi-card strong {
+  display: block;
+  font-size: 1.9rem;
+  margin-top: 8px;
+  font-weight: 700;
+}
+
+/* ===============================
+   INTERVENTIONS SECTION
+================================ */
+
+.interventions-section {
+  margin-top: 50px;
+}
+
+.interventions-section h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.intervention-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  gap: 24px;
+}
+
+/* ===============================
+   INTERVENTION CARD
+================================ */
+
+.intervention-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.intervention-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.12);
+}
+
+.intervention-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.intervention-header h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.cost-badge {
+  background: #e0f2fe;
+  color: #0369a1;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
+
+.intervention-text {
+  margin-top: 14px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+/* ===============================
+   COST BAR
+================================ */
+
+.cost-bar {
+  margin-top: 14px;
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.cost-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #22c55e, #16a34a);
+}
+
+/* ===============================
+   MATERIAL TABLE
+================================ */
+
+.material-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 18px;
+  font-size: 0.9rem;
+}
+
+.material-table th {
+  background: #f3f4f6;
+  padding: 10px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.material-table td {
+  padding: 10px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.material-table tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+.subtotal-row td {
+  font-weight: 700;
+  background: #eef2ff;
+}
+
+/* ===============================
+   FOOTER
+================================ */
+
+.summary-footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+/* ===============================
+   RESPONSIVE
+================================ */
+
+@media (max-width: 640px) {
+  .summary-page {
+    padding: 16px;
+  }
+
+  .intervention-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .summary-hero {
+    padding: 24px;
+  }
+}
+/* ===============================
+   PRINT MODE (PDF)
+================================ */
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #ffffff;
+  }
+
+  #summary-pdf {
+    width: 100%;
+    padding: 0;
+  }
+
+  .intervention-card {
+    page-break-inside: avoid;
+  }
+}
+/* ===============================
+   PRINT PDF SETTINGS
+================================ */
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #ffffff;
+  }
+
+  .pdf-page-break {
+    page-break-before: always;
+  }
+
+  .intervention-card,
+  .chart-card {
+    page-break-inside: avoid;
+  }
+
+  canvas {
+    max-width: 100% !important;
+  }
+}
+/* ===============================
+   PRINT VISIBILITY CONTROL
+================================ */
+
+.print-only {
+  display: none;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block;
+  }
+
+  .pdf-page-break {
+    page-break-before: always;
+  }
+
+  .intervention-card,
+  .chart-card {
+    page-break-inside: avoid;
+  }
+
+  canvas {
+    max-width: 100% !important;
+  }
+}
+@media print {
+  .chart-card {
+    height: auto !important;
+  }
+
+  svg {
+    overflow: visible !important;
+  }
+}

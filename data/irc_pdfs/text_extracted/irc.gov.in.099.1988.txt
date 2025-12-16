@@ -1,0 +1,349 @@
+IRC: 99-1988
+TENTATIVE GUIDELINES
+ON
+THEPROVISION OFSPEED
+BREAKERS FORCONTROL
+OF
+VEHICULAR SPEEDS
+ON
+MINOR ROADS
+THEINDIAN ROADS CONGRESS
+1996
+
+Digitized bytheInternet Archive
+in2014
+https://archive.org/details/govlawircy1988sp99_0
+
+IRC :99-1988
+TENTATIVE GUIDELINES
+ON
+THEPROVISION OFSPEED
+BREAKERS FORCONTROL
+OF
+VEHICULAR SPEEDS
+ON
+MINOR ROADS
+Published By
+THEINDIAN ROADS CONGRESS
+Jamnagar House, Shahjahan Road,
+NewDelhi-UO Oil
+1996
+(WusP**%*Postage)
+
+IRC :99-1988
+FirstPublished
+Reprinted
+Reprinted
+Reprinted
+Reprinted
+Reprinted
+ReprintedJanuary, 1988
+May, 1989
+January, 1996
+December, 2001
+October, 2005
+December, 2007
+March, 2011
+(TheRights ofPublication andTranslation areReserved)
+Printed atAbhinav Prints, K-37,Udyog Nagar Ind.AreaRohtak Road, Delhi- 110041
+(500 copies)
+
+IRC :99-1988
+TENTATIVE GUIDELINES ONTHEPROVISION OFSPEED BREAKERS
+FORCONTROL OFVEHICULAR SPEEDS ONMINOR ROADS
+1INTRODUCTION
+1.1.Development ofsuitable recommendations onspeed
+breakers havebeenunder theconsideration oftheTraffic Engineer-
+ingCommittee oftheIndian Roads Congress' forsome time. The
+Traffic Engineering Committee intheir meeting held atBhopal on
+the4thFebruary, 1986entrusted thedrafting oftheStandard based
+onthespot studies ofsuitable speed breakers totheUniversity of
+Roorkee. The draft prepared bythem wasconsidered bythe
+Committee intheir meeting held atHyderabad onthe17thJanu-
+ary, 1987and itwasdecided that thedraft could befinalised by
+theIRC Secretariat andMember-Secretary, Traffic Engineering
+Committee inlight ofthecomments received.
+Accordingly, thedrattwasrevised bytheTraffic Engineering
+Committee (personnel given below) intheir meeting held atNew
+Delhi on12thJune, 1987 :
+Dr.N.S. Srinivasan Convenor
+D.Sanyal Member-Secretary
+U.K. Agarwal K.Suryanarayana Rao
+K.Arunacnalam Prof. N.Ranganathan
+R.T. Atre Dr.O.S. Sahgal
+AK.Bandopadhyaya D.V. Sahni
+PS.Bawa Dr.A.C. Sarna
+A.K. Bhatiacna^a R.K. Saxena
+Dilip Bhatiachar a H.C. Sethi
+S.PBhargava H.M. Shah
+A.G. Borkar R.P.Sikka
+P.Das R.Thillainayagam
+S.B.Dcol V.VThakar
+T.Ghosh D.L.Vaidya
+Dr.A.K.Gupta Prof. Dinesh Mohan
+Jogindcr Singh P.G. Valsankar
+Dr.C.E.G Justo C.E(NH). Kerala (V.S. Iyer)
+Dr.L.R. Kadiyali Director, Transport Research,
+VP.Kamdar MOT(R CSharma)
+Dr.S.K.Khanoa TheChief, Transport ACommunication
+N.V. Merani Board, B.M.R D.A. (R.Y.Tambe)
+Narain Prakash Mathur SE.Traffic Engg.&
+K.C.Nayak Management Cell,Madras
+A.N.Nanda ThePresident. IRC&DG(RD)
+SM.Parulkar (K.K. Sarin)
+SheoNandan Prasad -Ex-ofr
+Dr.SP.Plaoiswamy TheSecretary, IRC
+DrS.P.Raghava Char (Ninan Koshi)
+V.S.Rane -Ex-offido
+Prof.M.S.V. Rao
+1
+
+IRC :99-1988
+1.2.The revised draft wasconsidered bytheSpecirications&Standards Committee intheir meeting heldonthe9thNovember,
+1987. TheCommittee authorised S/Shri J.B.Mathur, D.Sanyal
+andK.Arunaehalam tojointly modify thedraft inlight ofthe
+comments- oftheSpecifications ScStandards Committee.
+1.3.The draft asrevised wasapproved bytheExecutive
+Committee intheir meeting held inNewDelhi onthe13thNovem-
+ber, 1987. Later on,thedocument wasplaced before theCouncil
+intheir 121st meeting held atTrivandrum on6thDecember, 1987.
+TheCouncil approved thedocument subject tosome minor changes
+which have since been incorporated.
+2GENERAL
+2.1.Roads ofdifferent categories andunder different situ-
+tions aredesigned fordesignated design speeds atwhich vehicles
+cantravel withconvenience and safety. However, atcertain loc-
+ations, such asapproaches tomanned andunmanned level cros-
+sings, sharp curves, congested/accident-prone locations, residential
+streets, etc.,control ofspeed maybecome necessary topromote
+orderly traffic movement andimproved safety.
+2.2.Anumber ofengineering measures areavailable tocon-
+trol vehicular speed. Some ofthese areposting ofmandatory
+speed limit signs, useofflashing beacons toalert 'drivers, road
+markings ofvarious types, etc.
+2.3..Yet, there may becases, particularly onsecondary/
+tertiary roads andonresidential streets inurban areas, Where cer-
+tain- physical constraints maybecome necessary foreffecting con-
+trolonvehicular speeds. Inthisregard, three types ofdevices,
+namely, speed breakers, rumble strips andwidth restrictions have
+been used successfully. Choice among these willdepend onlocal
+factors such asthetypeofarea traversed, thetypeandvolume of
+traffic, theextent ofspeed reduction desired, andother local fac-
+tors. However, speed breakers, inparticular, aremeant mainly
+forresidential areas, minor roads, andsimilar situations. Their
+useonmajor inter-city roads outside urban areas isnotconsidered
+agood engineering practice, andtheIndian Roads Congress does
+notfavour it.
+2.4. Speed breakers, where permitted tobeinstalled, provi-
+devisual, audible and tactile stimuli which. alert drivers andcause
+them toslow down. These canhave different heights, lengths,
+spacing*, signs, etc. Infact,noparticular design issuitable foral!
+2
+
+IRC :991988
+thetypes ofvehicles using theroad. Forexample, aspeed breaker
+designed fortrucks canbedangerous tomotor cyclists andone
+designed formotor cyclists willbeineffective fortrucks. Thedes-
+ignrecommended herein isacompromise design tosuitaverage
+Indian road traffic conditions and isbased onfield investigations
+andresearch.
+2.5.Speed breakers arenot.intended assubstitute forpro-
+permandatory, warning orinformatory signs butaremeant only
+todraw attention ofdrivers toapossible hazard ahead.
+2.6. These recommendations may require revision inthe
+lightoffuture experience anddevelopment inthefield. Towards
+thisend, itissuggested that arecord ofspeed andaccident condi-
+tions, before andafter theinstallation ofspeed breakers, should be
+kept.
+3.DEFINITION
+Aspeed breaker isahump surface across theroadway hav-
+ingarounded, shape with width greater than thewheel baseof
+most ofthevehicles using theroad. When there isdecreased vari-
+ation insensory stimuli and atlocations where speed controls are
+desired, aspeed breaker acts asastrong stimuli toarouse
+reaction inthe brain. Since thedriver reaction times arcfas-
+terinresponse toaudible and tactile stimuli than tovisual stimuli,
+adriver subconsciously reduces hisspeed. Anideally designed
+hump should satisfy thefollowing requirements :
+(i)There should benodamage tovehicles norexcessive discomfort to
+thedrivers andpassengers when passing atthepreferred crossing
+speed.
+(ii)Thehump should not give risetoexcessive noise orcause harmful
+vibrations iotheadjoining buildings oraffect theother lesidents of
+thearea.
+(iii)Above thedesign speed, adriver should suffer increasing level ofdis-
+comfort (butwithout losing directional control andwithout any vehi-
+cledamage) depending ontheextent through which design speed is
+exceeded.
+4.SCOPE
+4.1. Warrants
+Useofspeed breakers isjustified primarily under thefollow-
+ingthree circumstances :
+(1)T-intersections ofminor roads with rural trunk highways, characteri-
+sedbyrelatively low traffic volumes ontheminor road butvery high
+average operating speed andpoor sight distances. Such locations
+have ahighrecord offatal accidents andassuch asperd breaker on
+theminor road isrecommended;
+
+IRC :99-1988
+(2)Intersections ofminor roads withmajor roads, andmid-block sect-
+ions inurban arras where itisdesirable tobrinadown thesoeeds;
+and
+(3)Selected local streets inresidential areas, school, college oruniver-
+sity,campuses, hospitals, etc. Also inareas where traffic isohserved
+totravel faster than theregulated orsafesoeed inthearea.
+4.2. Other places *here thesemavbettsed include :
+(1)Any situation where there isaconsistent record ofaccidents pri
+marily attributed tothespeed ofvehicles e.g.when hazardous sec-
+tions follow alongtangent approach;
+(2)Approaches totemporary diversions;
+(3)Approaches toweak ornarrow bridges andculverts requiring speed
+restriction lorsafety;
+(4)Ontheminor arms ofuncontrolled junctions r?nd atrailway level
+crossings;
+(5)Sharp curves withpoor sight distances; and
+(6)Places ofribbon development, where road passes through built-up
+areasandvehicles travelling athighspeeds areasource ofimminent
+danger topedestrians.
+5.DESIGN OFSPEED BREAKERS
+5.1. Speed breakers areformed basically byproviding a
+rounded (of17metre radius) hump of3.7metre width and 0.10
+metre height forthepreferred advisory crossing speed of25km/h
+forgeneral traffic, Fig. 1.Trucks and buses having larger
+wheel bases may feel greater inconvenience onpassage atsuch
+humps. To facilitate appreciable andcomfortable passage for
+larger andheavier vehicles (where their proportion isquite high)
+humps may bemodified with 1.5metre longramps (1 :20)ateach
+edge. Thisdesign willalsoenable these vehicles topass thehump
+atabout 25km/h, Fig. 2.
+5.2. Incertain locations speed breakers may have tobe
+repeated over asection tokeep speeds lowthroughout. More
+humps may beconstructed atregular intervals depending on
+desired speed and acceleration/deceleration characteristics of
+vehicles. The distance between onehump toanother canvary
+from 100to120metres centre tocentre shown inFigs. 3,4and 5.
+6.PLACEMENT OPSPEED BREAKERS
+6.1.The pattern ofplacement ofspeed breakers depends
+upon thelocation and thetypeoftreatment used. Some ofthe
+suggested locations have already been indicated inClause 4.AtTintersections speed breakers should beinstalled onminor roads
+4
+
+/IRC :99-1988
+Ta"
+5&
+§1oo
+at
+<a6
+Eu
+g
+it
+rl
+£
+•ag
+a
+4>
+!8€O
+r>
+K
+-Io
+Z
+z
+bJ>
+<
+id1<
+JO
+Zo
+U
+ui
+(ft
+o.0
+
+IRC :
+
+me t%Mm
+Fig. 4.Speed breakere atT-intcrwcUon orrailway croutog
+/
+
+IRC :99-1988
+
+IRC :99-1988
+orperpendicular armsabout 10metres awayfrom theinner edges
+ofmajor roads. Proper signboards andmarkings arerequired
+tobeprovided atsuch locations, Figs. 4and 6.Onsharp
+curves, available sight distances guide theplacement andnumber
+ofspeed breakers, Fig. 5.Forother situations theEngineer-in-
+Charge should usehisingenuity andjudgement.
+6.2.Tocheck thetendencies ofdrivers toavoid speed
+breakers and using shoulders, itisrecommended thatthespeed
+breakers should beextended through theentire width ofshoulder
+supported onaproper base,
+6.3. Forundivided carriageways speed breakers should
+invariably beextended over theentire carriageway width includ-
+ingshoulders.
+6.4.Onbridges speed breakers should notbeprovided.
+However, where frequent accidents have been reported orthe
+bridges areoncurves orthey arenarrow, either approach must
+havetwospeed breakers each.
+7.SPECIFICATION FORSPEED BREAKERS
+7.1. Speed breakers arelaidbyfirstmarking thelocation
+ofhump onthepavement andmarking indents inthisarea for
+proper bonding. Surface isthen cleared ofalldustandloose
+particles and atack coat applied. Forms ofrequisite heights,
+shape andwidth arethen placed, and hotpremixed bituminous
+material ispoured totherequired depth andshape. Forms are
+then lifted andthesurface finished torequired shape, andedges
+rounded bytrowel. Thepremixed material should bewellcom-
+pacted before opening totraffic. Allowance should bemade
+forcompaction, and irregularities- should becorrected using
+bituminous materials having fineaggregate orbyscrapping, as
+necessary. Thematerial isthenallowed tocure before opening
+totraffic.
+7.2.Arrangements forproper drainage ofthespeed breakers
+must bemade toprevent formation ofponds andpuddles.
+8.SIGNPOSTING ANDMARKING
+8.1. Drivers Should bewarned ofthepresence ofspeed
+breakers byposting suitable advance warning signs. Thewarn-
+ingsigns, Fig. 6should beofthedesign'HUMP ORROUGH
+ROAD' detailed inIRC :67-1977 'Code ofPractice forRoad
+9
+
+IRC :99-1988
+SIGNDETAILS :
+Lateral Placement Left
+0.60moakerbed roads
+2.3ragounkerbed roads
+Mounting Height
+2.0monkerbed roads
+1.5monjnkerbed roads
+Use reflective paint orstrip
+SizeofA60cmor90cm(standard)
+Red stripwidth 4.5cmor7,0cm
+Post (8cmx8cmx08cm)
+T—Iion tobspaintedwhmmdbtaek iaalternate 25cmbands
+Pig. 6.Recommended humpmtmm signwith definition plate
+10
+
+IRC :99-1986
+Signs*. Thesignshould have adefinition plate with thewords
+•SPEED BREAKER' inscribed thereon andshould belocated
+40minadvance ofthe firstspeed breaker. Location ofthis sign
+isindicated intheillustrious oftypical cases contained inFigs.
+3,4and 5,
+8.2.Speed breakers should bspainted with alternate black
+and white bands asshewn inFig, 3togive additional visual
+warning. Forbetter night visibility, itisdesirable that themark-
+ingsareinluminous paint/luminous strips. Embedded cat-eyes
+canalsobeused toenhance night visibility,
+•9MAINTENANCE
+Care should beexercised torepair thehump atregular inter-
+valsandalso torem^"c thedustormud collected oneither sideof
+thehump. Repainting ormarkings onthehump isthemost
+important siaiinten&n': tivity, asthisprovides anessential visual
+warning tothedrives.
+11
+
+
+
+
+
+

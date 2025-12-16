@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Archives
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
